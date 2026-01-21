@@ -1,0 +1,4 @@
+- Origen: Lore Kirk (Aitor)
+- Viejo elfo
+- Instruyó a [[Kirk (Aitor)]] en la arquería mágica
+- Amigo de [[Kirk (Aitor)]]

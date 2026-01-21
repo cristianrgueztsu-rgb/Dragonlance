@@ -1,0 +1,4 @@
+- Origen: Lore Anima (Aday)
+- Vigila y protege a [Lilly](obsidian://open?vault=Obsidian%20Vault&file=Dragonlance%2FKRYNN%2FShadowfell%2FSeres%2FLilly%20La%20So%C3%B1adora)
+- Ser de poco poder
+- Tiene un pacto con Anima

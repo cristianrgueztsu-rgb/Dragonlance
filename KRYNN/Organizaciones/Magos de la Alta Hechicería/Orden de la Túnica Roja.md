@@ -1,0 +1,1 @@
+- Inspirados por la diosa neutral [Lunitari](obsidian://open?vault=Obsidian%20Vault&file=Dragonlance%2FKRYNN%2FDioses%2FDioses%20neutrales%2FLunitari); buscan el equilibrio entre el bien y el mal, usando sus dones para el enriquecimiento personal responsable y la fidelidad a su orden.

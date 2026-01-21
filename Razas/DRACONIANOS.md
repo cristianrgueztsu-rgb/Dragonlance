@@ -1,0 +1,4 @@
+- Son el arma secreta del Ejército del Dragón, monstruosidades de aspecto dragontino nacidas de la magia impía de la Reina de los Dragones.
+- Son fanáticos devotos de Takhisis y buscan la conquista del mundo.
+- No tienen metas ni ambiciones propias; son manifestaciones de la sed de conquista de su diosa.
+- Cumplen la voluntad de la Reina de los Dragones con eficacia letal.

@@ -1,0 +1,3 @@
+- Torre construida antes de [Cataclismo](obsidian://open?vault=Obsidian%20Vault&file=Dragonlance%2FKRYNN%2FHistoria%2F2.%20El%20Cataclismo) por los [Magos de la Alta Hechicería](obsidian://open?vault=Obsidian%20Vault&file=Dragonlance%2FKRYNN%2FOrganizaciones%2FMagos%20de%20la%20Alta%20Hechicer%C3%ADa%2FHistoria)
+- Aquí los aprendices de magos ponen a prueba su magia.
+- Muchos espacios extra dimensionales de su interior permanecen activos, aunque solo se pueed acceder a ellos durante la Noche del Ojo.

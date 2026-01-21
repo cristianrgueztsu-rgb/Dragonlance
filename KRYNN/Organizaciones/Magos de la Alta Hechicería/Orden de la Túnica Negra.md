@@ -1,0 +1,1 @@
+- Siguen al dios del mal [Nuitari](obsidian://open?vault=Obsidian%20Vault&file=Dragonlance%2FKRYNN%2FDioses%2FDioses%20del%20mal%2FNuitari); priorizan sus propias ambiciones, seguidas por las metas de su orden y el bienestar del Conclave.

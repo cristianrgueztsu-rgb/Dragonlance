@@ -1,0 +1,6 @@
+- Es la Maestre Superior de Dragones que lidera un contingente masivo del Ejército del Dragón Rojo.
+- Busca conquistar [Kalaman](obsidian://open?vault=Obsidian%20Vault&file=Dragonlance%2FCiudades%2FKALAMAN) bajo las órdenes del Señor de los Dragones Verminaard.
+- Ha ordenado al mago Lohezet buscar una gran arma en las ruinas de los Páramos del Norte.
+- Cuenta con comandantes subordinados como Belephaion y el as de la aviación conocido como Ruina Roja.
+- [Lord Soth](obsidian://open?vault=Obsidian%20Vault&file=Dragonlance%2FPersonajes%2FLORD%20SOTH), el caballero de la muerte, coopera con ella por orden de la Reina de los Dragones.
+- Es la villana principal de la aventura, destacando por su devoción fanática, destreza táctica y su distintivo ojo carmesí.

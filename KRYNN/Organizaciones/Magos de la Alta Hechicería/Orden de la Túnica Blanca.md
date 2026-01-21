@@ -1,0 +1,1 @@
+- Dedicados al dios del bien [Solinari](obsidian://open?vault=Obsidian%20Vault&file=Dragonlance%2FKRYNN%2FDioses%2FDioses%20del%20bien%2FSolinari); usan la magia para mejorar el mundo y enfrentan decisiones difíciles sobre cuándo intervenir por el bien mayor.

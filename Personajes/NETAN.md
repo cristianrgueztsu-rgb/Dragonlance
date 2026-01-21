@@ -1,0 +1,4 @@
+- Origen: Lore Kirk (Aitor)
+- Caballero de Solamnia
+- Acusó a [[Kirk (Aitor)]]  de haber asesinado a otro caballero.
+- Años después se ha destapado que Netan fue el verdadero culpable del asesinato
