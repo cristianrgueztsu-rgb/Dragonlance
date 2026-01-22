@@ -2,3 +2,5 @@
 - Tienen como patrón al dios Habbakuk.
 - Se centran en los ideales de lealtad y obediencia.
 - Tienen el deber de ayudar a cualquier caballero que lo necesite y a los reinos incluidos en la "Lista de Lealtad" (aliados oficiales).
+
+![[Pasted image 20260122161207.png]]

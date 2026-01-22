@@ -1,5 +1,5 @@
-- Origen: Lore  [[Tridin Yunque Recio (Pablo)]]
+- Origen: Lore [[Tridin Yunque Recio (Pablo)]]
 - Enano de las colinas el cual solía mercadear con los del pueblo de [[Tridin Yunque Recio (Pablo)]] . 
 - Empático
 - Se convirtió en mejor amigo de [[Tridin Yunque Recio (Pablo)]] , dándole consejos y enseñándole como vivían los enanos de las colinas. También le adiestro en el uso del hacha a dos manos. 
-- Sin embargo, [Gimnur](obsidian://open?vault=Obsidian%20Vault&file=Dragonlance%2FPersonajes%2FGIMNUR) dejó de visitar las Montañas Jotens.
+- Sin embargo, [[Gimnur]] dejó de visitar las Montañas Jotens.

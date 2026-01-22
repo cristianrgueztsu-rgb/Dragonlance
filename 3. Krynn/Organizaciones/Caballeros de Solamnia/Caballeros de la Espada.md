@@ -1,3 +1,5 @@
 - Se dedican al honor heroico, el coraje y la reverencia a los dioses verdaderos, siguiendo las virtudes de Kiri-Jolith (dios de la guerra justa).
 - Se comprometen a defender a los indefensos sin importar el sufrimiento personal.
 - Los aspirantes suelen realizar una búsqueda o misión heroica para demostrar su valía antes de unirse.
+
+![[Pasted image 20260122161218.png]]

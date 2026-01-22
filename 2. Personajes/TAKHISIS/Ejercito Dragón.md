@@ -13,8 +13,8 @@
 
 ### **Divisiones de los Ejércitos**
 
-- **Ejército del Dragón Rojo**: Es la fuerza más grande y poderosa, comandada por el fanático Verminaard.
-	- Verminaard ha delegado el control de muchas tropas a la Maestre Superior [Kansaldi Ojos de Fuego](obsidian://open?vault=Obsidian%20Vault&file=Dragonlance%2FPersonajes%2FKANSALDI%20OJOS%20DE%20FUEGO) para encabezar un ataque contra Solamnia.
+- **Ejército del Dragón Rojo**: Es la fuerza más grande y poderosa, comandada por el fanático [[Verminaard]].
+	- Verminaard ha delegado el control de muchas tropas a la Maestre Superior [[Kansaldi Ojos De Fuego]] para encabezar un ataque contra Solamnia.
 
 - **Ejército del Dragón Azul**: Comandado por la ambiciosa Kitiara Uth Matar, es el segundo en poder y se prepara para unirse a la invasión de Solamnia.
 - **Ejército del Dragón Verde**: Recientemente bajo el mando de Salah-Khan, un líder Khur que unificó a los nómadas de la región bajo el dominio del ejército.

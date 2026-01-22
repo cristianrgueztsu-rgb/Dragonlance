@@ -1,5 +1,5 @@
 - Maestro de Anima(aday)
 - Ex-caballero de Solamnia
-- Devoto de [Lilly](obsidian://open?vault=Obsidian%20Vault&file=Dragonlance%2FKRYNN%2FShadowfell%2FSeres%2FLilly%20La%20So%C3%B1adora)
+- Devoto de [[Lilly La Soñadora]]
 	- Le reza por miedo a lo que pueda ocurrir si despierta
 - Buena persona, ayudaba a los demás.
