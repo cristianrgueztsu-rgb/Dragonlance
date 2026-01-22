@@ -1,18 +1,19 @@
-- Presentar el mapa, el mundo de krynn, donde está [Vogler](obsidian://open?vault=Obsidian%20Vault&file=Dragonlance%2FKRYNN%2FLugares%2FPueblos%2FVOGLER) y donde les han mandado a reunir (En [Kalaman](obsidian://open?vault=Obsidian%20Vault&file=Dragonlance%2FCiudades%2FKALAMAN))
+- Presentar el mapa, el mundo de Krynn, donde está [Vogler](obsidian://open?vault=Obsidian%20Vault&file=Dragonlance%2FKRYNN%2FLugares%2FPueblos%2FVOGLER) y donde les han mandado a reunir (En [Kalaman](obsidian://open?vault=Obsidian%20Vault&file=Dragonlance%2FCiudades%2FKALAMAN))
 - Taberna Palo Borracho, ahí espera [Cudgel](obsidian://open?vault=Obsidian%20Vault&file=Dragonlance%2FPersonajes%2FCUDGEL)
 - Cudgel habla con Ainhoa para hacerle saber que sabe que tiene que hacer la prueba de la torre de la Púa y que hará un pequeño desvío para pasar por ahí
 - Comienza el viaje hacia [Vogler](obsidian://open?vault=Obsidian%20Vault&file=Dragonlance%2FKRYNN%2FLugares%2FPueblos%2FVOGLER)
 
 ### **Preludio 1: Broken silence**
 
+- Contexto, todos habéis estado teniendo visiones inexplicables en momentos aleatorios desde hace unos meses y ninguno sabe que puede ser.
 - Cuando llega la noche y se duermen, tienen visión en común:  TR44/1 Están en el claro de un bosque…
 	- Ainhoa, [Lunitari](obsidian://open?vault=Obsidian%20Vault&file=Dragonlance%2FKRYNN%2FDioses%2FDioses%20neutrales%2FLunitari): Luna Roja intensa, todo se ve rojizo, parece que hay ilusiones medio borrosas, ves soldados muertos a tu alrededor
 	- Miguel
-	- Pablo
-	- Anima (Aday), [Lilly](obsidian://open?vault=Obsidian%20Vault&file=Dragonlance%2FKRYNN%2FShadowfell%2FSeres%2FLilly%20La%20So%C3%B1adora): Todo está muy tranquilo, ves soldados profundamente dormidos
-	- Aitor
+	- Pablo, Tridin, [[Chislev]], 
+	- Anima (Aday), [Lilly](obsidian://open?vault=Obsidian%20Vault&file=Dragonlance%2FKRYNN%2FShadowfell%2FSeres%2FLilly%20La%20So%C3%B1adora): Todo se ve en blanco y negro, ves soldados profundamente dormidos
+	- Aitor, Kirk, [[Zivilyn]], Rodeado de arboles, no se mueve ninguna hoja, soldados muertos
 
-- Despiertan, objetos robados, rastro hacia el centro del bosque, desp de 5 min, encuentran sus pertenencias
+- Despiertan, objetos robados, rastro hacia el centro del bosque, después de 5 min, encuentran sus pertenencias
 - TR45/1 Templo viejo, árbol aguantando la estructura, oyen voces tranquilizadoras pidiendo que entren y TR45/2
 - Dentro hay una sala con estatuas de todos los dioses, están baratijas. Cuando tocan, les hablan y les piden que sean sus heraldos, les dan un tótem de su símbolo.(PC pueden hablar con ellos)
 - Fin, al salir, la entrada al templo desaparece. [Cudgel](obsidian://open?vault=Obsidian%20Vault&file=Dragonlance%2FPersonajes%2FCUDGEL) no se ha enterado de nada.
