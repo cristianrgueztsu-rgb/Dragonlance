@@ -1,0 +1,4 @@
+- Raza: Semi-elfo
+- Clase: Hechicera
+- Alineamiento: Caotico Bueno
+- Dios: [[Lunitari]]

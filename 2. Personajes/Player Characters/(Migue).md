@@ -1,0 +1,4 @@
+- Raza: Tiefling
+- Clase: Bardo
+- Alineamiento: Chaotic Bueno
+- Dios: [[Gilean]]
