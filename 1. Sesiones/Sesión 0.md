@@ -6,11 +6,11 @@
 ### **Preludio 1: Broken silence**
 https://5e.tools/adventure.html#dsotdq,2,broken%20silence,0
 - Cuando llega la noche y se duermen, tienen visión en común:  TR44/1 Están en el claro de un bosque…
-	- Ainhoa, [[Lunitari]]: Luna Roja intensa, todo se ve rojizo, parece que hay ilusiones medio borrosas, ves soldados muertos a tu alrededor
-	- Miguel
-	- Pablo, Tridin, [[Chislev]], 
-	- Anima (Aday), [[Lilly La Soñadora]]: Todo se ve en blanco y negro, ves soldados profundamente dormidos
-	- Aitor, Kirk, [[Zivilyn]], Rodeado de arboles, no se mueve ninguna hoja, soldados muertos
+	- Rumi (Ainhoa), [[Lunitari]]: Luna Roja intensa, todo se ve rojizo, parece que los arboles son translucidos, puedes ver a traves de ellos incluso diria que podrias atravesarlos, ves soldados muertos a tu alrededor
+	- Elodin (Miguel), [[Gilean]]: Está en un claro, alrededor hay muchos libros viejos, rotos, quemados, hay soldados
+	- Tridin (Pablo) [[Chislev]]:  Ves como las hojas de los arboles cercanos se caen... y de repente nacen hojas nuevas, verdes, llenas de vida que seguidamente se vuelven marrones, se secan y caen al suelo, el bucle se repite, hay soldados...
+	- Anima (Aday), [[Lilly La Soñadora]]: Todo se ve en blanco y negro, ves soldados profundamente dormidos...
+	- Kirk (Aitor), [[Zivilyn]], No se mueve ninguna hoja, no hay viento, todo está muy tranquilo,%%  %% soldados muertos
 
 - Despiertan, objetos robados, rastro hacia el centro del bosque, después de 5 min, encuentran sus pertenencias
 - TR45/1 Templo viejo, árbol aguantando la estructura, oyen voces tranquilizadoras pidiendo que entren y TR45/2
