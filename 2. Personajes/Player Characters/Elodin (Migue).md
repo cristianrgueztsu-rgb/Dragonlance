@@ -7,6 +7,12 @@
 Pjs. relacionados:
 - [[Kimber]]
 - [[Astrin]]
+- [[Ispin Escudo Verde]]
+
+Relacion con Ispin:
+Durante uno de sus viajes conocieron a Ispin. él no sabia nada de las estafas del grupo, se pensaba que eran un grupo itinerante que se dedicaba a hacer espectaculos para ganarse la vida.
+
+Ispin les acompañó un tiempo viajando con ellos de pueblo en pueblo, ajeno a la verdadera naturaleza de su equipo. Durante este viaje Elodin encontró en Ispin una figura paterna y se hicieron grandes amigos.
 
 Lore:
 Nadie recuerda cuándo empezó la banda, pero todos recuerdan cómo terminó.
