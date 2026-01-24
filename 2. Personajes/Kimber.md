@@ -1,0 +1,5 @@
+- Origen: Lore [[Elodin (Migue)]]
+- Lider de la banda de estafadores.
+- Sabía cuándo irse antes de que llegaran los guardias
+- Kimber planeaba
+- Murió primero, defendiendo la salida como siempre había prometido

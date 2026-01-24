@@ -1,3 +1,4 @@
+- Explicar la inspiración antes de empezar
 - Presentar el mapa, el mundo de Krynn, donde está [[Garro Sonrisa de Hierro]] y donde les han mandado a reunir (En [[Kalaman]])
 - Taberna Palo Borracho, ahí espera [[Garro Sonrisa de Hierro]] -> "me llamo ridomir, pero todos me llaman garrote"
 - [[Garro Sonrisa de Hierro]] habla con Ainhoa para hacerle saber que sabe que tiene que hacer la prueba de la torre de la Púa y que hará un pequeño desvío para pasar por ahí
