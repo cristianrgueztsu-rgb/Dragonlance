@@ -1,9 +1,8 @@
 - Explicar la inspiración antes de empezar
 - Explicar que en dyd durante una pelea, no se puede targetear una parte especifica del cuerpo. Si es durante el rol, fuera de combate, si se podria.
 - Hablar sobre la muerte y que es posible que los pjs mueran al no tener healers.
-- Presentar el mapa, el mundo de Krynn, donde está [[Garro Sonrisa de Hierro]] y donde les han mandado a reunir (En [[Kalaman]])
+- Presentar el mapa, el mundo de Krynn, donde está [[Garro Sonrisa de Hierro]] y donde les han mandado a reunir (En [[Kalaman]] en Taberna Palo Borracho)
 - Taberna Palo Borracho, ahí espera [[Garro Sonrisa de Hierro]] -> "me llamo ridomir, pero todos me llaman garrote"
-- [[Garro Sonrisa de Hierro]] habla con Ainhoa para hacerle saber que sabe que tiene que hacer la prueba de la torre de la Púa y que hará un pequeño desvío para pasar por ahí
 - Comienza el viaje hacia [[Garro Sonrisa de Hierro]]
 
 ### **Preludio 1: Broken silence**
@@ -13,24 +12,25 @@ https://5e.tools/adventure.html#dsotdq,2,broken%20silence,0
 	- Elodin (Miguel), [[Gilean]]: Está en un claro, alrededor hay muchos libros viejos, rotos, quemados, hay soldados
 	- Tridin (Pablo) [[Chislev]]:  Ves como las hojas de los arboles cercanos se caen... y de repente nacen hojas nuevas, verdes, llenas de vida que seguidamente se vuelven marrones, se secan y caen al suelo, el bucle se repite, hay soldados...
 	- Anima (Aday), [[Lilly La Soñadora]]: Todo se ve en blanco y negro, ves soldados profundamente dormidos...
-	- Kirk (Aitor), [[Zivilyn]], No se mueve ninguna hoja, no hay viento, todo está muy tranquilo,%%  %% soldados muertos
+	- Kirk (Aitor), [[Zivilyn]], No se mueve ninguna hoja, no hay viento, todo está muy tranquilo, soldados muertos
 
-- Despiertan, objetos robados, rastro hacia el centro del bosque, después de 5 min, encuentran sus pertenencias
+- Despiertan, objetos robados, rastro hacia el centro del bosque, después de 5 min, encuentran sus pertenencias. Encuentran el amuleto con el simbolo de su dios, en cuanto lo tocan, un a fuente de energia despeja los alrededores, parecido a sus visiones, los totems desaparecen y se descubre un templo:
 - TR45/1 Templo viejo, árbol aguantando la estructura, oyen voces tranquilizadoras pidiendo que entren y TR45/2
-- Dentro hay una sala con estatuas de todos los dioses, están baratijas. Cuando tocan, les hablan y les piden que sean sus heraldos, les dan un tótem de su símbolo.(PC pueden hablar con ellos)
+- Dentro hay una sala con estatuas de todos los dioses, están baratijas. Cuando entan, las estatuas de sus dioses, emanan luz y cuando se acercan esta luz toma forma y refleja como se veia la estatua en el pasado. Tambien aparece su amuleto.
+- Cuando las tocan, les hablan y les piden que sean sus heraldos, les dan un tótem de su símbolo.(PC pueden hablar con ellos)
 - Fin, al salir, la entrada al templo desaparece. [[Garro Sonrisa de Hierro]] no se ha enterado de nada.
 
 ### Preludio 2: Eye in the sky
 https://5e.tools/adventure.html#dsotdq,2,eye%20in%20the%20sky,0
-- En medio del camino a Vogler se encuentran con la torre Púa, TR46/1
+- En medio del camino a Vogler se encuentran con la torre [[Púa]], TR46/1
 - Al entrar a la torre leer 
-	- "El arco se abre a un gran patio interior rectangular iluminado por candelabros llameantes y adornado con grandes tapices que representan las tres lunas de Krynn. Varias puertas rodean la estancia. La luz de las lunas cae en cascada a través de amplios ventanales situados en lo alto. En el centro de la habitación se encuentra una mujer de aspecto sereno, con el pelo largo y gris y túnicas rojas. Ella asiente con la cabeza mientras entras."
+	- "El arco se abre a un gran patio interior rectangular iluminado por candelabros y adornado con grandes tapices que representan las tres lunas de Krynn. Varias puertas rodean la estancia. La luz de las lunas cae en cascada a través de los ventanales situados a lo alto. En el centro de la habitación se encuentra una mujer de aspecto sereno, con el pelo largo y gris y con una túnica roja. Ella asiente con la cabeza mientras entras."
 - [[Rovina]] es una maga de capa roja encargada de dar la bienvenida a todo el mundo. Les introduce al lugar y explica lo que está ocurriendo.
 - [[Rovina]]  los lleva a una puerta y les cuenta las reglas Pag 47 "Rules of the trial"
 	- Se permite llevar a un acompañante si el jugador quiere
 - En cuanto entra a la puerta, leer TR47/1
-- NO DECIR QUE ES UN LABERINTO INVISIBLE
-- Manejar el resto con la pág. 47
+- DM: NO DECIR QUE ES UN LABERINTO INVISIBLE
+- Manejar el resto con la pág. 47 (Hall of sight)
 - Una vez salen, los recibe [[Rovina]], felicita y le da a ainhoa:
 	- Un libro de hechizos decorado con el símbolo de la organización de los magos(enseñar el libro pag46). Este libro es para que haga con el lo que quiera, escribir descubrimientos, diario, lo que sea
 	- Un pergamino ornamentado. Esto será para el siguiente mago que que liderará la siguiente prueba. Un mago de túnica negra llamado [[Wyhan]] que reside en la ciudad de Kalaman. (Énfasis en NO DEBES ABRIR EL PERGAMINO; ES PARA WYHAN SOLAMENTE)
