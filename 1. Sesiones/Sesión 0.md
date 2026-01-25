@@ -84,6 +84,33 @@ https://5e.tools/adventure.html#dsotdq,3,arriving%20in%20vogler
 - Enviar por whats el mapa del pueblo
 - Dejarles explorar, (DM NOTE: el pueblo se tiene que sentir muy cercano, la gente tiene que ser muy amable, para que su destrucción duela más)
 
+
+
+
+
+
+Son las 12 del mediodia
+- Ainhoa se quedó en el puente haciendo apuestas de dragones para ganar dinero(ya lo ganó) (quemó a migue, becklin hablar´a muy serio con ella)
+- aday perdió a un niño en su ruta turistica y se va a bauscarlos, la niña perdida era suli. El señor que le dio la mision se llama Regi.
+- Aitor se encontró con beef, algo de beef y se queda patrullando la ciudad
+- Migue robó a la alcalde porque se quedó desnudo haciendose pasar por ministro de tierra. Ainhoa le tiró un rayo y le dejó asi, se quejó a la alcaldesa sobre ainhoa y le dio dinero pa que se compre ropa
+- Pablo compró poti y fue al puerto a jugar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------Terminaron aqui ----
 - Una vez llegada la noche, comienza la despedida en la taberna cangrejo de laton
 - Se encuentran con [[Becklin Uth Viharin]], les reconoce por las historias de [[Ispin Escudo Verde]]
 	- Les da el pesame
@@ -101,3 +128,7 @@ https://5e.tools/adventure.html#dsotdq,3,arriving%20in%20vogler
 
 
 - Desp de que el bote desaparezca, Becklin invita a todo el mundo al cangrejo de laton para contar historias
+
+
+
+

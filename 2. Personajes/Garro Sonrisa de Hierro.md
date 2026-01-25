@@ -2,6 +2,7 @@
 - Nombre Real: Ridomir Sonrisa de Hierro 
 - "Garro" de Garrote
 - Es una enana de las colinas proveniente de Kayolin
+- 80 años
 - Amigo de aventuras de [[Ispin Escudo Verde]], eran vecinos en [[Vogler]]
 - **Intereses y Gustos:** Es una experta jugadora de cartas y siente un gran afecto por Vogler, especialmente por sus empanadas de pescado (las cuales considera las mejores de Solamnia).
 

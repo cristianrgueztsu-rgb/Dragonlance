@@ -1,5 +1,7 @@
 - Chico joven
 - Trabaja cerca de Vogler un una granja
+- Pablo le da 10 de oro que le habian prometido los guerreros
+- Ainhoa le promueve a lunitari
 
 Improvisación:
 - ¿Qué quiere? 
