@@ -1,0 +1,11 @@
+- Neutral Evil
+- Humano noble
+- Cobarde, molesto, antagonista
+- **Perfil y Carácter:** Es un noble humano impulsivo y vanidoso que valora excesivamente su apariencia y habilidades físicas, pero es más conocido por su arrogancia, mezquindad y mal temperamento.
+- **Relación Familiar:** No le importa el linaje, pero obedece a su padre por hábito y porque depende totalmente de su riqueza. Odia que lo llamen "el Joven".
+- **Pasado Violento:** Huyó a Vogler con su padre tras asesinar al hijo de un líder local en un duelo en Estwilde; lejos de arrepentirse, se siente orgulloso de ese acto.
+- **Rasgos de Personalidad:**
+    - **Rasgo:** Se considera superior a los demás en linaje, apariencia y habilidad.
+    - **Ideal:** Quiere obligar al mundo a reconocer su supuesta grandeza.
+    - **Vínculo:** Siente que ha perdido mucho tiempo y que merece reclamar lo que le corresponde por derecho.
+    - **Defecto:** Si no consigue lo que quiere mediante su carisma o aspecto, está dispuesto a tomarlo por la fuerza de su espada.

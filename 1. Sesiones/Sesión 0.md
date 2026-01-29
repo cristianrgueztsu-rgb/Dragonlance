@@ -1,3 +1,23 @@
+### Resumen Final Sesión 0:
+- Son las 12 del mediodia
+- Todos se conocieron en la taberna Palo Borracho, conocieron a [[Garro Sonrisa de Hierro]]
+- Consiguieron un talisman de su dios
+- [[Rumi (Ainhoa)]] pasó su primera prueba de magia
+- Se encontraron con [[Rhys]] y lo ayudaron, le dieron el dinero que le prometieron los caballeros.
+- Ainhoa traumatizó al padre de [[Rhys]] con una ilusion de [[Lunitari]]
+- Llegaron a vogler, [[Elodin (Migue)]] y [[Rumi (Ainhoa)]] jugaron a juegos de mesa y ganaron dinero
+- [[Tridin Yunque Recio (Pablo)]] intentó ligar con [[Garro Sonrisa de Hierro]]
+- [[Rumi (Ainhoa)]] ayudó a la alcaldesa a repartir unos papeles y durmió en la casa de la alcaldesa.
+- A la mañana siguiente decidió pasar el dia haciendo espectaculo en el puerto y conseguir dinero
+- [[Anima (Aday)]] Hizo turismo a un grupo de 20 niños les dijo que rezaran a lunitari en el pozo de de mierda del pueblo.
+- [[Elodin (Migue)]] robó a la alcaldesa porque se quedó desnudo haciendose pasar por ministro de tierra. [[Rumi (Ainhoa)]] le tiró un rayo y le dejó asi, se quejó a la alcaldesa sobre [[Rumi (Ainhoa)]] y le dio dinero pa que se compre ropa.
+- [[Rumi (Ainhoa)]] se quedó en el puente haciendo apuestas de dragones para ganar dinero(ya se lo di) (quemó a migue, becklin hablará muy serio con ella)
+- [[Anima (Aday)]] perdió a un niño en su ruta turistica y se va a buscarlos, la niña perdida era suli. El señor que le dio la mision se llama Regi.
+- [[Kirk (Aitor)]] se encontró con Beth, algo de beef y se queda patrullando la ciudad
+- [[Tridin Yunque Recio (Pablo)]] compró poti y fue al puerto a jugar
+
+------------------------------------------------------------------
+
 - Explicar la inspiración antes de empezar
 - Explicar que en dyd durante una pelea, no se puede targetear una parte especifica del cuerpo. Si es durante el rol, fuera de combate, si se podria.
 - Hablar sobre la muerte y que es posible que los pjs mueran al no tener healers.
@@ -89,12 +109,7 @@ https://5e.tools/adventure.html#dsotdq,3,arriving%20in%20vogler
 
 
 
-Son las 12 del mediodia
-- Ainhoa se quedó en el puente haciendo apuestas de dragones para ganar dinero(ya lo ganó) (quemó a migue, becklin hablar´a muy serio con ella)
-- aday perdió a un niño en su ruta turistica y se va a bauscarlos, la niña perdida era suli. El señor que le dio la mision se llama Regi.
-- Aitor se encontró con beef, algo de beef y se queda patrullando la ciudad
-- Migue robó a la alcalde porque se quedó desnudo haciendose pasar por ministro de tierra. Ainhoa le tiró un rayo y le dejó asi, se quejó a la alcaldesa sobre ainhoa y le dio dinero pa que se compre ropa
-- Pablo compró poti y fue al puerto a jugar
+
 
 
 
