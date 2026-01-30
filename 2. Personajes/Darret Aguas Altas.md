@@ -1,0 +1,7 @@
+- **Perfil:** Es un humano (caballero) de alineamiento **Legal Bueno**, caracterizado por ser meticuloso, cortés y muy bien educado.
+- **Trasfondo:** Fue abandonado por sus padres hace más de una década. Tras ser protegido por la comunidad de Vogler, pasó a estar bajo la tutela de **Becklin Uth Viharin**.
+- **Potencial:** Posee un gran corazón y una aptitud natural para el **pensamiento estratégico**, por lo que Becklin lo entrena para que algún día se una a los Caballeros de Solamnia.
+- **Personalidad:** * **Rasgo:** Su mente suele ir más rápido que su habla, lo que lo lleva a dudar de sí mismo.
+    - **Ideal:** "Mi honor es mi vida".
+    - **Vínculo:** Su lealtad absoluta hacia Becklin, de quien intenta aprender todo lo posible.
+- **Debilidad:** A pesar de su brillantez táctica, carece de experiencia en el mando real y le cuesta mucho **delegar tareas**.

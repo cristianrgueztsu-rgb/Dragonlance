@@ -1,0 +1,7 @@
+- Elfo azul Silvanesti
+- **Origen trágico:** Era una sacerdotisa elfa (Silvanesti) que murió hace más de 300 años durante el Cataclismo.
+- **Vínculo con Lord Soth:** Presenció cómo su compañera, Isolde, fue arrastrada por el destino del caballero caído Lord Soth. Tras el fracaso de este, Leedara regresó como un espíritu eterno.
+- **Su misión:** Su existencia actual se dedica exclusivamente a atormentar a [[Lord Soth]]. Lo tormenta en su castillo Dargaard Keep recordandole sus fracasos y perdidas. 
+- **Objetivo actual:** Ante el llamado de la Reina Dragón a Soth, Leedara lo ha seguido hasta Vogler para entorpecer sus planes de manera sutil.
+- **Naturaleza y alineamiento:** Es de alineamiento **Neutral** y, aunque técnicamente es un **fantasma**, suele presentarse con su apariencia de elfa viva.
+- **Habilidad especial:** Posee la acción **Cambiar forma**, que le permite recuperar su aspecto físico original y cambiar su tipo de criatura a Humanoide (manteniendo sus estadísticas de fantasma) hasta que sea derrotada o decida terminar el efecto.

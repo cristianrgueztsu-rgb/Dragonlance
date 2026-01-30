@@ -1,0 +1,2 @@
+- Alcaldesa de Vogler
+- Buena persona, mira por el bien estar de todos
