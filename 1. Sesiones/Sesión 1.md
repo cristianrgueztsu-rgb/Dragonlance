@@ -67,96 +67,138 @@ https://5e.tools/adventure.html#dsotdq,3,arriving%20in%20vogler
     - Lord Bakaris está ahi molestando y bebiendo. Molesta al jugador mas habilidoso. 
 	    - Con Intimidacion o percepcion 14, bakaris se va
 
-#### **Paso 4: La Batalla de High Hill (Mediodía)**
+#### **Betrayal at high hill**
 
-- **La Premisa:** Se organiza una recreación histórica de una batalla antigua.
-    
-- **El Equipo:** Cudgel les da armas acolchadas (daño no letal) y explica las reglas: "Si te golpean 3 veces, estás fuera".
-    
-- **Inicio del Combate (Rondas 1-2):** Combate de práctica contra mercenarios de Cudgel. Todo es risas.
-    
-- **El Giro (Ronda 3):**
-    
-    - Suenan cuernos de guerra reales.
-        
-    - Un grupo de mercenarios traidores ataca a Cudgel y a los jugadores con **armas reales**.
-        
-    - Aparecen algunos monstruos menores o matones contratados.
-        
-- **El Desenlace:** Los jugadores deben vencer a los traidores. En el cuerpo de uno de ellos encuentran un **mapa o carta** que indica que el _Ejército del Dragón_ está pagando por desestabilizar la región.
-    
+```
+DMN: Si alguno muere en batalla o pierden, al terminar la pelea Darret les salva la vida y los devuelve a 1 de vida.
+```
+- El evento está programado para comenzar por la tarde. Aproximadamente una hora antes, el alcalde Raven reúne a la milicia de Vogler en la plaza del pueblo. A continuación, la milicia encabeza un desfile improvisado desde el pueblo hasta High Hill, seguido por docenas de espectadores y un carro lleno de bebidas para los participantes.
+```
+DM NOTE: Darrett, Becklin u otro aldeano encuentra a los personajes cuando comienza el desfile y anima al grupo a que camine con ellos.`
+```
+- La recreación de este año es un poco diferente a la de años anteriores. Si los personajes charlan con Darrett u otros lugareños durante el camino a High Hill, obtienen la siguiente información:
+	- Esta batalla simulada recrea la antigua victoria de los Caballeros de Solamnia sobre las fuerzas enemigas de la nación oriental de Istar. La batalla fue liderada por Lord Vogler, un noble caballero y fundador de la aldea.
+	- Este año, la alcaldesa Raven ha conseguido que participe un amigo de la ciudad, el líder mercenario [[Garro Sonrisa de Hierro]]. El Regimiento Acorazado de Cudgel interpreta el papel de las fuerzas invasoras de Istar. La alcaldesa afirma que es una feliz coincidencia que la banda de Cudgel se encontrara en la zona durante el evento.
+- Cuando llegan a High Hill, leer:
+	- Atravesando bosques y campos, el desfile de Vogler, compuesto por miembros de la milicia y espectadores de la recreación histórica, llega finalmente a High Hill. La ladera cubierta de hierba está salpicada de árboles y vallas de piedra derruidas. Cerca de la base, varias docenas de soldados con armaduras a juego se colocan en formación ordenada. El contraste entre estos mercenarios del Regimiento Acorazado y la milicia de Vogler, con sus armaduras desiguales y sus cascos torcidos, es sorprendente, pero no empaña el ánimo de los asistentes a la recreación culminante del Festival rey pescador
+```
+DM NOTE: Anima a todos los personajes a participar en la recreación, aunque solo sea para honrar los últimos deseos de Ispin Greenshield. Si algún personaje se niega, el alcalde Raven le ofrece 5 po para que actúe como juez durante la batalla, asegurándose de que nadie utilice armas reales y pidiendo ayuda si alguien resulta herido.
+```
+- Para prepararse para la batalla, el alcalde Raven se dirige a los allí reunidos y les explica que los mercenarios cargarán por la ladera oeste de la colina, mientras que la milicia y el resto de participantes lo harán por la ladera oeste. Los dos grupos se enfrentarán a mitad de camino en una simulación de combate, en la que las fuerzas istarianas de los mercenarios acabarán retirándose. Se anima a los participantes a utilizar su propia armadura, pero se les proporcionan lanzas de madera con puntas acolchadas para evitar que causen daños. El alcalde recuerda a todos que no utilicen armas reales durante la recreación para que nadie resulte herido.
+- Cuando todos estén listos, leer:
+	- Tras muchas risas y empujones, el alcalde, Garro y otros espectadores se dirigen a un lugar cercano con buena vista para observar. Mientras lo hacen, la milicia toma posiciones en lo alto de High Hill, la misma colina que ocuparon las tropas solamnicas hace siglos. Se enfrentan a los mercenarios del Regimiento Ironclad al pie de la colina, dispuestos como lo estuvieron en su día las fuerzas de Istar. Aunque el evento es solo una recreación, una emoción palpable invade el campo. En algún lugar de la línea, un recreador grita y vocifera: «¡Hagamos huir a esas ratas de Istar!».
+	  Un momento después, un toque de trompeta señala el comienzo de la batalla. «¡Por Istar!», grita el líder de los mercenarios, un alto semiorco entre varios soldados a caballo. Las tropas istarianas simuladas asaltan la colina. A tu alrededor, la milicia de Vogler carga para enfrentarse a ellos.
+```
+DM NOTE: En cuanto empiezan a cargar, todos tiran percepcion, el mas alto se da cuenta de que el filo de las armas de los mercenarios reflejan el sol`
+```
+- Leer:
+	- El inesperado sonido del metal chocando contra la armadura resuena por todo el campo, acallando las risas y las fanfarronadas melodramáticas. Una cinta roja salpica la colina cubierta de hierba, seguida de gritos de sorpresa. Cualquier pretensión de recreación se desvanece: High Hill vuelve a ser escenario de una batalla real. En cuestión de segundos, a tu alrededor, mercenarios armados atacan a aldeanos desprevenidos que luchan por sus vidas.
+```
+DMN: Mercenarios y la milicia usan el stat block de guardias, pero la milicia no hace daño(por tener los filos de las armas protegidas)
+	- https://5e.tools/bestiary.html#guard_xmm
+	- Montados en https://5e.tools/bestiary.html#warhorse_xmm
+```
+- Usar libro, pag 64. (DMN: si algun prota les acompaña, no puede morir)
+- **Gragonis arrives**, leer:
+	- Una figura corpulenta que blande un formidable hacha de guerra lidera a una banda de mercenarios a través del caos. A medida que se acerca, va acabando con los pocos miembros que quedan de la milicia de Vogler.
+- Al terminar de matar a gragonis y los 4 mercenarios, el resto de mercenarios se dispersan y la batalla termina.
+- Llegan Garro, Alcaldesa raven, Becklin, Darret y algunos mas heridos.
+- [[Raven Uth Vogler]] les da las gracias y les promete ser recompensados, pero ahora está ocupada tratando a los heridos.
+- [[Garro Sonrisa de Hierro]] se va a la colina y encuentra un mercenario aun vivo (o gragonis si le perdonaron la vida) y empieza a agitarlo y a gritarle. Cuando alguien la pare (Un npc si nadie lo hace) la alcaldesa lo manda a atar para que pueda ser interrogado.
+- Checkear Healing the wounded section si alguien se pone a curar a la gente
+- Al terminar de curar a todos, Becklin y Raven piden a los jugadores que hagan de escolta para el viaje de vuelta a Vogler (no ocurre nada)
 
+#### **Back in Vogler**
+
+- Al llegar, Raven les pide que vayan con ellos al cangrejo de latón.
+- El alcalde Raven dirige la conversación, dando prioridad a los siguientes puntos:
+	- Raven ya ha dado instrucciones a los aldeanos de confianza para que atiendan a los heridos y recojan los cadáveres de los asesinados en High Hill.
+	- Raven quiere entender por qué atacó el Regimiento Acorazado. Está claro que Cudgel fue traicionado, pero ¿por qué? El mercenario cautivo podría tener respuestas a estas preguntas.
+	- Los líderes de Vogler necesitan saber si hay otros mercenarios peligrosos en camino.
+	- Si alguno de los personajes ha utilizado magia, en particular magia curativa u otras pruebas del poder de un dios, Raven le pregunta si puede utilizar sus talentos para ayudar a su pueblo.
+```
+DMN: Cudgel solo tiene una preocupación: descubrir el destino del resto de sus tropas. Planea regresar a su campamento una vez que el mercenario haya sido interrogado. No se dejará disuadir y se niega a dejar que nadie la acompañe; si sus mercenarios la han traicionado, no quiere que nadie más corra peligro.
+
+  
+
+Deja que los personajes planteen sus propias preocupaciones y planes, pero al final el alcalde insta a todos, excepto a Cudgel, a quedarse en el pueblo esa noche mientras intentan averiguar más. Mientras tanto, Raven anima a los personajes a unirse a Cudgel para interrogar al mercenario superviviente.
+```
+  
+- Llevar la interrogacion con la seccion **Mercenary Interrogation**
+### Datos del Prisionero
+- **Identidad:** Normalmente es **Svilnt Sunderlit** (un guardia de bajo rango del Regimiento Ironclad), a menos que los jugadores hayan perdonado específicamente a un líder como Gragonis.
+- **Estado:** Está atado con una red de pesca. Inicialmente se muestra burlón y solo da su nombre.
+### Escena y Reglas
+
+- **Supervisión:** La alcaldesa Raven y Cudgel están presentes.
+    - **Raven:** Permite magia coercitiva, pero **prohíbe el daño físico**.
+    - **Cudgel:** Empieza el interrogatorio, pero se retira a un lado porque está demasiado furiosa para hablar con coherencia.
+- **Mecánica:** Se requiere una prueba de **Carisma (Intimidación o Persuasión) CD 12** o un buen juego de rol para que empiece a hablar.
+
+### Información que revela el cautivo
+
+Si los personajes tienen éxito, el mercenario confiesa lo siguiente:
+
+1. **El Plan:** Gragonis quería matar a Cudgel para quedarse con el mando del Regimiento Ironclad.
+2. **El Oro:** Hace unos días, Gragonis fue al bosque (al oeste del campamento) y volvió con una gran cantidad de oro.
+3. **La Emboscada:** Usó ese dinero para pagar a los mercenarios más leales y atacar a la milicia de Vogler durante la recreación histórica, con el fin de saquear el pueblo después.
+4. **El Campamento:** Algunos mercenarios se quedaron atrás (incluyendo a **Jeyev**, el otro lugarteniente de Cudgel). El cautivo cree que los que se quedaron siguen siendo leales a Cudgel.
+5. **El misterioso benefactor:** El mercenario común **no sabe** quién pagó a Gragonis.
+    - _Nota:_ Si el interrogado es el propio **Gragonis**, dirá que su contacto iba encapuchado y vestía una **armadura negra y roja**.
+
+- Al terminar de interrogar:
+	- Garro se va a confirmar la historia al campamento de sus mercenarios
+	- Raven menciona que enviará scouts al donde tuvo la runion gragonis para ver que pueden averiguar
+- Si van los npcs, llegan a la mañana siguiente. Si van los jugadores, manejarlo con la seccion **Sightning the enemy** pag 66 (llegan a la noche, en la taberna les dice que mañana a primera hora se reunirán aqui)
 ---
 
-### **DÍA 2 (Tarde/Noche): La Revelación**
+### **DÍA 3: A Fatefull Morning**
 
-#### **Paso 5: El Consejo de Emergencia**
+```
+DMN: 
+- Los scouts vuelven con info
+- Garro vuelve con info
+```
 
-- Los jugadores llevan la prueba (la carta/mapa) a Becklin, Raven y Cudgel.
-    
-- **Dilema:** ¿Es una banda de asaltantes o un ejército?
-    
-- **La Misión de Exploración (Opcional pero recomendada):** Becklin les pide ir al norte sigilosamente para confirmar el tamaño de la fuerza enemiga.
-    
+- Cuando los personajes u otros exploradores regresan a Vogler, se les indica que informen a la alcaldesa Raven, que ha pasado toda la noche en el Brass Crab con Becklin y otros aldeanos preocupados. Raven se sorprende al escuchar el informe sobre el campamento enemigo. Quiere saber más sobre la naturaleza y la disposición de esta fuerza, y es consciente de que Vogler no puede defenderse de nada más que unos pocos asaltantes. Está ansiosa por escuchar los consejos de los personajes y otros sobre cómo abordar esta posible amenaza.
+- Al principio, Raven se inclina por redactar una carta al comandante del campamento para declarar la neutralidad de Vogler en todos los conflictos, preguntar por las intenciones del misterioso ejército y darles la bienvenida para que se reúnan con la alcaldesa. Pero antes de que la alcaldesa pueda desarrollar más el plan, Cudgel regresa.
+- Cudgel Ironsmile regresa a Vogler acompañada por el teniente de sus exploradores, el humano Jeyev Veldrews. Cudgel comparte la siguiente información:
+	- Ella cree que Jeyev y sus tropas restantes le son leales; de no ser así, podrían haberla derrotado fácilmente.
+	- A su regreso, Cudgel descubrió que Jeyev y otros mercenarios leales se habían enterado de los acontecimientos ocurridos en High Hill. Habían retenido a varios soldados leales a Gragonis que no tenían órdenes de participar en la recreación.
+	- Durante la noche, los exploradores de Jeyev se encontraron con una gran fuerza militar al noroeste de la aldea, demasiado grande y organizada para ser una simple banda de mercenarios. Se trata del mismo ejército que probablemente avistaron los personajes, y los exploradores de Jeyev pueden confirmar todo lo que se describe en la sección «Avistamiento del enemigo».
+```
+Deja que los personajes, tras consultar con los líderes de la aldea, decidan cómo debe responder Vogler al misterioso ejército. Becklin, Cudgel y Raven adoptan las siguientes posturas:
 
-#### **Paso 6: Avistamiento del Ejército**
+  
 
-- Los jugadores se acercan al campamento enemigo (sin combatir).
-    
-- **Lo que ven:** No son bandidos. Es un campamento militar masivo, estandartes rojos, disciplina militar y... **sombras de dragones** o wyverns en el cielo.
-    
-- **Retorno:** Deben volver corriendo a Vogler con la noticia: "La invasión es inminente".
-    
+Becklin Uth Viharin. La caballera está muy preocupada. Ha oído rumores sobre extraños ejércitos en el este y ahora hay uno cerca de su hogar. Como la líder militar con más experiencia de la sala, espera lo peor, pero intenta no sembrar el pánico entre los demás.
 
----
+  
 
-### **DÍA 3: La Evacuación y el Caos**
+Cudgel Ironsmile. Cudgel se siente responsable de todo lo que ocurre en High Hill. Ofrece al pueblo el apoyo total del Regimiento Ironclad. Está a favor de una respuesta pacífica al misterioso ejército, pero respaldada por las lanzas de sus mercenarios.
 
-#### **Paso 7: La Decisión Difícil**
+  
 
-- Al recibir el informe, Becklin y Raven se dan cuenta de que Vogler caerá.
-    
-- **El Plan:** Evacuar a todos los civiles en barcos por el río Vingaard hacia la ciudad de Kalaman.
-    
-- **El Rol de los Jugadores:** Organizar la defensa del perímetro mientras la gente sube a los barcos.
-    
+Alcaldesa Raven Uth Vogler. La alcaldesa hará lo que sea para mantener a salvo a su pueblo. Sin embargo, quiere más información antes de actuar.
 
-#### **Paso 8: Comienza el Ataque (El Clímax)**
+  
 
-El Ejército del Dragón ataca antes de lo previsto.
+Para complicar aún más la situación, Lord Bakaris se une al grupo en medio de la conversación, ofendido por no haber sido incluido en lo que claramente son discusiones importantes. Sin embargo, no tiene ni idea de qué se trata. A Bakaris no le importa en absoluto la seguridad del pueblo, pero plantea ideas que le hacen parecer importante sin requerir ningún esfuerzo real.
 
-- **La Escena de Becklin (CRUCIAL):**
-    
-    - Becklin se pone su armadura completa.
-        
-    - Le dice a Darrett que él debe liderar la evacuación.
-        
-    - Le entrega a Darrett (o a los jugadores para que se lo den a él) su **yelmo y su legado**.
-        
-    - Becklin carga sola contra el frente enemigo para comprar tiempo. _Ella debe morir o desaparecer luchando heroicamente fuera de escena_.
-        
+  
 
-#### **Paso 9: Corriendo por las Calles (Encuentros)**
+Deja que los personajes guíen la decisión de los líderes de Vogler, que apoyarán en gran medida cualquier plan que no implique un ataque preventivo o llevar la batalla al pueblo.
+```
 
-Los jugadores deben cruzar el pueblo en llamas hacia los muelles. Usa estos encuentros en orden:
-
-1. **El Boilerdrak (Lanzallamas Gnomo):** Una máquina de guerra gnomo controlada por enemigos bloquea el camino principal. Tienen que destruirla o rodearla.
-    
-2. **La Carga de los Draconianos:** Un grupo de Draconianos (Baaz) salta desde los tejados.
-    
-    - _Nota:_ Cuando un Baaz muere, se convierte en piedra y puede atrapar el arma del jugador. ¡Descríbelo bien!
-        
-3. **El Cobarde:** Encuentran a Lord Bakaris y su hijo intentando robar un bote o empujando ancianos. Los jugadores deben imponer orden.
-    
-
-#### **Paso 10: La Huida Final**
-
-- Llegan a los muelles. Los barcos están saliendo.
-    
-- **La Última Defensa:** Un último grupo de enemigos intenta quemar los muelles. Los jugadores deben aguantar 3-4 rondas hasta que el último barco esté listo.
-    
-- **El Escape:** Saltan al barco de Cudgel o Raven.
-    
-- **Cierre del Capítulo:** El barco se aleja por el río. Los jugadores miran atrás y ven Vogler consumida por el fuego y las siluetas del ejército marchando sobre las ruinas.
+- Unos aldeanos interrumpen la reunion diciendo que hay un mensajero en la "River Gate". Es un mensajero en armadura negra y roja montada sobre un caballo de guerra. Piden a todos que vayan a atenderle. Al llegar, leer:
+	- Debajo de las tallas de peces saltando grabadas en la puerta de madera abierta de Vogler, una persona vestida con una cota de malla negra y roja está montada a horcajadas sobre un caballo de guerra acorazado. Sostiene un pergamino enrollado y grita: «¿Quién de vosotros habla en nombre de este pueblo?».
+- (si nadie dice nada, raven se acerca y coge la carta y lee)
+	- Pueblo de Vogler,
+	  
+	  Por orden de Belephaion, la Voz de Takhisis, esta noche alojaréis a los soldados del invencible Ejército del Dragón Rojo. Si os negáis, moriréis.
+	  
+	  Esta es la voluntad de la Reina Dragón.
+- El mensajero exige que la aldea se prepare para ser ocupada por las tropas del Ejército Dragón esa noche. Mientras tanto, nadie puede salir de la aldea. Si los personajes presionan al mensajero para obtener más información, ella no proporciona ninguna. Si se ve amenazada, la soldado se mantiene firme y da una señal. En lo alto de los acantilados de 9 metros de altura al este de la puerta, aparecen cuatro soldados del Ejército Dragón (véase el apéndice B). Utilizan sus jabalinas para atacar a cualquiera que amenace a la mensajera o que intente abandonar la aldea.
+- El alcalde Raven intenta evitar el derramamiento de sangre y anima a los personajes a retirarse.
 
 
