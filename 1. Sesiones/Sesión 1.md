@@ -200,5 +200,61 @@ Deja que los personajes guíen la decisión de los líderes de Vogler, que apoya
 	  Esta es la voluntad de la Reina Dragón.
 - El mensajero exige que la aldea se prepare para ser ocupada por las tropas del Ejército Dragón esa noche. Mientras tanto, nadie puede salir de la aldea. Si los personajes presionan al mensajero para obtener más información, ella no proporciona ninguna. Si se ve amenazada, la soldado se mantiene firme y da una señal. En lo alto de los acantilados de 9 metros de altura al este de la puerta, aparecen cuatro soldados del Ejército Dragón (véase el apéndice B). Utilizan sus jabalinas para atacar a cualquiera que amenace a la mensajera o que intente abandonar la aldea.
 - El alcalde Raven intenta evitar el derramamiento de sangre y anima a los personajes a retirarse.
+- **Seccion Resistance**: Llevarlo con el libro pero resumido: Pag 68
+	- **Conflicto de opiniones:** Ante la demanda del Ejército del Dragón, la alcaldesa Raven cree que no hay más opción que rendirse, pero Becklin y Cudgel se oponen rotundamente por los horrores que conlleva una ocupación.
+	- **Propuesta de defensa:** Se plantea utilizar al **Regimiento Ironclad** para defender el pueblo. Cudgel lo sugerirá si los personajes no lo hacen primero.
+	- **El obstáculo táctico:** Para traer a los mercenarios al pueblo sin ser detectados, es necesario eliminar primero a los soldados del Ejército del Dragón que custodian la puerta.
+	- **Dificultad operativa:** Los soldados enemigos tienen la ventaja de la altura (terreno elevado), por lo que el grupo deberá elegir entre dos opciones de infiltración para neutralizarlos. (Escalar o lanzadera en la torre)
 
+- **Seccion Preparing for the worst**: Pag 69
+	- Se reunen y estas son las poisiciones de cada uno:
+	- **Becklin Uth Viharin:** Se muestra inusualmente callada. Prefiere esperar a que termine la reunión general para hablar en privado con los personajes y Darrett sobre sus temores específicos. (Becklin's Fear)
+	- **Cudgel Ironsmile:** Su postura es puramente militar. Quiere recuperar a sus tropas y traerlas al pueblo; para ella, luchar es la única opción, sin importar que los superen en número.
+	- **Alcaldesa Raven:** Está en estado de shock si ya hubo combate o frustrada buscando cómo proteger a su gente antes del anochecer. Se opone rotundamente a cualquier plan que convierta las calles del pueblo en un campo de batalla.
+	- **Posibilidad de Evacuación:** La alcaldesa rechaza la idea de abandonar el pueblo inicialmente, pero puede ser convencida (persuasión DC 12) de que es lo mejor. Si esto ocurre, Becklin apoya la idea y Raven la acepta a regañadientes como única opción.
+	- **Acción Inmediata:** Si nadie la detiene, Cudgel partirá de inmediato (ya sea cabalgando o a hurtadillas) para reunir a sus mercenarios.
+- Becklin's Fear
+```
+- **La amenaza global:** Becklin sospecha que los soldados del Ejército del Dragón Rojo no son un grupo aislado, sino parte de una fuerza imparable que viene del este.
+    
+- **Vulnerabilidad local:** Advierte que los habitantes de Vogler no son guerreros; estima que necesitarían meses de entrenamiento y refuerzos profesionales masivos para poder defenderse.
+    
+- **Propuesta de evacuación:** Sugiere preparar a los aldeanos para huir en cualquier momento si los planes de defensa fallan, considerando que es la única forma de salvar vidas.
+    
+- **Ruta de escape:** El plan consiste en seguir el curso del río hasta llegar a la seguridad de la ciudad de **Kalaman**.
+    
+- **Acción política:** Pide ayuda a los personajes para convencer a la alcaldesa Raven. Si los personajes y Becklin se unen en la petición, la alcaldesa aceptará la evacuación a regañadientes.
+    
+- **Información adicional:** Los personajes pueden investigar o preguntar sobre Kalaman para obtener datos estratégicos sobre su destino (requiere una tirada de Historia CD 12).
+```
 
+- **Seccion planning to evacuate** Pag 70
+	- **Preparativos de los líderes:** Mientras Becklin se enfoca en obtener información sobre el enemigo y reforzar las defensas, la alcaldesa Raven delega la organización logística en los personajes y Darrett.
+	- **Misiones encomendadas:**
+	    - **Comunicación:** Reunir a todos los habitantes en el círculo del pueblo para informarles de la situación.
+	    - **Logística naval:** Evaluar la cantidad de barcos disponibles y calcular su capacidad de transporte.
+	    - **Instrucciones:** Enseñar a los aldeanos la ruta y el procedimiento para ponerse a salvo.
+	    - **Control de crisis:** Mantener la calma entre la población para evitar el pánico.
+	- **Condiciones de la alcaldesa:** Raven y Darrett apoyarán cualquier plan que facilite la huida sin arriesgar vidas, pero la alcaldesa insiste en no iniciar la salida hasta que sea estrictamente necesario, dando tiempo a que todos se preparen.
+
+- **Seccion Informing the villagers**:
+	- **Método de convocatoria:** Los personajes pueden reunir a la población fácilmente yendo de puerta en puerta o haciendo sonar la **campana del círculo del pueblo**.
+	- **Asamblea general:** Una vez que los habitantes están congregados, la **alcaldesa Raven** se encarga de dirigirse a la multitud.
+	- **Inicio del anuncio:** El texto indica que, en este punto, la alcaldesa procede a explicar la situación crítica a todo el pueblo.
+	- Leer lo siguiente cuando esten todos reunidos:
+	- Las coloridas decoraciones del Festival del Martín Pescador aún cubren la plaza del pueblo y el escenario del festival. A diferencia del día anterior, la gente reunida en el centro del pueblo está sombría y murmura con tono preocupado mientras el alcalde Raven sube al escenario.
+	  
+	  El alcalde no se anda con rodeos: «Un peligroso ejército se dirige hacia Vogler. El Regimiento Acorazado hará todo lo posible por defender Vogler, pero debemos estar preparados para huir»
+	  
+	  Tras el informe del alcalde, los lugareños permanecen en silencio, atónitos. Luego, sus preguntas llegan en una oleada de gritos, ira y miedo.
+
+	- **Gestión del pánico:** Los personajes pueden ayudar a la alcaldesa a recuperar el control mediante una prueba de **Carisma (Intimidación o Persuasión) CD 12**. De fallar, los preparativos se retrasan más de una hora debido al caos.
+	- **Interferencia de los nobles:** Lord Bakaris o su hijo pueden intentar socavar la autoridad de la alcaldesa. Si esto ocurre, los aldeanos rechazarán el plan a menos que un personaje los confronte (mediante interpretación o una prueba de **Carisma CD 14**).
+	- **Cooperación final:** Una vez que se aceptan los planes, los habitantes de Vogler comienzan a trabajar junto a Raven, Darrett y los personajes para preparar la huida hacia Kalaman, conscientes de la urgencia.
+
+- **Seccion Short Ship Supply**:
+	- **El problema:** Tras una hora de inspección, los personajes determinan que los barcos del muelle solo tienen capacidad para **200 de los 400 residentes**.
+	- **Soluciones posibles (con ventaja si se tiene competencia en vehículos acuáticos):**
+	    - **Balsa de barcos:** Mediante una prueba de **Supervivencia (CD 16)**, se pueden unir botes pequeños y troncos para crear balsas grandes. Capacidad: **+200 personas** (tarda 3 horas).
+	    - **Flota personal:** Con una prueba de **Persuasión (CD 14)**, se convence a los vecinos de aportar botes guardados, decorativos o que necesitan reparaciones menores. Capacidad: **+100 personas** (tarda 2 horas).
+	    - **Reutilizar el transbordador:** Con una prueba de **Investigación (CD 12)**, se pueden desmantelar las barcas y el sistema de poleas del cruce del río. Capacidad: **+100 personas** (tarda 2 horas).
