@@ -258,3 +258,5 @@ Deja que los personajes guíen la decisión de los líderes de Vogler, que apoya
 	    - **Balsa de barcos:** Mediante una prueba de **Supervivencia (CD 16)**, se pueden unir botes pequeños y troncos para crear balsas grandes. Capacidad: **+200 personas** (tarda 3 horas).
 	    - **Flota personal:** Con una prueba de **Persuasión (CD 14)**, se convence a los vecinos de aportar botes guardados, decorativos o que necesitan reparaciones menores. Capacidad: **+100 personas** (tarda 2 horas).
 	    - **Reutilizar el transbordador:** Con una prueba de **Investigación (CD 12)**, se pueden desmantelar las barcas y el sistema de poleas del cruce del río. Capacidad: **+100 personas** (tarda 2 horas).
+
+---- Terminar aqui ----
