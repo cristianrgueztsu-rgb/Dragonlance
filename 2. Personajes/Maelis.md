@@ -1,0 +1,3 @@
+- Origen: Lore [[Rumi (Ainhoa)]]
+-  Erudito humano exiliado
+-  Apoya a rumi desde las sombras.

@@ -12,22 +12,33 @@
 
 https://5e.tools/adventure.html#dsotdq,3,arriving%20in%20vogler
 
-- (DM NOTE: el pueblo se tiene que sentir muy cercano, la gente tiene que ser muy amable, para que su destrucción duela más)
+```
+El pueblo se tiene que sentir muy cercano, la gente tiene que ser muy amable, para que su destrucción duela más)
+```
+  
+ ```
+  Becklin tiene que hablar con Rumi sobre lo de quemar a un ministro
+ ```
 - Una vez llegada la noche, comienza la despedida en la taberna cangrejo de laton
-- DM NOTE: El funeral tiene lugar al atardecer en el escenario y el muelle que se extiende desde la parte trasera del Brass Crab. Becklin anima a los personajes a quedarse cerca del muelle, mientras muchos lugareños en duelo se reúnen en pequeñas embarcaciones pesqueras en las aguas cercanas. Cuando estés listo para que comience el funeral, Becklin sube al escenario junto a un sencillo bote, en cuyo interior descansa el cuerpo de Ispin Greenshield. Lee o parafrasea lo siguiente:
+```
+El funeral tiene lugar al atardecer en el muelle que se extiende desde la parte trasera del Cangrejo de laton. Becklin anima a los personajes a quedarse cerca del muelle, mientras muchos lugareños en duelo se reúnen en pequeñas embarcaciones pesqueras en las aguas cercanas. Cuando estés listo para que comience el funeral, Becklin sube al escenario junto a un sencillo bote, en cuyo interior descansa el cuerpo de Ispin Greenshield. Lee o parafrasea lo siguiente:
+```
 - Leer TR55/1 TR56/1
+	- https://www.youtube.com/watch?v=FHFKUj14oEI
 	- Los más cercanos a Ispin Greenshield se reúnen en el muelle con vistas al río Vingaard. Allí, el cuerpo de Ispin descansa en una pequeña embarcación, envuelto en un sudario. Un músico toca una suave melodía mientras la caballera Becklin Uth Viharin se adelanta con su ornamentada armadura solamnica. Sonríe amablemente a los allí reunidos y su voz se oye con claridad a través del agua.
 	- "Todos conocían a Ispin como amigo, y no había nadie como él. Antes de morir, me dijo lo siguiente: 'Debería haber historias, no lágrimas para un viejo sinvergüenza como yo. Asegúrate de que todos conozcan mis historias cuando me embarque en la mayor aventura de todas'".
-	- Becklin asiente con la cabeza y los aldeanos llevan el bote que contiene el cuerpo de Ispin hasta el borde del muelle, donde ella y Cudgel lo bajan al agua. «Pues hagamos precisamente eso», continúa Becklin mientras la pequeña embarcación se aleja flotando por el río Vingaard. «En la víspera del Festival del Martito, te celebramos, Ispin. Buen viaje, amigo. Hasta que nos volvamos a encontrar».
-- Describir un poco a la gente, algunos llorando, otros felices, etc
+	- Becklin asiente con la cabeza y los aldeanos llevan el bote que contiene el cuerpo de Ispin hasta el borde del muelle, donde ella y Cudgel lo bajan al agua. «Pues hagamos precisamente eso», continúa Becklin mientras la pequeña embarcación se aleja flotando por el río Vingaard. «En la víspera del Festival del rey pescador, te celebramos, Ispin. Buen viaje, amigo. Hasta que nos volvamos a encontrar».
+```
+Describir un poco a la gente, algunos llorando, otros felices, etc
+```
 
 - Desp de que el bote desaparezca, Becklin invita a todo el mundo al cangrejo de laton para contar historias
 - Estan todos los pjs que han conocido (Regi, Suli, Garro, los de los juegos de mesa y cualquier otro nuevo)
-- [[Becklin Uth Viharin]] cuenta algunas historias sobre Ispin e invita a los demas a contar alguna
+- [[Becklin Uth Viharin]] cuenta algunas historias ridicula y graciosas (inspo: Pag 57 tabla azul) sobre Ispin e invita a los demas a contar alguna
 - En algun momento [[Bakaris el Joven]] interrumpe bostezando, si no le interrumpen, se queja en voz alta. DC 12 charisma se va del bar quejandose de todos.
 - [[Garro Sonrisa de Hierro]] menciona que es la lider de una banda de mercenarios llamada "Regimiento acorazado" y les dice de que viene su nombre real y que se llama Cudgel
-- Pasa el rato y ven como la gente se va yendo, solo quedan unos cuantos y al fondo destaca una figura un elfo silvanesti de piel azul ([[Leedara]])
-	- (DM NOTE: no da info sobre ella, dice que conoce a ispin y solo muestra simpatía por los jugadores ya que ella ha perdido mucha gente durante su vida)
+- Pasa el rato y ven como la gente se va yendo, solo quedan unos cuantos y al fondo destaca una figura, un elfo silvanesti de piel azul ([[Leedara]])
+	- (DM NOTE: no da info sobre ella, solo dice que es una musica que conoce a ispin y solo muestra simpatía por los jugadores ya que ella ha perdido mucha gente durante su vida)
 	- (DC 16 persuasion, canta una cancion en elfico muy bonita, hace llorar casi)
 - Al terminar la noche, Becklin se acerca al grupo y comenta varias cosas:
 	- les da las gracias por venir, les pide que se reunan con ella en el Torreón de Thornwall por la mañana porque Ispin les dejó un regalo.
@@ -36,20 +47,22 @@ https://5e.tools/adventure.html#dsotdq,3,arriving%20in%20vogler
 
 #### **Torreon de Thornwall**
 - Conocen a [[Darret Aguas Altas]] por el camino, leer:
-	- Esta mañana, la ciudad rebosa energía festiva mientras los lugareños montan puestos y cuelgan adornos. Más adelante, el camino hacia Torreon de Thornwall sube por una colina baja hacia un antiguo edificio, fantasmal en la niebla matinal.
+	- Esta mañana, la ciudad rebosa energía festiva mientras los lugareños montan puestos y cuelgan adornos. Más adelante, el camino hacia Torreon de Thornwall sube por una pequeña colina hacia un antiguo edificio, fantasmal en la niebla matinal.
 	  
 	  «Buenos días, amigos de Becklin», dice una voz alegre. «Me alegro de haberos encontrado». De la puerta de una tienda sale un joven de no más de veinte años. Lleva una espada en la cadera y un saco de tela en el brazo. «Soy Darrett, el alumno de Becklin. Espero que aún no hayáis desayunado».
-- DM NOTE: Becklin envió a Darrett a buscar pasteles horneados al Fishbowl para ellos dos y sus invitados. Anima a los personajes a que lo acompañen en su recado.
+```
+Becklin envió a Darrett a buscar pasteles horneados al Fishbowl para ellos dos y sus invitados. Anima a los personajes a que lo acompañen en su recado.
 	- Darrett les cuenta que creció en Vogler. Les hace un montón de preguntas sobre ellos mismos, sus viajes, sus armas y cualquier otra cosa sobre el mundo más allá de Vogler. Sabe todo sobre el Festival del Martín Pescador y comparte los siguientes detalles:
 		- El festival anual celebra la victoria de un caballero de Solamnia, Lord Decater Vogler, sobre las fuerzas del Imperio de Istar. Esta batalla tuvo lugar hace cientos de años, mucho antes del Cataclismo, y dio lugar a la fundación de la aldea.
 		- Las festividades actuales incluyen música, comida y juegos relacionados con la fundación de la ciudad.
 		- Los mercenarios del Regimiento Acorazado, la banda de Cudgel Ironsmile, están entrenando a la pequeña milicia de Vogler. También participarán en una recreación de la batalla de High Hill esta tarde.
+```
 -  Llegan al torreon, leer:
-	- Vetas de hiedra color bronce se aferran a la antigua torre de piedra de tres pisos de Thornwall Keep, la estructura más alta de Vogler. Desde su techo almenado se eleva un elaborado dispositivo que se asemeja a una catapulta. Ruinas derruidas de muros y otras estructuras caídas rodean la fortaleza, y entre ellas se encuentran varios hoyos cuadrados poco profundos y sitios de excavación cubiertos.
+	- Vetas de hiedra color bronce se aferran a la antigua torre de piedra de tres pisos de Thornwall Keep, la estructura más alta de Vogler. Desde su techo almenado se eleva un elaborado dispositivo que se asemeja a una catapulta. Ruinas derruidas de muros y otras estructuras caídas rodean la fortaleza.
 - Becklin les recibe y los invita, leer:
 	- Becklin vuelve a entrar en la sala con una caja de madera poco profunda, de aproximadamente un metro de lado. La deja con cuidado sobre una mesa. «Ispin os ha dejado esto a todos», explica. «Pero hay una condición. Como este año no va a poder asistir al Festival del Martín Pescador, quería que participaseis todos en su nombre. Concretamente, esperaba que ocuparan su lugar durante la recreación de la Batalla de High Hill. Cada año, esperaba con ilusión participar —y morir— de una forma aún más ridícula que el año anterior». Becklin sonríe al recordar mientras abre la caja, revelando un hacha a dos manos con un acero verdoso.
-- La caja contiene el hacha característica de Ispin, un hacha +1 tallado con un árbol de hoja ancha marcado por cicatrices y pintado de color verde musgo. Todos los personajes recuerdan haber oído la historia de Ispin sobre cómo un unicornio le entregó el hacha en el lejano bosque de Madera Oscurecida. (DM Note: Nadie puede decir si es cierto o si se trata de otra de las fantásticas historias de Ispin.)
-- **IMPORTANTE Becklin entrega el escudo a los personajes solo si al menos uno de ellos acepta participar en la recreación de la Batalla de High Hill**. Deja que el grupo decida qué personaje se queda con el escudo o cómo lo comparten.
+- La caja contiene el hacha característica de Ispin, un hacha +1 tallado con un árbol de hoja ancha marcado por cicatrices y de color verde musgo. Todos los personajes recuerdan haber oído la historia de Ispin sobre cómo un unicornio le entregó el hacha en el lejano bosque de Madera Oscurecida. (DM Note: Nadie puede decir si es cierto o si se trata de otra de las fantásticas historias de Ispin.)
+- **IMPORTANTE Becklin entrega el arma a los personajes solo si al menos uno de ellos acepta participar en la recreación de la Batalla de High Hill**. Deja que el grupo decida qué personaje se queda con el escudo o cómo lo comparten.
 - Darrett sugiere con entusiasmo ir al festival junto con los personajes.
 #### **Mañana de Festival**
 
@@ -62,7 +75,7 @@ https://5e.tools/adventure.html#dsotdq,3,arriving%20in%20vogler
 	  
 	  Las palabras de la alcaldesa son seguidas por una enérgica ronda de vítores. Con eso, el Festival del Martín Pescador comienza oficialmente.
 - **El Concurso de Pesca:** (Usar libro)
-    - Anima a los jugadores a participar.
+    - Raven anima a los jugadores a participar(Texto rojo pag 61).
     - Sesiones de 30 mins, 3 tiradas en total. Se puede repetir
     - Lord Bakaris está ahi molestando y bebiendo. Molesta al jugador mas habilidoso. 
 	    - Con Intimidacion o percepcion 14, bakaris se va
@@ -70,11 +83,11 @@ https://5e.tools/adventure.html#dsotdq,3,arriving%20in%20vogler
 #### **Betrayal at high hill**
 
 ```
-DMN: Si alguno muere en batalla o pierden, al terminar la pelea Darret les salva la vida y los devuelve a 1 de vida.
+Si alguno muere en batalla o pierden, al terminar la pelea Darret les salva la vida y los devuelve a 1 de vida.
 ```
 - El evento está programado para comenzar por la tarde. Aproximadamente una hora antes, el alcalde Raven reúne a la milicia de Vogler en la plaza del pueblo. A continuación, la milicia encabeza un desfile improvisado desde el pueblo hasta High Hill, seguido por docenas de espectadores y un carro lleno de bebidas para los participantes.
 ```
-DM NOTE: Darrett, Becklin u otro aldeano encuentra a los personajes cuando comienza el desfile y anima al grupo a que camine con ellos.`
+Darrett, Becklin u otro aldeano encuentra a los personajes cuando comienza el desfile y anima al grupo a que camine con ellos.
 ```
 - La recreación de este año es un poco diferente a la de años anteriores. Si los personajes charlan con Darrett u otros lugareños durante el camino a High Hill, obtienen la siguiente información:
 	- Esta batalla simulada recrea la antigua victoria de los Caballeros de Solamnia sobre las fuerzas enemigas de la nación oriental de Istar. La batalla fue liderada por Lord Vogler, un noble caballero y fundador de la aldea.
@@ -89,12 +102,13 @@ DM NOTE: Anima a todos los personajes a participar en la recreación, aunque sol
 	- Tras muchas risas y empujones, el alcalde, Garro y otros espectadores se dirigen a un lugar cercano con buena vista para observar. Mientras lo hacen, la milicia toma posiciones en lo alto de High Hill, la misma colina que ocuparon las tropas solamnicas hace siglos. Se enfrentan a los mercenarios del Regimiento Ironclad al pie de la colina, dispuestos como lo estuvieron en su día las fuerzas de Istar. Aunque el evento es solo una recreación, una emoción palpable invade el campo. En algún lugar de la línea, un recreador grita y vocifera: «¡Hagamos huir a esas ratas de Istar!».
 	  Un momento después, un toque de trompeta señala el comienzo de la batalla. «¡Por Istar!», grita el líder de los mercenarios, un alto semiorco entre varios soldados a caballo. Las tropas istarianas simuladas asaltan la colina. A tu alrededor, la milicia de Vogler carga para enfrentarse a ellos.
 ```
-DM NOTE: En cuanto empiezan a cargar, todos tiran percepcion, el mas alto se da cuenta de que el filo de las armas de los mercenarios reflejan el sol`
+En cuanto empiezan a cargar, todos tiran percepcion, el mas alto se da cuenta de que el filo de las armas de los mercenarios reflejan el sol
 ```
 - Leer:
 	- El inesperado sonido del metal chocando contra la armadura resuena por todo el campo, acallando las risas y las fanfarronadas melodramáticas. Una cinta roja salpica la colina cubierta de hierba, seguida de gritos de sorpresa. Cualquier pretensión de recreación se desvanece: High Hill vuelve a ser escenario de una batalla real. En cuestión de segundos, a tu alrededor, mercenarios armados atacan a aldeanos desprevenidos que luchan por sus vidas.
 ```
-DMN: Mercenarios y la milicia usan el stat block de guardias, pero la milicia no hace daño(por tener los filos de las armas protegidas)
+Mercenarios y la milicia usan el stat block de guardias, pero la milicia no hace daño(por tener los filos de las armas protegidas)
+    - https://dndbattletracker.com/
 	- https://5e.tools/bestiary.html#guard_xmm
 	- Montados en https://5e.tools/bestiary.html#warhorse_xmm
 ```
@@ -142,7 +156,7 @@ Si los personajes tienen éxito, el mercenario confiesa lo siguiente:
 1. **El Plan:** Gragonis quería matar a Cudgel para quedarse con el mando del Regimiento Ironclad.
 2. **El Oro:** Hace unos días, Gragonis fue al bosque (al oeste del campamento) y volvió con una gran cantidad de oro.
 3. **La Emboscada:** Usó ese dinero para pagar a los mercenarios más leales y atacar a la milicia de Vogler durante la recreación histórica, con el fin de saquear el pueblo después.
-4. **El Campamento:** Algunos mercenarios se quedaron atrás (incluyendo a **Jeyev**, el otro lugarteniente de Cudgel). El cautivo cree que los que se quedaron siguen siendo leales a Cudgel.
+4. **El Campamento:** Algunos mercenarios se quedaron atrás (incluyendo a **[[Jeyev]]**, el otro lugarteniente de Cudgel). El cautivo cree que los que se quedaron siguen siendo leales a Cudgel.
 5. **El misterioso benefactor:** El mercenario común **no sabe** quién pagó a Gragonis.
     - _Nota:_ Si el interrogado es el propio **Gragonis**, dirá que su contacto iba encapuchado y vestía una **armadura negra y roja**.
 
@@ -162,7 +176,7 @@ DMN:
 
 - Cuando los personajes u otros exploradores regresan a Vogler, se les indica que informen a la alcaldesa Raven, que ha pasado toda la noche en el Brass Crab con Becklin y otros aldeanos preocupados. Raven se sorprende al escuchar el informe sobre el campamento enemigo. Quiere saber más sobre la naturaleza y la disposición de esta fuerza, y es consciente de que Vogler no puede defenderse de nada más que unos pocos asaltantes. Está ansiosa por escuchar los consejos de los personajes y otros sobre cómo abordar esta posible amenaza.
 - Al principio, Raven se inclina por redactar una carta al comandante del campamento para declarar la neutralidad de Vogler en todos los conflictos, preguntar por las intenciones del misterioso ejército y darles la bienvenida para que se reúnan con la alcaldesa. Pero antes de que la alcaldesa pueda desarrollar más el plan, Cudgel regresa.
-- Cudgel Ironsmile regresa a Vogler acompañada por el teniente de sus exploradores, el humano Jeyev Veldrews. Cudgel comparte la siguiente información:
+- Cudgel regresa a Vogler acompañada por el teniente de sus exploradores, el humano [[Jeyev]] Veldrews. Cudgel comparte la siguiente información:
 	- Ella cree que Jeyev y sus tropas restantes le son leales; de no ser así, podrían haberla derrotado fácilmente.
 	- A su regreso, Cudgel descubrió que Jeyev y otros mercenarios leales se habían enterado de los acontecimientos ocurridos en High Hill. Habían retenido a varios soldados leales a Gragonis que no tenían órdenes de participar en la recreación.
 	- Durante la noche, los exploradores de Jeyev se encontraron con una gran fuerza militar al noroeste de la aldea, demasiado grande y organizada para ser una simple banda de mercenarios. Se trata del mismo ejército que probablemente avistaron los personajes, y los exploradores de Jeyev pueden confirmar todo lo que se describe en la sección «Avistamiento del enemigo».
@@ -175,7 +189,7 @@ Becklin Uth Viharin. La caballera está muy preocupada. Ha oído rumores sobre e
 
   
 
-Cudgel Ironsmile. Cudgel se siente responsable de todo lo que ocurre en High Hill. Ofrece al pueblo el apoyo total del Regimiento Ironclad. Está a favor de una respuesta pacífica al misterioso ejército, pero respaldada por las lanzas de sus mercenarios.
+Cudgel Ironsmile. Cudgel se siente responsable de todo lo que ocurre en High Hill. Ofrece al pueblo el apoyo total del Regimiento Acorazado. Está a favor de una respuesta pacífica al misterioso ejército, pero respaldada por las lanzas de sus mercenarios.
 
   
 
@@ -202,9 +216,10 @@ Deja que los personajes guíen la decisión de los líderes de Vogler, que apoya
 - El alcalde Raven intenta evitar el derramamiento de sangre y anima a los personajes a retirarse.
 - **Seccion Resistance**: Llevarlo con el libro pero resumido: Pag 68
 	- **Conflicto de opiniones:** Ante la demanda del Ejército del Dragón, la alcaldesa Raven cree que no hay más opción que rendirse, pero Becklin y Cudgel se oponen rotundamente por los horrores que conlleva una ocupación.
-	- **Propuesta de defensa:** Se plantea utilizar al **Regimiento Ironclad** para defender el pueblo. Cudgel lo sugerirá si los personajes no lo hacen primero.
+	- **Propuesta de defensa:** Se plantea utilizar al **Regimiento Acorazado** para defender el pueblo. Cudgel lo sugerirá si los personajes no lo hacen primero.
 	- **El obstáculo táctico:** Para traer a los mercenarios al pueblo sin ser detectados, es necesario eliminar primero a los soldados del Ejército del Dragón que custodian la puerta.
 	- **Dificultad operativa:** Los soldados enemigos tienen la ventaja de la altura (terreno elevado), por lo que el grupo deberá elegir entre dos opciones de infiltración para neutralizarlos. (Escalar o lanzadera en la torre)
+	- https://5e.tools/bestiary.html#dragon%20army%20soldier_dsotdq
 
 - **Seccion Preparing for the worst**: Pag 69
 	- Se reunen y estas son las poisiciones de cada uno:
@@ -214,6 +229,7 @@ Deja que los personajes guíen la decisión de los líderes de Vogler, que apoya
 	- **Posibilidad de Evacuación:** La alcaldesa rechaza la idea de abandonar el pueblo inicialmente, pero puede ser convencida (persuasión DC 12) de que es lo mejor. Si esto ocurre, Becklin apoya la idea y Raven la acepta a regañadientes como única opción.
 	- **Acción Inmediata:** Si nadie la detiene, Cudgel partirá de inmediato (ya sea cabalgando o a hurtadillas) para reunir a sus mercenarios.
 - Becklin's Fear
+- Aparta a los jugadores y a darret y habla con ellos:
 ```
 - **La amenaza global:** Becklin sospecha que los soldados del Ejército del Dragón Rojo no son un grupo aislado, sino parte de una fuerza imparable que viene del este.
     
