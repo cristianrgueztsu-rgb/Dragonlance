@@ -1,6 +1,3 @@
-### TODO: 
-- Preparar algo de lore de los jugadores (Ainhoa y aday sobre todo. Aday preguntó sobre por que lilly se presentaría como otro dios)
-
 ### Situacion actual
 - 12 del mediodia
 - [[Elodin (Migue)]] está en la taberna Cangrejo de laton.
@@ -116,6 +113,13 @@ Mercenarios y la milicia usan el stat block de guardias, pero la milicia no hace
 - Usar libro, pag 64. (DMN: si algun prota les acompaña, no puede morir)
 - **Gragonis arrives**, leer:
 	- Una figura corpulenta que blande un formidable hacha de guerra lidera a una banda de mercenarios a través del caos. A medida que se acerca, va acabando con los pocos miembros que quedan de la milicia de Vogler.
+
+no han looteado
+pablo no tiene 1 lanza
+Todo: leer ainhoa
+
+---------- Terminaron --------
+
 - Al terminar de matar a gragonis y los 4 mercenarios, el resto de mercenarios se dispersan y la batalla termina.
 - Llegan Garro, Alcaldesa raven, Becklin, Darret y algunos mas heridos.
 - [[Raven Uth Vogler]] les da las gracias y les promete ser recompensados, pero ahora está ocupada tratando a los heridos.
