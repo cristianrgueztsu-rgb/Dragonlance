@@ -1,1 +1,3 @@
 - Comandante del Ejército del Dragón Rojo de [[Takhisis]]
+
+![[Verminaard.webp]]

@@ -74,7 +74,8 @@ Becklin envió a Darrett a buscar pasteles horneados al Fishbowl para ellos dos 
 	  Los vítores y aplausos llenan la plaza. La alcaldesa sonríe ampliamente. «Hoy es un día no solo de jolgorio, sino también de reflexión. Todos estamos aquí gracias al valor de los héroes que nos precedieron. Honremos a nuestros fundadores, a nuestra familia y a todos aquellos que no pueden estar aquí para celebrar hoy. ¡Disfruta del festival, Vogler, con buen ánimo, buenos momentos y buenos amigos! ¡Y busca la buena suerte en los martines pescadores!»
 	  
 	  Las palabras de la alcaldesa son seguidas por una enérgica ronda de vítores. Con eso, el Festival del Martín Pescador comienza oficialmente.
-- **El Concurso de Pesca:** (Usar libro)
+- Los jugadores pueden participar en el escenario, hablar con la gente o bailar o participar en el concurso.
+- **El Concurso de Pesca:** (Usar libro pag 61)
     - Raven anima a los jugadores a participar(Texto rojo pag 61).
     - Sesiones de 30 mins, 3 tiradas en total. Se puede repetir
     - Lord Bakaris está ahi molestando y bebiendo. Molesta al jugador mas habilidoso. 
@@ -85,7 +86,7 @@ Becklin envió a Darrett a buscar pasteles horneados al Fishbowl para ellos dos 
 ```
 Si alguno muere en batalla o pierden, al terminar la pelea Darret les salva la vida y los devuelve a 1 de vida.
 ```
-- El evento está programado para comenzar por la tarde. Aproximadamente una hora antes, el alcalde Raven reúne a la milicia de Vogler en la plaza del pueblo. A continuación, la milicia encabeza un desfile improvisado desde el pueblo hasta High Hill, seguido por docenas de espectadores y un carro lleno de bebidas para los participantes.
+- El evento está programado para comenzar por la tarde. Aproximadamente una hora antes, el alcalde Raven reúne a todo el pueblo de Vogler en la plaza. A continuación, la milicia encabeza un desfile improvisado desde el pueblo hasta High Hill, seguido por docenas de espectadores y un carro lleno de bebidas para los participantes.
 ```
 Darrett, Becklin u otro aldeano encuentra a los personajes cuando comienza el desfile y anima al grupo a que camine con ellos.
 ```
@@ -109,7 +110,7 @@ En cuanto empiezan a cargar, todos tiran percepcion, el mas alto se da cuenta de
 ```
 Mercenarios y la milicia usan el stat block de guardias, pero la milicia no hace daño(por tener los filos de las armas protegidas)
     - https://dndbattletracker.com/
-	- https://5e.tools/bestiary.html#guard_xmm
+	- 3 mercenarios: https://5e.tools/bestiary.html#guard_xmm
 	- Montados en https://5e.tools/bestiary.html#warhorse_xmm
 ```
 - Usar libro, pag 64. (DMN: si algun prota les acompaña, no puede morir)

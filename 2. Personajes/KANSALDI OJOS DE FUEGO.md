@@ -4,3 +4,5 @@
 - Cuenta con comandantes subordinados como Belephaion y el as de la aviación conocido como Ruina Roja.
 - [[Lord Soth]], el caballero de la muerte, coopera con ella por orden de la Reina de los Dragones.
 - Es la villana principal de la aventura, destacando por su devoción fanática, destreza táctica y su distintivo ojo carmesí.
+
+![[Kansaldi Fire-Eyes.webp]]

@@ -5,3 +5,6 @@ Cuando la Reina Dragón dirige sus ambiciones hacia Solamnia, convoca a uno de s
 Aunque Lord Soth es bien conocido en los relatos del escenario de Dragonlance, esta aventura no asume que los personajes, ni la mayoría de la gente de Kalaman, conozcan la leyenda del caballero de la muerte ni esperen que esté actuando en el mundo. Los personajes pueden aprender detalles relevantes sobre Lord Soth a lo largo de la aventura.
 
 Incluso cuando los personajes alcanzan sus niveles más altos, Lord Soth probablemente siga siendo una amenaza demasiado grande como para ser derrotada por ellos. En lugar de presentarlo como un enemigo al que enfrentarse en combate, describe a Soth como un ejemplo aterrador de los villanos al servicio de la Reina Dragón: una amenaza acechante que debe evitarse. Para el final de la aventura, los personajes tendrán oportunidades de socavar los planes de Soth y apartarlo del servicio del Ejército del Dragón, al menos por un tiempo.
+
+
+![[Lord Soth.webp]]

@@ -15,3 +15,5 @@
     - **Vínculo:** Su honor es fundamental, aunque reconoce que los códigos rígidos no siempre cubren las complejidades de la vida real.
         
     - **Defecto:** Tiende a romantizar el pasado, creyendo que fue la única época donde la gente podía convertirse en leyenda.
+
+![[039-03-002.berklin-uth-viharin.webp]]
