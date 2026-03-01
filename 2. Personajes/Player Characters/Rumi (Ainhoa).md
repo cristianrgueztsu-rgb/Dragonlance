@@ -15,7 +15,7 @@ La Profecía de la Luna Velada anuncia que quien una sangre real y raíz eterna 
 Rumi heredó de su madre la autoridad innata y de su padre la conexión lunar. Años después, Maelis, un erudito humano exiliado, reconoció en su anillo pruebas de su linaje real y la nombró heredera legítima. Desde entonces, la apoya desde las sombras.
 Hoy, Rumi viaja como aventurera. No sabe si desea el trono ni cuándo el sello se romperá del todo, pero sí sabe esto: la luna no espera, la sangre recuerda, y cuando llegue la fase correcta, el mundo deberá adaptarse… o apartarse.
 
-Objetivo:
+Objetivo PJ:
 1. Controlar su magia lunar
 2. Descubrir reino
 

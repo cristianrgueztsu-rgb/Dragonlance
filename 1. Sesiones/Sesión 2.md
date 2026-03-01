@@ -254,4 +254,5 @@ Detrás de ella, aparecen dos soldados reptilianos. «Ellos...siguientes», dice
 	Vogler está en llamas. En medio de las columnas de humo que se elevan desde la aldea, los invasores saquean lo que queda. Los aldeanos que viajan contigo no apartan la mirada, observando hasta que su hogar no es más que una mancha rojo-negra a lo largo de la orilla del río. Los barcos de evacuación transportan todo lo que queda de Vogler por el Vingaard, hacia un refugio incierto en Kalaman.
 	```
 
-- 
+- **Seccion Lost In Battle**
+	- Desenlace elegido: Assassination.

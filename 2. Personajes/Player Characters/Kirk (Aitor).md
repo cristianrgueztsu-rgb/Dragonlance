@@ -15,3 +15,5 @@ Se vio obligado a esconderse y vivir lejos de la sociedad unos años, donde apre
 Años después se ha destapado que Netan fue el verdadero culpable del asesinato y a Kirk se le ha perdonado. Ya no tiene que esconderse de la ley pero muchos viejos compañeros aún no se fían.
 
 Por consecuencia, Kirk ahora piensa que la ley es siempre corrupta y siente desagrado por quienes la siguen ciegamente.
+
+Custom DM:
