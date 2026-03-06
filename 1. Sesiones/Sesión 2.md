@@ -1,10 +1,13 @@
 ### TODO: 
 - Preparar algo de lore de los jugadores (Ainhoa y aday sobre todo.)
+- Mirar lo de los puntos de hechiceria de ainhoa, mirar cuantos usos tiene o si es infinito
 
 ### Situacion actual
 - 7 de la tarde
 - Acaban de terminar la pelea en la colina contra los mercenarios de Garro
 
+Final:
+- Mataron a los soldados de la colina, se escapó el mensajero
 ### Comienzo Sesion
 https://5e.tools/adventure.html#dsotdq,3,aftermath,0
 
