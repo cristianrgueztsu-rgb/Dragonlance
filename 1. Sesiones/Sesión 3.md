@@ -5,11 +5,11 @@
 - 11 de la mañana
 - Acaban de terminar la pelea encima de la colina, sin lootear. La razon del ataque era para poder traer al grupo de mercenarios de [[Garro Sonrisa de Hierro]]
 
+
+Final:
+- Mataron al ogro, no lootearon, elodin tiene un pet gato negro
 ### Comienzo Sesion
 https://5e.tools/adventure.html#dsotdq,3,aftermath,0
-
-- 
-
 
 - **Seccion Preparing for the worst**: Pag 69
 	- Se reunen y estas son las poisiciones de cada uno:
@@ -48,11 +48,14 @@ https://5e.tools/adventure.html#dsotdq,3,aftermath,0
 	- **Asamblea general:** Una vez que los habitantes están congregados, la **alcaldesa Raven** se encarga de dirigirse a la multitud.
 	- **Inicio del anuncio:** El texto indica que, en este punto, la alcaldesa procede a explicar la situación crítica a todo el pueblo.
 	- Leer lo siguiente cuando esten todos reunidos:
-	- Las coloridas decoraciones del Festival del Martín Pescador aún cubren la plaza del pueblo y el escenario del festival. A diferencia del día anterior, la gente reunida en el centro del pueblo está sombría y murmura con tono preocupado mientras el alcalde Raven sube al escenario.
+	
+	```
+	Las coloridas decoraciones del Festival del Martín Pescador aún cubren la plaza del pueblo y el escenario del festival. A diferencia del día anterior, la gente reunida en el centro del pueblo está sombría y murmura con tono preocupado mientras el alcalde Raven sube al escenario.
 	  
 	  El alcalde no se anda con rodeos: «Un peligroso ejército se dirige hacia Vogler. El Regimiento Acorazado hará todo lo posible por defender Vogler, pero debemos estar preparados para huir»
 	  
 	  Tras el informe del alcalde, los lugareños permanecen en silencio, atónitos. Luego, sus preguntas llegan en una oleada de gritos, ira y miedo.
+	```
 
 	- **Gestión del pánico:** Los personajes pueden ayudar a la alcaldesa a recuperar el control mediante una prueba de **Carisma (Intimidación o Persuasión) CD 12**. De fallar, los preparativos se retrasan más de una hora debido al caos.
 	- **Interferencia de los nobles:** Lord Bakaris o su hijo pueden intentar socavar la autoridad de la alcaldesa. Si esto ocurre, los aldeanos rechazarán el plan a menos que un personaje los confronte (mediante interpretación o una prueba de **Carisma CD 14**).
@@ -133,6 +136,13 @@ Una pared exterior del Brass Crab se rompe hacia afuera. Una bruta de tres metro
 
 Detrás de ella, aparecen dos soldados reptilianos. «Ellos...siguientes», dice el ogro, señalando en vuestra dirección. Los soldados avanzan obedientemente.
 ```
+
+
+
+
+-------------------- TERMINO AQUI -------------------
+
+
 
 - **Seccion The Final Boat**
 	- La mayoría de los draconianos están distraídos saqueando el pueblo, lo que otorga a los habitantes el tiempo necesario para huir. En el extremo del muelle, solo quedan la alcaldesa Raven, Darrett y unos pocos rezagados esperando para abordar. 
