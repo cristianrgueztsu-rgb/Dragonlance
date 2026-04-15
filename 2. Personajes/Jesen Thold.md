@@ -1,0 +1,3 @@
+- Neutral good
+- Human veteran
+- Amigo de [[Mariscal Nestra Vendri]]

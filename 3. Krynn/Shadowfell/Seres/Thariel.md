@@ -1,4 +1,7 @@
 - Origen: Lore Anima (Aday)
-- Vigila y protege a [Lilly](obsidian://open?vault=Obsidian%20Vault&file=Dragonlance%2FKRYNN%2FShadowfell%2FSeres%2FLilly%20La%20So%C3%B1adora)
+- Vigila y protege a [[Lilly La Soñadora]]
 - Ser de poco poder
-- Tiene un pacto con Anima
+- Tiene un pacto con Anima (El pacto consta de que cualquier enemigo que mate anima con el arma de Thariel, hará que thariel se vuelva más fuerte. Con el objetivo final de poder hacerse un nombre en su reino)
+- Reino: Shadowfell
+- Alineamiento: Chaotic Good
+- Es bueno y su intencion es solamente conseguir renombre. Al ser alguien tan debil le encasquetaron la tarea de vigiular a [[Lilly La Soñadora]]

@@ -1,0 +1,5 @@
+- Lawful Neutral
+- Enanos de las colinas veteranos
+- Tienen una forja en kalaman (Hammerstrike forges)
+- Kadmos se especializa en armadura
+- Tiria en armas

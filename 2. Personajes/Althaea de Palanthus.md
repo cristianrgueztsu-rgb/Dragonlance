@@ -1,0 +1,3 @@
+- Origen: Lore [[Rumi (Ainhoa)]]
+- Madre rumi
+- Palanthus es la capital de Solamnia ->Caballeros de solamnia

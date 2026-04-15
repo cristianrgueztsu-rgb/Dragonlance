@@ -9,5 +9,6 @@
     - **Ideal:** Quiere obligar al mundo a reconocer su supuesta grandeza.
     - **Vínculo:** Siente que ha perdido mucho tiempo y que merece reclamar lo que le corresponde por derecho.
     - **Defecto:** Si no consigue lo que quiere mediante su carisma o aspecto, está dispuesto a tomarlo por la fuerza de su espada.
+- Padre: [[Lord Bakaris]]
 
 ![[041-03-004.bakaris-the-younger.webp]]

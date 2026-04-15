@@ -1,0 +1,3 @@
+- Lawful Neutral
+- Human Knight
+- Jefa del ejercito de [[Kalaman]]

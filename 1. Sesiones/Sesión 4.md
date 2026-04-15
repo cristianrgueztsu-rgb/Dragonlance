@@ -76,9 +76,9 @@ Estatuas de soldados titánicos se alinean a lo largo de las imponentes murallas
 Aunque el imponente castillo de Kalaman no se alzara sobre acantilados de treinta metros, seguiría sobresaliendo por encima de cualquier otra construcción de la ciudad. El camino que conduce a él asciende por la ladera del acantilado, bajo la mirada de estatuas gigantescas similares a las que bordean las murallas de la ciudad. Al final del camino, unos guardias montan guardia ante una puerta abierta.
 ```
 
-### Encounter with Bakaris (Encounter con Bakaris)
+### Encounter with Bakaris
 
-- Un breve enfrentamiento en el patio con Bakaris el Joven, a quien los personajes deben intimidar o esquivar para que no les impida el paso al consejo.
+- Un breve enfrentamiento en el patio con [[Bakaris el Joven]], a quien los personajes deben intimidar o esquivar para que no les impida el paso al consejo.
 ```
 Al cruzar el patio empedrado del castillo de Kalaman, una figura familiar te intercepta con una sonrisa arrogante: Bakaris el Joven.
 
@@ -88,6 +88,7 @@ Al cruzar el patio empedrado del castillo de Kalaman, una figura familiar te int
 ### Council Meeting (Reunión del Consejo)
 
 - Los personajes entran a la reunión y descubren que Lord Bakaris está mintiendo para llevarse el mérito de la defensa de Vogler y avanzar su propia agenda.
+- [[Calof Miat]]
 
 ```
 Ocho personas de aspecto serio están sentadas alrededor de una amplia mesa en medio de un espacioso salón. En el extremo de la mesa, un hombre alto con el pelo rubio trenzado y un chaleco de terciopelo azul y dorado se pone de pie para darte la bienvenida.
@@ -97,7 +98,7 @@ Ocho personas de aspecto serio están sentadas alrededor de una amplia mesa en m
 «Decidnos», continúa el gobernador, «¿vuestra gente sigue preparándose para la batalla?».
 ```
 
-### Lord Bakaris Uth Estide (Perfil de Lord Bakaris)
+### [[Lord Bakaris]] Uth Estide (Perfil de Lord Bakaris)
 
 - Perfil de interpretación del PNJ: un noble arrogante, cobarde y egocéntrico que busca la gloria personal a costa de los demás sin tener experiencia real de liderazgo.
 
@@ -108,6 +109,8 @@ Ocho personas de aspecto serio están sentadas alrededor de una amplia mesa en m
 ### Clarifying the Situation (Aclarando la situación)
 
 - El grupo debe desmentir a Bakaris (mediante rol o tiradas) y explicar la verdadera situación de los refugiados y la naturaleza del ataque a los líderes de la ciudad.
+- [[Mariscal Nestra Vendri]]
+
 
 ```
 El gobernador Miat frunce el ceño. «Son todas noticias terribles. Mi más sincero pésame a sus amigos y familiares, pero espero que puedan comprender nuestra reticencia a darles la bienvenida a todos a través de las puertas de nuestra ciudad. No son tiempos normales. ¿Mariscal?».
@@ -146,7 +149,7 @@ In a decisive tone, Governor Miat says, "The citizens of Kalaman are prepared to
 ### Message for a Mage (Mensaje para un mago) - Opcional
 
 - Si algún personaje tiene el pergamino de Wyhan de la misión del capítulo anterior, puede buscarla en su botica.
-- **Wyhan**, una severa Maga de las Túnicas Negras, lee el pergamino y recibe una evaluación mágica sobre qué Túnica podría ajustarse al personaje.
+- **[[Wyhan]]**, una severa Maga de las Túnicas Negras, lee el pergamino y recibe una evaluación mágica sobre qué Túnica podría ajustarse al personaje.
 
 ```
 La Botica de Wyhan huele a regaliz y pimienta. La modesta tienda cuenta con unas pocas mesas en las que se exponen amuletos de la suerte, extraños huesos de animales y frascos que anuncian diversos remedios. En la parte trasera de la tienda, una mujer humana de cabello azabache y vestido oscuro con mangas emplumadas a modo de alas se encuentra de pie detrás de un mostrador repleto de libros abiertos. Levanta la vista de su lectura, te mira con desinterés y luego vuelve a sumergirse en su libro.

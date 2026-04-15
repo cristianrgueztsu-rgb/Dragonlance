@@ -1,0 +1,4 @@
+- Lawful Neutral
+- Human Noble
+- Es el gobernador de [[Kalaman]].
+- Representa a los ciudadanos de Kalaman
