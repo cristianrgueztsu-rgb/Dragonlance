@@ -41,13 +41,13 @@ Su objetivo: despertar y desafiar a los dioses. Necesita el poder de cientos de 
 	- Maybe una dungeon, otro acertijo que lleva a la segunda mitad
 	- Un bosque magico?
 	- Una vez tienen las dos mitades, y yo decida que es buen momento para continuar la historia, [[Thariel]] se presentará en sus sueños una noche y le pedirá que despierte a sus compañeros, [[Lilly La Soñadora]] se está despertando
-	- Son teletransportados al shadowfell, si no conocen aun la verdadera identidad de [[Lilly La Soñadora]], ella misma se los cuenta y pide que le den el baculo, busca venganza contra los dioses, a ellos les promete poder y riquezas, vivir entre los nuevos dioses, junto a [[Thariel]]. 
+	- Son teletransportados al shadowfell, si no conocen aun la verdadera identidad de [[Lilly La Soñadora]], ella misma se los cuenta y pide que le den el baculo, busca venganza contra los dioses, a ellos les promete poder y riquezas, vivir entre los nuevos dioses, junto a [[Thariel]] e incluso ayudarles contra el ejercito draconiano
 	- ([[Thariel]] no habla, no dice nada, se le ve serio)
 	- Tienta a cada uno con algo personal:
-		- Anima: Estar junto a [[Thariel]] y [[Roderic]]
+		- Anima: Estar junto a [[Thariel]] y [[Roderic]], le ofrecerá poder para que pueda explorar
 		- Elodin: Revivir a [[Kimber]] y [[Astrin]]
 		- Rumi: El poder de las 3 lunas
-		- Tridin: Dinero, poder, decirle la verdad del destino de su amigo [[Gimnur]] (TODO: inventarme algo)
+		- Tridin: Dinero, poder, mujeres, decirle la verdad del destino de su amigo [[Gimnur]] (TODO: inventarme algo)
 		- Kirk: "Crees que la ley está podrida hasta sus raices? Te daré el poder para arrancar las malas hierbas, podrás encargarte personalmente de que lo que te pasó a ti, no le pase nunca a nadie más"
 	- Si aceptan, pues nueva subtrama, ver como continuar
 	- Si se niegan, pelea contra [[Lilly La Soñadora]] y la ayuda [[Thariel]]

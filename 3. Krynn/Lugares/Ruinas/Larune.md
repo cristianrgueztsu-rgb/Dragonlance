@@ -1,0 +1,1 @@
+- Castillo en ruinas localizadas en [[Silvanesti]]
