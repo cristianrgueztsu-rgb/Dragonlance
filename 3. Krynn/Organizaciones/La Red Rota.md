@@ -1,0 +1,2 @@
+- De cara al publico es una empresa comerciante normal
+- La realidad es que es una banda ilicita liderada por [[Narfu Drag]]

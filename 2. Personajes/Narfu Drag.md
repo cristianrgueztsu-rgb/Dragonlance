@@ -1,0 +1,6 @@
+- Mercader del mercado negro
+- Lider de una mafia llamada [[La Red Rota]]
+- El grupo de [[Elodin (Migue)]] le robó hace años y busca venganza.
+- Planeó una emboscada y consiguió matar a [[Kimber]], capturar a [[Astrin]] y a [[Gimnur]] (el dueño de la casa)
+- Usaba a [[Astrin]] para pagar la deuda de lo que le robaron, haciendo que trabajara para él (No tenia intenciones de liberarla). A parte le habia dicho que dejaría a Elodin tranquilo si le hacía caso. 
+- Usaba a [[Gimnur]]

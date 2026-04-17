@@ -36,7 +36,7 @@ Y entonces todo salió mal.
 
 Una ciudad equivocada. Un noble equivocado. Una deuda que no era solo dinero.
 
-Aquella noche no hubo tiempo para huir. La emboscada fue limpia, profesional. No eran guardias comunes. Kimber murió primero, defendiendo la salida como siempre había prometido. Astrin… Astrin te empujó fuera por una ventana trasera mientras el fuego empezaba a devorar el escenario.
+Aquella noche no hubo tiempo para huir. La emboscada fue limpia, profesional. No eran guardias comunes. [[Kimber]] murió primero, defendiendo la salida como siempre había prometido. [[Astrin]]… Astrin te empujó fuera por una ventana trasera mientras el fuego empezaba a devorar el escenario.
 
 Tú sobreviviste.
 
@@ -60,3 +60,42 @@ Pero mientras tanto, cada partida de cartas es una pequeña venganza contra el m
 
 
 ### Custom DM:
+
+#### Resumen: 
+El grupo de elodin hace años robó a un mercader del mercado negro llamado [[Narfu Drag]]. Este mercader tenia una gran empresa publica llamada [[La Red Rota]]. Lo que no muchas personas sabe es que a su vez, operaban como una banda ilicita de gente trabajando para el.
+
+Este robo hizo que [[Narfu Drag]] se enfadara y los persiguiera. Acabaría haciendoles una emboscada en su ultimo robo. Consiguió matar a [[Kimber]], capturar a [[Astrin]] y a [[Gimnur]] (el dueño de la casa).
+
+Usaba a [[Astrin]] se ha escapado y busca matarlos a los 2.
+
+
+#### New Lore
+
+Ciudad ultimo robo: [[Lemish]]
+Target del robo: Gimnur
+Hace 7 años
+
+En su ultimo robo, intentaron robar en la casa de un mercader llamado [[Gimnur]]. Sin embargo les emboscaron ([[La Red Rota]]). [[Elodin (Migue)]] cree que murieron todos, en realidad capturaron a [[Astrin]] y a [[Gimnur]] (el dueño de la casa).
+
+[[Astrin]] lleva años trabajando para [[La Red Rota]] para saldar su deuda y para que [[Elodin (Migue)]] pueda vivir en paz. Hace poco se dio cuenta de queesto nunca acabará y decidió escaparse para pedir ayuda. Al escapar, [[La Red Rota]] puso una recompensa por las cabezas de ambos.
+
+- Un dia aleatorio cuando se encuentre solo, [[Elodin (Migue)]] se da cuenta de que le están siguiendo. El punto es que le ataquen entre 2 personas encapuchadas.
+- Si los mata:
+	- encuentra un cartel de se busca con su cara y con una recompensa de 300 de oro, **especifica que se le busca vivo**
+- Si no los mata:
+	- Puede interrogarlos y averiguar que quieren. De ahi saca que encontraron un cartel de se busca de su cara, **especifica que se le busca vivo**
+- En ambos casos, tendrá que empezar a preguntar por los bajos fondos, maybe en la taberna le pueden guiar hacia allí.
+- Cuando vaya a explorar, tendrá uque preguntar por info para saber de donde salen esos carteles **QUE VAYA CON CAPUCHA O LE VAN A RECONOCER**.
+- Alguien le guiará hasta la persona que le está buscando, ahi le contará que una vez tenga al rehen, vengan a dar con él, pues deben hacer un viajecito.
+	- Si le apalizan, les cuenta que al solo le dijeron que tendrian que llevarlo a una mansion quemada en [[Lemish]], no sabe mas
+		- Una vez en [[Lemish]] deberán preguntar de nuevo por la mansion si fueron solos. Una vez llegan a la mansion, describirla,
+		- Allí habrá un grupo esperandoles
+		- Pelea
+		- Descubren que pertenecen a [[La Red Rota]]
+	- Si finjen tenerlo de rehen, el tipejo les llevará en carro
+		- Este grupo pedirán llevarse solamente a [[Elodin (Migue)]] y alguien les traerá el oro, les ofrecen darles 150 por adelantado
+		- Sea cual sea la decision, descubren que pertenecen a [[La Red Rota]]. 
+- [[La Red Rota]] tiene un almacen solamente en la ciudad, si van, hay dungeon en el sotano.
+- A traves del sotano encuentran a alguien encarcelado con libros de cuentas, es [[Gimnur]]
+
+
