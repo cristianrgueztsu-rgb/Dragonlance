@@ -76,4 +76,9 @@ Actuad con absoluta discreción y sin escatimar medios para que la ciudad caiga 
 Una vez hayais leido estas instrucciones, quemad esta carta de inmediato para que no quede rastro de mi intervención en su destino.
 ```
 
-- Finalmente van a visitar el padre, es una dungeon en el bosque, hay sectarios de [[Eclipsarios]] y su padre al final junto a [[Maelis]](si no fueron a palanthus), batalla epica, pierden, el padre se arrepiente, le indica donde está la piedra lunar y el libro del ritual.
+- Finalmente van a visitar el padre, es una dungeon en el bosque
+	- En la dungeon, hacer el puzle de Triangle lock [[Puzzles_Predicaments_and_Perplexities.pdf]]
+	- hay 2 sectarios [[Eclipsarios]] que contienen 2 llaves cada unoi
+	- Durante el puzle, escuchan un ritual a traves de la puerta.
+	- Al final del puzle, se encuentra su padre junto a [[Maelis]](si no fueron a palanthus), intenando repliclar el rito de las 3 lunas para obtener el poder(no podrá), batalla epica, pierden los malos, el padre muere ahogado en su sangre y no se llega a saber si se arrepiente. 
+	- Al lootear la sala, ve la piedra lunar y el libro del ritual.
