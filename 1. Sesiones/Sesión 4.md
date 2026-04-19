@@ -1,5 +1,5 @@
 ### TODO: 
-- Preparar algo de lore de los jugadores (Ainhoa y aday sobre todo.)
+- Preparar algo de lore de los jugadores (Ainhoa y aday sobre todo.) DONE
 
 ### Situacion actual
 - 12 de la noche
@@ -10,30 +10,30 @@ https://5e.tools/adventure.html#dsotdq,3,aftermath,0
 - **Seccion The Final Boat**
 	- La mayoría de los draconianos están distraídos saqueando el pueblo, lo que otorga a los habitantes el tiempo necesario para huir. En el extremo del muelle, solo quedan la alcaldesa Raven, Darrett y unos pocos rezagados esperando para abordar. 
 	- Aún quedan embarcaciones con espacio suficiente tanto para el grupo de personajes como para los PNJs restantes. 
-	- Antes de que los PC vayan a los botes, leer:
+	- Antes de que los PC vayan a los botes, leer: P74
 	```
 	  «¡Detened el barco!», grita una voz entre la calle envuelta en humo. Un hombre corre a través de la neblina hacia el muelle, vestido con la armadura de un mercenario del Regimiento Acorazado y con un casco con cuernos en la mano.
 	```
 
-	- Los personajes reconocen a Jeyev Veldrews, lugarteniente de Cudgel, quien ha sido enviado por Becklin para informar que la batalla contra el Ejército del Dragón resultó en una derrota, aunque algunos miembros del Regimiento Acorazado lograron sobrevivir.
+	- Los personajes reconocen a Jeyev Veldrews, lugarteniente de [[Garro Sonrisa de Hierro]], quien ha sido enviado por Becklin para informar que la batalla contra el Ejército del Dragón resultó en una derrota, aunque algunos miembros del Regimiento Acorazado lograron sobrevivir.
 	- Becklin encargó a Jeyev asegurar la salida de los aldeanos y advertirles que no deben esperar por ella ni por los mercenarios. La huida debe ser inmediata, ya que fuerzas enemigas vienen pisándole los talones.
 	- Jeyev carga con el yelmo de un Caballero de Solamnia, pero se niega a ofrecer más explicaciones hasta que todos hayan abordado el barco.
 
 - **Seccion Last Glimpse of Vogler**
-	- Los personajes escapan de Vogler en el último barco, un pequeño barco pesquero con capacidad apenas suficiente para los personajes, Darrett, el alcalde Raven, Jeyev y algunos otros lugareños. Lee:
+	- Los personajes escapan de Vogler en el último barco, un pequeño barco pesquero con capacidad apenas suficiente para los personajes, Darrett, el alcalde Raven, Jeyev y algunos otros lugareños. Lee: P74
 	```
 	Vogler está en llamas. En medio de las columnas de humo que se elevan desde la aldea, los invasores saquean lo que queda. Los aldeanos que viajan contigo no apartan la mirada, observando hasta que su hogar no es más que una mancha rojo-negra a lo largo de la orilla del río. Los barcos de evacuación transportan todo lo que queda de Vogler por el Vingaard, hacia un refugio incierto en Kalaman.
 	```
 
 - **Seccion Lost In Battle**
-	- Desenlace elegido: Assassination.
+	- Desenlace elegido: Assassination. (se mete al barco y durante el viaje intenta matar a darret, se escapa tirandose al agua)
+	
+- **Seccion Next steps**
+	- Describir que el viaje en el rio les llevará hasta kalaman, tardan toda la noche y no ocurre nada
+
+- **Preguntar como me ven como DM hasta aqui, alguna critica constructiva?**
 
 # CAPITULO 4
-
-### Kalaman Gazetteer (Visión general de Kalaman)
-
-- Presenta la ciudad como un bastión comercial y un refugio seguro para la región.
-- Establece que Kalaman será el **hogar y base de operaciones** del grupo, creando un vínculo para que quieran defenderla de la inminente amenaza.
 
 ### Knowledge of Kalaman (Conocimiento sobre Kalaman)
 
@@ -41,11 +41,14 @@ https://5e.tools/adventure.html#dsotdq,3,aftermath,0
 
 ### Power in Kalaman (El poder en Kalaman)
 
-- Describe el triunvirato que gobierna la ciudad: el **Gobernador** (representante del pueblo), el **Consejo de Gremios** (intereses comerciales y servicios) y la **Mariscal** (líder militar encargada de la defensa).
+- DM: Triunvirato que gobierna la ciudad: el **Gobernador** [[Calof Miat]] (representante del pueblo), el **Consejo de Gremios** (intereses comerciales y servicios) y la [[Mariscal Nestra Vendri]] (líder militar encargada de la defensa).
 
 ### Arriving in Kalaman (Llegada a Kalaman)
 
-- Los personajes y los supervivientes de Vogler llegan a las costas de Kalaman al amanecer y comienzan a establecer un campamento improvisado.
+- Los supervivientes de Vogler llegan a la vista de las murallas y el puerto de Kalaman al amanecer.
+- Los personajes acompañan a Darrett al campamento, donde los aldeanos se organizan para evaluar daños y cocinar.
+
+P79
 
 ```
 La ciudad amurallada de Kalaman se alza en la distancia, extendiéndose a lo largo de la costa sur de una amplia bahía. Los barcos navegan hacia y desde el puerto amurallado de la ciudad, con su rumbo iluminado por un par de imponentes faros.
@@ -55,15 +58,20 @@ En la orilla que se divisa más adelante, donde el río Vingaard desemboca en la
 
 ### Refugees at the Shore (Refugiados en la costa)
 
-- Los supervivientes se enfrentan a problemas menores en el campamento; incluye una pequeña tabla de encuentros (d4) para que el grupo ayude a resolverlos (botes a la deriva, heridos, frío, etc.).
+- Surgen dificultades menores entre los refugiados que requieren la intervención de los héroes.
+- Se utilizan eventos aleatorios para resolver problemas de salud, seguridad o logística en el campamento.
 
 ### Delegation to Kalaman (Delegación a Kalaman)
 
-- El grupo nota que Lord Bakaris y su hijo han desaparecido; deben ir a la ciudad para investigar, ya que se han adelantado para hablar con los líderes sin permiso.
+- El grupo nota que Lord Bakaris y su hijo se adelantaron para hablar con los líderes de la ciudad.
+- La alcaldesa Raven solicita formalmente a los héroes que negocien la seguridad de los refugiados en Kalaman.
 
 ### Entrance to Kalaman (Entrada a Kalaman)
 
-- Breve interacción con los guardias de la puerta principal, quienes permiten el paso sin problemas y dirigen al grupo hacia el Castillo de Kalaman.
+- Los personajes avanzan entre estatuas gigantes y campamentos externos hasta llegar a la puerta principal.
+- Los guardias permiten el acceso y confirman que Lord Bakaris fue escoltado previamente hacia el castillo.
+
+P80
 
 ```
 Estatuas de soldados titánicos se alinean a lo largo de las imponentes murallas de Kalaman. Estos antiguos caballeros de piedra miran fijamente hacia la lejanía, desafiando a los invasores a que se estrellen contra unas defensas que resistieron incluso el Cataclismo. Un barrio desorganizado de tiendas de campaña y construcciones destartaladas bordea el camino hacia la puerta más cercana de la ciudad, donde soldados con uniformes azules y amarillos registran a todos los que entran.
@@ -71,25 +79,32 @@ Estatuas de soldados titánicos se alinean a lo largo de las imponentes murallas
 
 ### Castle Kalaman (Castillo de Kalaman)
 
-- Llegada a la imponente fortaleza; los guardias escoltan a los representantes de Vogler hacia la sala del consejo donde ya se encuentra Bakaris.
+- La fortaleza se alza sobre acantilados, dominando la ciudad con su imponente arquitectura de piedra.
+- Los guardias del castillo guían a los representantes de Vogler hacia la cámara donde reside el consejo.
+P80
 ```
 Aunque el imponente castillo de Kalaman no se alzara sobre acantilados de treinta metros, seguiría sobresaliendo por encima de cualquier otra construcción de la ciudad. El camino que conduce a él asciende por la ladera del acantilado, bajo la mirada de estatuas gigantescas similares a las que bordean las murallas de la ciudad. Al final del camino, unos guardias montan guardia ante una puerta abierta.
 ```
 
 ### Encounter with Bakaris
 
-- Un breve enfrentamiento en el patio con [[Bakaris el Joven]], a quien los personajes deben intimidar o esquivar para que no les impida el paso al consejo.
+P81
 ```
 Al cruzar el patio empedrado del castillo de Kalaman, una figura familiar te intercepta con una sonrisa arrogante: Bakaris el Joven.
 
-«Mi padre tiene todo bajo control. Nos aseguraremos de mandar a buscarte a ti y al resto de los hombres-pez en cuanto hayamos decidido qué es lo mejor para ellos».
+«Mi padre tiene todo bajo control. Nos aseguraremos de mandar a buscaros a vosotros y al resto de la gente de los peces en cuanto hayamos decidido qué es lo mejor para ellos».
 ```
 
+- Bakaris el Joven intenta interceptar al grupo con desprecio, bloqueando el acceso a la reunión de su padre.
+- Se debe establecer a Bakaris como una amenaza egoísta que pone su ambición por encima de los necesitados.
+- Mediante rol o intimidación, los personajes logran apartarlo para presentarse ante los líderes de la ciudad.
 ### Council Meeting (Reunión del Consejo)
 
-- Los personajes entran a la reunión y descubren que Lord Bakaris está mintiendo para llevarse el mérito de la defensa de Vogler y avanzar su propia agenda.
-- [[Calof Miat]]
+- El Gobernador [[Calof Miat]] recibe al grupo en una sala con ocho consejeros, asumiendo que Bakaris lideró la defensa de Vogler.
+- Se presentan los líderes locales, incluyendo a la [[Mariscal Nestra Vendri]], mientras Bakaris observa con molestia la interrupción.
+- El consejo cuestiona si los aldeanos están listos para la guerra, exponiendo la falsa narrativa de contraataque creada por Bakaris.
 
+P80
 ```
 Ocho personas de aspecto serio están sentadas alrededor de una amplia mesa en medio de un espacioso salón. En el extremo de la mesa, un hombre alto con el pelo rubio trenzado y un chaleco de terciopelo azul y dorado se pone de pie para darte la bienvenida.
 
@@ -98,20 +113,18 @@ Ocho personas de aspecto serio están sentadas alrededor de una amplia mesa en m
 «Decidnos», continúa el gobernador, «¿vuestra gente sigue preparándose para la batalla?».
 ```
 
-### [[Lord Bakaris]] Uth Estide (Perfil de Lord Bakaris)
-
-- Perfil de interpretación del PNJ: un noble arrogante, cobarde y egocéntrico que busca la gloria personal a costa de los demás sin tener experiencia real de liderazgo.
-
 ### Retaking Vogler (Recuperar Vogler)
 
-- Se establece que el consejo busca información sobre el enemigo y no un ataque suicida, frenando las ideas de venganza inmediata impulsadas por Bakaris.
+- Surge un debate entre la ambición de Bakaris por atacar y la prioridad de Darrett por proteger a los civiles.
+- El consejo prefiere obtener información antes que combatir, y Darrett actúa como voz de la razón frente a la venganza.
 
 ### Clarifying the Situation (Aclarando la situación)
 
 - El grupo debe desmentir a Bakaris (mediante rol o tiradas) y explicar la verdadera situación de los refugiados y la naturaleza del ataque a los líderes de la ciudad.
+- Miat reconoce la gravedad de la situación, admitiendo su duda inicial sobre acoger a los refugiados en tiempos tan inciertos.
 - [[Mariscal Nestra Vendri]]
 
-
+P82
 ```
 El gobernador Miat frunce el ceño. «Son todas noticias terribles. Mi más sincero pésame a sus amigos y familiares, pero espero que puedan comprender nuestra reticencia a darles la bienvenida a todos a través de las puertas de nuestra ciudad. No son tiempos normales. ¿Mariscal?».
 
@@ -120,22 +133,36 @@ El gobernador señala a una mujer de aspecto severo que lleva una armadura adorn
 
 ### Kalaman's Concerns (Las preocupaciones de Kalaman)
 
-- La Mariscal Vendri revela que otras aldeas y patrullas han sido arrasadas, demostrando que el ejército local no tiene ni idea de a qué se enfrentan (no saben nada del Ejército del Dragón).
+- La Mariscal Vendri detalla que Vogler no es la única víctima; granjas y aldeas cercanas han sido reducidas a cenizas.
+- Se informa que Vogler es el ataque más grande con supervivientes, sugiriendo que las patrullas de Kalaman están siendo aniquiladas por algo desconocido.
+- Las fuerzas locales desconocen la existencia de draconianos o ejércitos de dragones, confundiendo la amenaza con asaltantes comunes.
+- Vendri solicita cualquier información o evidencia física del enemigo que los personajes puedan aportar.
+- Al terminar el informe, se pide a los héroes y a Darrett que salgan mientras el consejo delibera en privado.
 
 ### Awaiting a Decision (Esperando una decisión)
 
-- El grupo debe esperar fuera del consejo; es un buen momento para que Darrett recalque la importancia de conseguir el apoyo de Kalaman.
+- En el pasillo, Darrett recalca la urgencia de conseguir protección para asegurar la supervivencia de su gente.
+- Los personajes pueden escuchar a hurtadillas cómo la Mariscal Vendri pierde la paciencia ante las constantes interrupciones de Bakaris.
 
 ### Kalaman's Decision (La decisión de Kalaman)
 
-- El consejo ofrece asilo y comida para el pueblo de Vogler, **con una condición:** los personajes (al menos uno) deben unirse al ejército de Kalaman como operativos especiales para investigar y combatir esta nueva amenaza.
+P82
 ```
-Las puertas de la sala se abren y la mayoría de los miembros del consejo pasan junto a ti sin mirarte. El mariscal Vendri te hace una señal desde la puerta, mientras que, en el interior, el gobernador Miat y el señor Bakaris permanecen sentados.
+Las puertas de la sala se abren y la mayoría de los miembros del consejo pasan junto a vosotros sin miraros. El mariscal Vendri os hace una señal desde la puerta, mientras que, en el interior, el gobernador Miat y el señor Bakaris permanecen sentados.
 ```
 
 ```
-In a decisive tone, Governor Miat says, "The citizens of Kalaman are prepared to offer your people shelter in the neighborhoods outside the city walls, the protection of our soldiers, and—while we can spare it—food from our tables." He folds his hands and fixes his eyes on you. "There is a condition, though."
+Con tono firme, el gobernador Miat dice: «Los ciudadanos de Kalaman están dispuestos a ofrecer a tu gente refugio en los barrios situados fuera de las murallas de la ciudad, la protección de nuestros soldados y —mientras podamos permitírnoslo— comida de nuestras mesas». Junta las manos y os mira fijamente. «Aunque hay una condición».
 ```
+
+- El consejo termina la sesión y la Mariscal convoca de nuevo al grupo mientras Bakaris permanece dentro.
+- El gobernador acepta dar refugio y comida a los aldeanos en las afueras de la ciudad, pero bajo una condición específica.
+- Los líderes admiten que carecen de información y que los exploradores enviados han desaparecido, a diferencia de los héroes que ya han vencido al enemigo.
+- Se propone que los personajes y Darrett se conviertan en operativos especiales (esquires) dentro del ejército de Kalaman.
+- Se detallan los beneficios: rango de teniente, paga de 5 po semanales, alojamiento gratuito y un emblema oficial de la ciudad.
+- Si hay dudas, Darrett presiona para aceptar la oferta, sugiriendo que trabajen para él si no desean servir directamente a los militares.
+- Al aceptar, se ordena la provisión inmediata de suministros y el traslado de los refugiados a una zona segura.
+- La reunión concluye con la Mariscal citándolos en su oficina para asignarles sus primeras funciones oficiales.
 ### Reporting Back (Reportando de vuelta)
 
 - Al regresar, los personajes informan a la ex-alcaldesa Raven de las negociaciones, y ella confirma que la milicia de Vogler también ofrecerá su ayuda.
@@ -143,35 +170,47 @@ In a decisive tone, Governor Miat says, "The citizens of Kalaman are prepared to
 
 ### Reinforcements (Refuerzos)
 
-- Llegan soldados de Kalaman con suministros y trasladan a los refugiados a unas barracas de madera al norte de la ciudad.
-- Los personajes pueden ayudar a acomodar a la gente y montar la infraestructura básica (enfermería, cocina) usando sus habilidades.
+- Soldados de Kalaman llegan con suministros y ayudan a reasentar a los refugiados en edificios de madera al norte de la ciudad, donde establecen una cocina comunal y una enfermería.
+- Se anima a los personajes a usar sus habilidades para mejorar el nuevo hogar de su gente; aunque pueden dormir allí, el Castillo Kalaman ofrece mayor comodidad y libera recursos para los necesitados.
 
 ### Message for a Mage (Mensaje para un mago) - Opcional
 
-- Si algún personaje tiene el pergamino de Wyhan de la misión del capítulo anterior, puede buscarla en su botica.
-- **[[Wyhan]]**, una severa Maga de las Túnicas Negras, lee el pergamino y recibe una evaluación mágica sobre qué Túnica podría ajustarse al personaje.
-
+- Los personajes interesados en la magia pueden visitar la botica de Wyhan, un local lleno de baratijas ocultas y remedios que solo abre durante el día.
+- Al entrar, encuentran a [[Wyhan]], una maga de túnica negra con actitud desinteresada y desdeñosa hacia quienes no practican las artes arcanas.
+- Si un aspirante a los Magos de Alta Hechicería se presenta, Wyhan solicita el pergamino que debían entregarle para proceder con su evaluación.
+P83
 ```
 La Botica de Wyhan huele a regaliz y pimienta. La modesta tienda cuenta con unas pocas mesas en las que se exponen amuletos de la suerte, extraños huesos de animales y frascos que anuncian diversos remedios. En la parte trasera de la tienda, una mujer humana de cabello azabache y vestido oscuro con mangas emplumadas a modo de alas se encuentra de pie detrás de un mostrador repleto de libros abiertos. Levanta la vista de su lectura, te mira con desinterés y luego vuelve a sumergirse en su libro.
 ```
 ### A Test Completed & Wyhan's Recommendation (Prueba completada y recomendación)
 
-- El comportamiento del PJ con el pergamino (si lo abrió o no y su alineamiento) determina a qué orden predice Wyhan que se unirá (Tabla: _Scroll Predictions_).
-- Tras un interrogatorio filosófico sobre la magia, Wyhan recomendará una orden y se ofrecerá a facilitar el viaje a Wayreth para realizar la Prueba de Alta Hechicería (se resolverá en el próximo capítulo).
+- Wyhan somete al personaje a un interrogatorio pragmático sobre su valía, su relación con la magia y sus objetivos para cambiar el mundo.
+- Tras la charla, recomienda una orden específica, promete contactar a la Torre de Alta Hechicería en Wayreth y se ofrece a facilitar el transporte para que el personaje realice su Prueba oficial.
+- La conversación termina abruptamente cuando Wyhan exige que compren algo o se marchen; el aspirante recibirá noticias sobre su prueba al inicio del próximo capítulo..
 
 ### Reporting for Duty (Presentándose al deber)
 
-- Los personajes acuden al castillo de Kalaman, donde la Mariscal Vendri les expone las condiciones de su nuevo trabajo.
-- Formarán un **escuadrón de operaciones especiales**, cobrarán 5 po a la semana por adelantado, obtienen alojamiento en el castillo y tienen acceso a equipo básico en la armería.
-
+- Los personajes se presentan en el Castillo Kalaman, donde son guiados a la oficina de la Mariscal Vendri para recibir sus primeras instrucciones oficiales.
+P84
 ```
 La oficina del mariscal Vendri es austera. Apenas contiene un escritorio repleto de documentos, estanterías llenas de pergaminos enrollados y un tablero en el que hay fijado un mapa de la provincia circundante de Nightlund. Vendri se pone de pie al entrar. «Gracias por venir. No voy a andarme con rodeos: no sabemos nada sobre los peligros que, me temo, se acercan rápidamente a nuestras puertas, y tu papel será cambiar eso. Pero primero, seguro que tienes preguntas».
 ```
 
-### Within the Castle & Castle Lodgings (Dentro del Castillo y Alojamiento)
+- Vendri explica que su papel será el de una unidad especializada para desafíos que las tropas regulares no pueden manejar, pagándoles su primer salario de 5 po por adelantado.
+- Menciona que pueden equiparse en la armería del primer piso y que, aunque todavía está afinando su primera misión, deben instalarse en sus nuevos aposentos en la cuarta planta.
 
-- Un guardia les explica la distribución del antiguo castillo solámnico (cinco plantas en total).
-- Se alojan en un antiguo salón de baile en desuso en el cuarto piso, decorado con parafernalia solámnica y con tres habitaciones privadas anexas.
+### Within the Castle (Dentro del Castillo y Alojamiento)
+
+- Un guardia escolta al grupo mientras explica la historia del castillo y su pasado ligado a los Caballeros de Solamnia y sus deidades.
+- El recorrido detalla que el primer piso es para el gobierno, el segundo para el mando militar, el tercero para la guardia y el cuarto, algo descuidado, para el alojamiento de los héroes.
+- Finalmente, se menciona un sótano utilizado para almacenamiento que esconde mazmorras selladas hace tiempo.
+
+### Castle Lodgings (Alojamiento)
+
+- Los personajes se instalan en un antiguo salón de baile con techos abovedados y grandes ventanales que dan a las montañas del sur.
+- El espacio cuenta con catres, cofres individuales y tres habitaciones privadas conectadas que el grupo puede distribuir a su conveniencia.
+
+P85
 
 ```
 Esta sala fue en su día un pequeño salón de baile. Una hilera de columnas, esculpidas con motivos entrelazados e imágenes de caballeros, sostiene un techo abovedado. La luz entra en la sala a través de altas ventanas que dan a las montañas al sur. En una esquina de la sala hay una serie de catres sencillos y cofres vacíos, y cerca de allí se encuentra una gran mesa de madera.
@@ -183,13 +222,16 @@ Esta sala fue en su día un pequeño salón de baile. Una hilera de columnas, es
 
 ### Darrett's Orders (Las órdenes de Darrett)
 
-- Darrett ha sido nombrado enlace y enviado de la Mariscal para ayudar a los personajes, aunque no es su comandante directo.
-- También ha recibido el encargo de entrenar a nuevos soldados para Kalaman, ganándose el respeto de los líderes militares.
+- Darrett llega a los aposentos tras demostrar su valía ante los mandos, informando que entrenará a una nueva unidad de soldados de Kalaman.
+- Actuará como enlace directo de la Mariscal Vendri para entregar órdenes al grupo y servirá como su defensor ante los líderes de la ciudad.
+- Se aloja en el tercer piso y expresa su gratitud a los héroes, emocionado por vivir en una fortaleza con tanta historia solámnica.
+- Los personajes tienen el resto del día libre para explorar la ciudad antes de recibir su primera misión formal al día siguiente.
 
 ### The First Mission (La primera misión)
 
-- Al día siguiente, Darrett entrega la primera orden de Vendri: Kalaman quiere saber más sobre el "dragón mecánico" usado en Vogler.
-- Deben viajar doce millas al sur para encontrar a **Tatina Rookledust**, una inventora gnoma, investigar si conoce el dispositivo e intentar reclutarla.
+- Por la mañana, Darrett les comunica que el consejo está alarmado por la máquina de guerra vista en Vogler y desea investigar su origen.
+- La misión consiste en localizar a Tatina Rookledust, una inventora gnoma que vive a doce millas al sur, para interrogarla o reclutarla como asesora.
+- Darrett no participará en esta expedición, pero proporciona direcciones precisas para llegar al hogar de la inventora.
 
 ### Journey down Esker Brook (Viaje por el arroyo Esker)
 
@@ -198,8 +240,7 @@ Esta sala fue en su día un pequeño salón de baile. Una hilera de columnas, es
 
 ### Rookledust's Workshop (El taller de Rookledust)
 
-- Al llegar, ven que el caótico taller-fortaleza de la gnoma está siendo asediado por goblins y un hobgoblin del **Ejército del Dragón**.
-- Durante el combate cuerpo a cuerpo, hay una mecánica de caos (_Clockwork Chaos_ d6) por los locos inventos defensivos de la gnoma.
+P86
 
 ```
 En una colina se alza una estructura insólita que se asemeja tanto a una casita de campo como a una fortaleza metálica. El edificio está repleto de tuberías humeantes y artilugios que zumban, y en estos momentos se encuentra sitiado.
@@ -207,25 +248,30 @@ En una colina se alza una estructura insólita que se asemeja tanto a una casita
 Entre artilugios metálicos que retumban, los goblins intentan irrumpir en la estructura, obstaculizados por aparatos que giran, chasquean y se agitan en el patio. Cada pocos instantes, un gnomo aparece desde una esfera de reloj abierta sobre la puerta y lanza una nueva calamidad mecánica contra los atacantes mientras se ríe a carcajadas y grita insultos.
 ```
 
+- Los héroes encuentran una cabaña-fortaleza metálica llena de tuberías y engranajes, la cual está siendo asediada por un grupo de goblins.
+- La inventora Tatina Rookledust defiende su hogar lanzando artefactos mecánicos desde una ventana, mientras sus trampas de relojería castigan a los atacantes en el jardín.
+- Los personajes que se acerquen a los goblins deben lidiar con el "Caos de Relojería", dispositivos impredecibles que pueden morder, apresar o disparar dardos y huevos de metal.
+- Los atacantes, liderados por un hobgoblin, visten los colores del Ejército del Dragón y huirán si pierden a la mitad de su grupo o se ven superados.
 ### Taken Alive (Capturado vivo)
 
-- Si interrogan a un goblin cautivo (CD 14 Intimidar/Persuadir), descubren que el Ejército del Dragón está al norte (en Vogler) y los enviaron a robar un arma de la gnoma.
-- También mencionan a una líder humana "con un ojo que brilla como una brasa" (referencia a Kansaldi Fire-Eye).
-
-¡Aquí tienes la siguiente entrega de resúmenes! La trama empieza a complicarse:
+- Si capturan a un enemigo, este revelará bajo presión que sirven al Ejército del Dragón y que fueron enviados por una comandante humana de ojo brillante para obtener un arma.
+- Los prisioneros mencionan que su ejército se encuentra al norte, cerca de una aldea quemada, refiriéndose a Vogler aunque ignoren su nombre.
 
 ### Meeting Rookledust (Conociendo a Rookledust)
 
 - Tras derrotar a los asaltantes, Tatina Rookledust se asoma desde su taller. Una vez confirma que el grupo no pertenece al Ejército del Dragón, baja para charlar con ellos.
 
-### Tatina Rookledust (Perfil de Tatina)
+### [[Tatina Rookledust]] (Perfil de Tatina)
 
-- Perfil de interpretación de la PNJ: Una gnoma de las rocas (usa el bloque de _Acolyte_) caótica pero bondadosa. Habla y piensa rapidísimo, obsesionada con crear inventos pacíficos y de comunicación, aunque estos a menudo terminen siendo peligrosos.
+- Tatina es una gnomo de las rocas entusiasta y acelerada que utiliza herramientas y pequeños dispositivos para manifestar sus habilidades mágicas.
+- Aunque sus inventos suelen ser peligrosos por diseño, ella los crea con fines prácticos y pacíficos, como la comunicación o la automatización del trabajo agrícola.
 
 ### Talking with Rookledust (Hablando con Rookledust)
 
-- Tatina explica que, sin saberlo, le vendió el "dragón mecánico" (usado en Vogler) a un agente enemigo pensando que era un desmalezador.
-- Ahora la atacaron porque se negó a entregar un segundo invento; acepta ir a Kalaman y les regala a los héroes su última creación.
+- La gnomo explica que vive aislada para no molestar a nadie con sus ruidosos experimentos y pruebas de inventos.
+- Confiesa que vendió un "desbrozador de maleza" modificado como un dragón a un extraño (el _boilerdrak_ de Vogler) sin saber que se usaría para la guerra.
+- Al darse cuenta de las malas intenciones de sus clientes, se negó a entregar su último encargo, lo que provocó el ataque de los goblins.
+- Tatina acepta ir a Kalaman para ayudar y decide regalar a los personajes su creación más reciente.
 
 ### The Fargab (El Fargab)
 
@@ -233,36 +279,41 @@ Entre artilugios metálicos que retumban, los goblins intentan irrumpir en la es
 
 ### Back to Kalaman (Regreso a Kalaman)
 
-- El viaje de regreso es tranquilo. Los líderes de Kalaman le dan asilo a Rookledust, y ella empieza a proponer inventos locos para ayudar en la guerra.
+- El viaje de regreso a la ciudad transcurre sin incidentes con la inventora acompañando al grupo.
+- Los líderes de Kalaman acogen a Rookledust, quien comienza a asesorarlos sobre el enemigo y a proponer ideas ingeniosas para la defensa de la ciudad.
 
 ### Missions for Kalaman (Misiones para Kalaman)
 
 - Esta sección presenta varias misiones cortas que muestran cómo la guerra se acerca a la región; puedes jugarlas en el orden que prefieras antes de avanzar en la historia.
-
+![[Pasted image 20260419150536.png]]
 ### Clarifying the Threat (Aclarando la amenaza)
 
-- **Objetivo de información:** A medida que hacen misiones, el grupo debe descubrir datos clave: los mercenarios se unen al enemigo por dinero, usan draconianos y armadura negra con detalles rojos, y su líder es la temible **Kansaldi Fire-Eyes**.
+- A medida que los héroes cumplen encargos, descubren que el enemigo recluta bandidos con buena paga y cuenta con "draconianos", seres humanoides con rasgos de dragón. Las tropas visten armaduras negras con detalles rojos y sirven a la Gran Maestre Kansaldi Fire-Eyes, quien se dice que puede detectar mentiras.
+- Al interrogar prisioneros, los personajes pueden averiguar que los draconianos son siervos fanáticos de la Reina Dragón y que el ejército emplea dragones y dragonelas como monturas voladoras. También se revela que algunos draconianos poseen habilidades mágicas, como el control mental o la capacidad de explotar al morir.
 
 ### Ambushing the Enemy (Emboscando al enemigo)
 
 - **Misión:** Investigar una granja saqueada a 18 millas al este. Encuentran a un soldado del Ejército del Dragón entrenando a mercenarios hobgoblin.
 - **Recompensa:** Oro, armaduras enemigas y una orden escrita que confirma el fanatismo del enemigo.
-
+P88
 ```
 El Gran Maestro necesita soldados, no matones. Averigua cuáles tienes y despide a los que no sean aptos para la tarea. Esa es la voluntad de la Reina Dragón.
 ```
 
 ### Draconian Blockade (Bloqueo Draconiano)
 
-- **Misión:** Investigar ataques en el camino este. Encuentran carros volcados y un rastro que lleva a un campamento de draconianos (Baaz y Bozak) saqueando suministros.
-- **Recompensa:** Raciones robadas, oro y un _driftglobe_.
+- Llegan noticias de ataques a viajeros en la frontera de Estwilde, por lo que se ordena a los héroes patrullar el camino hacia el este.
+- Tras hallar carros volcados a veinte millas de la ciudad, rastrean huellas hasta un campamento de cinco draconianos baaz y un líder bozak que luchan hasta la muerte.
+- El botín incluye 120 po, suministros de comida para dos meses y un _driftglobe_ (globo de luz).
 
 ### Missing Scouts (Exploradores desaparecidos)
 
-- **Misión:** Buscar a dos exploradores de Kalaman al noroeste. Encuentran su campamento atacado: uno está muerto y el otro atado por draconianos, con un Kapak listo para emboscar desde los árboles.
-- **Desarrollo:** Si lo rescatan, el explorador revela que el enemigo intenta aislar Kalaman del resto de Solamnia; escoltarlo de vuelta otorga 100 po de bonificación.
+- La misión consiste en rescatar a dos exploradores apostados al noroeste de Kalaman, en un bosque de abedules grises poco común.
+- Al llegar, los héroes encuentran a un explorador muerto y al otro capturado por dos draconianos baaz, mientras un kapak acecha desde los árboles para emboscarlos.
+- El superviviente informa que el enemigo busca aislar Kalaman de otras ciudades solámnicas; si lo escoltan de vuelta a salvo, el consejo recompensa a cada personaje con 100 po.
 
 ### Troops Return (Regreso de tropas)
 
-- **Evento aleatorio:** Durante otra misión, el grupo se encuentra con un grupo de soldados exhaustos liderados por **Cudgel Ironsmile**.
-- **Desarrollo:** Los restos del regimiento mercenario de Cudgel sobrevivieron a la batalla de Vogler; ella pedirá a los personajes que la presenten a la Mariscal Vendri para unir fuerzas con Kalaman. (También es una oportunidad para reintroducir a PNJ dados por perdidos, como Becklin).
+- Durante un viaje, los personajes avistan a un grupo de soldados exhaustos que no portan colores conocidos. Al acercarse, descubren que se trata de Cudgel Ironsmile y lo que queda de su compañía mercenaria tras la derrota en Vogler.
+- Cudgel busca refugio y trabajo en la ciudad, pidiendo a los héroes que la presenten ante la Mariscal Vendri para unir fuerzas contra el Ejército del Dragón.
+- Este es un momento oportuno para que otros supervivientes desaparecidos en la batalla de Vogler regresen junto a los mercenarios.
