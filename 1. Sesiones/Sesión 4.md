@@ -1,5 +1,7 @@
-### TODO: 
+	sszº### TODO: 
 - Preparar algo de lore de los jugadores (Ainhoa y aday sobre todo.) DONE
+- Buscar opciones de tiendas magicas e items para el siguiente dia
+- Si aday trae 5 ojos de cabra, darle un anillo que le de algun hechizo o stat base, o añadir daño etc
 
 ### Situacion actual
 - 12 de la noche
@@ -190,7 +192,7 @@ La Botica de Wyhan huele a regaliz y pimienta. La modesta tienda cuenta con unas
 
 ### Reporting for Duty (Presentándose al deber)
 
-- Los personajes se presentan en el Castillo Kalaman, donde son guiados a la oficina de la Mariscal Vendri para recibir sus primeras instrucciones oficiales.
+- Los personajes se presentan en el Castillo Kalaman, donde son guiados a la oficina de la Mariscal Vendri para recibir sus primeras instrucciones oficiales.  
 P84
 ```
 La oficina del mariscal Vendri es austera. Apenas contiene un escritorio repleto de documentos, estanterías llenas de pergaminos enrollados y un tablero en el que hay fijado un mapa de la provincia circundante de Nightlund. Vendri se pone de pie al entrar. «Gracias por venir. No voy a andarme con rodeos: no sabemos nada sobre los peligros que, me temo, se acercan rápidamente a nuestras puertas, y tu papel será cambiar eso. Pero primero, seguro que tienes preguntas».
@@ -227,6 +229,9 @@ Esta sala fue en su día un pequeño salón de baile. Una hilera de columnas, es
 - Se aloja en el tercer piso y expresa su gratitud a los héroes, emocionado por vivir en una fortaleza con tanta historia solámnica.
 - Los personajes tienen el resto del día libre para explorar la ciudad antes de recibir su primera misión formal al día siguiente.
 
+
+
+-------- Terminaron aqui --------
 ### The First Mission (La primera misión)
 
 - Por la mañana, Darrett les comunica que el consejo está alarmado por la máquina de guerra vista en Vogler y desea investigar su origen.

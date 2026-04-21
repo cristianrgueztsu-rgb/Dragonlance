@@ -2,6 +2,7 @@
 - Clase: Bardo
 - Alineamiento: Chaotic Bueno
 - Dios: [[Gilean]]
+- Tiene un gato negro
 
 
 Pjs. relacionados:
