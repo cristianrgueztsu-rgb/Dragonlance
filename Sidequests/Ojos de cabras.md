@@ -1,0 +1,16 @@
+- Despues de haber andado preguntando, un par de ovejas han corrido la voz y una se les acerca
+- les pregunta que por que andan buscando ovejas
+	- si les dicen la verdad: les cuentan la verdad sobre que hay una oveja poseida con una pequeña manada cerca de ahi
+	- si mienten, les dicen que cononcen de una manada cerca de ahi que viven tranquilamente, incluso hay una especial
+- Al llegar, ven una manada de 6 ovejas
+- 1 Main evil oveja statblock https://dr-eigenvalue.github.io/bestiary/creature/meenlock
+- 5 Minions statblock: https://dr-eigenvalue.github.io/bestiary/creature/darkling ![[Pasted image 20260501170431.png]]
+- Al volver a la tienda [[Meulara]] y ofrecerselos, ella les da: AMBOS ITEMS DEBEN ESTAR SINTONIZADOS CON EL DUEÑO PARA PODER USARSE (PASAR 1 HORA CONCENTRADO EN EL ITEM)
+	- Anima: Anillo de almacenamiento de conjuros oxidado.
+	- Puede almacenar un conjuro de hasta nivel 5. Para almacenar un conjuro solo hay que tocar el anillo mientras se castea.
+	- El conjuro utiliza el nivel del espacio, la CD de salvación de conjuros, el bonificador de ataque de conjuros y la aptitud mágica del lanzador original, pero, por lo demás, funciona como si tú lo hubieses lanzado. El conjuro lanzado desde el anillo deja de estar almacenado en él, por lo que deja espacio libre.![[Pasted image 20260501171928.jpg]]
+	- Elodin: Laud roto, debe pagar 300G para arreglar
+	-  A creature that attempts to play the instrument without being attuned to it must succeed on a DC 15 Wisdom saving throw or take 2d4 psychic damage.
+	- Tiene 2 spell slot, se recargan en descanso largo y se pueden usar como accion adicional
+	- Permite usar [Barkskin](http://dnd5e.wikidot.com/spell:barkskin), [Cure Wounds](http://dnd5e.wikidot.com/spell:cure-wounds), [Fog Cloud](http://dnd5e.wikidot.com/spell:fog-cloud)
+	- ![[Pasted image 20260501175351.png]]

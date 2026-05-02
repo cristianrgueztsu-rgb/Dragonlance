@@ -37,22 +37,22 @@ Objetivo PJ (dicho por ainhoa):
 ```
 Mi queridísima hija, aunque la distancia y tus aventuras nos hayan mantenido alejados, es hora de revelarte algo en lo que llevo trabajando mucho tiempo, un proposito, uno que nace del profundo respeto que siento por el camino espiritual que has decidido emprender.
 
-Durante muchos años, he logrado reunir a un grupo de personas devotas y he fundado una comunidad religiosa cuyo único y absoluto fin es servirte a ti y a la causa de Lunitari. No es una organización para mí, sino un instrumento para tu visión; todos ellos han jurado dedicar sus vidas a facilitarte el camino, encargándose de proporcionarte cualquier tipo de ayuda que necesites para que su palabra se extienda sin descanso por estas tierras. Todos tus seguidores saben de la profecia de las 3 lunas, todos saben de Lunitari y más importante, saben de tu origen. No te preocupes pues todos han jurado lealtad y nadie traicionará nuestra fe. El nombre por el que nos hacemos llamar es Eclipsarios.
+Durante muchos años, he logrado reunir a un grupo de personas devotas y he fundado una comunidad religiosa cuyo único y absoluto fin es servir a la causa de Lunitari y a ti como su portavoz. No es una organización para mí, sino un instrumento para tu visión; todos ellos han jurado dedicar sus vidas a facilitarte el camino, encargándose de proporcionarte cualquier tipo de ayuda que necesites para que la palabra de Lunitari se extienda sin descanso por estas tierras. Todos tus seguidores saben de la profecia de las 3 lunas, todos saben de Lunitari y más importante, saben de tu origen. No te preocupes pues todos han jurado lealtad y nadie traicionará nuestra fe. El nombre por el que nos hacemos llamar es Eclipsarios.
 
-Espero que entiendas este gesto como mi forma de estar presente a pesar de mis ausencias físicas, transformando mi orgullo de padre en una estructura sólida que te respalde en todo momento. Ya he enviado un par de hermanos hacia allí. Ellos podrán aclararte cualquier duda que tengas.
+Espero que entiendas este gesto como mi forma de estar presente a pesar de mi ausencia, transformando mi orgullo de padre en una estructura sólida que te respalde en todo momento. Ya he enviado un par de hermanos hacia allí. Ellos podrán aclararte cualquier duda que tengas.
 
 Estoy deseando que nos reencontremos pronto, con cariño y mucho amor, tu papá.
 ```
 
 - A los dias llegaran un grupo de 5 personas, todos llevaran un simbolo de un eclipse y se encontrarán con Rumi, hablarán con ella para repetirle las mismas palabras de su padre y convencerla. Le pedirán que ella reparta tambien los simbolos cuando extienda la palabra de [[Lunitari]]
 	- Intentaran ayudarla si necesita algo y se "iran a los alrededores de kalaman a extender la palabra" (en realidad simplemente buscaran mas seguidores para el asedio a palanthus)
-	- Tiempo despues volveran y le contaran que han conseguido extenderse bastante buen por los alrededores, pero les está costando llegar a [[Palanthus]], pues es una tierra donde muchos aun confian en los soldados de solamnia y no creen tanto en los dioses. 
+	- Tiempo despues volveran y le contaran que han conseguido extenderse bastante bien por los alrededores, pero les está costando llegar a [[Palanthus]], pues es una tierra donde muchos aun confian en los soldados de solamnia y no creen tanto en los dioses. 
 		- **Mentirle con la sigueinte info:** Ultimamente la ciudad está siendo un caos, los soldados se dedican a proteger a los mercaderes mas ricos solamente, no protegen el interior de las murallas y es peligroso andar solo. Se necesita algo de esperanza para poder arreglar esto y confia en que si plantan una semilla de fe y dedican un poco de esfuerzo, todo mejorará.
 		- Necesitaran de la paladina de [[Lunitari]] para poder abrirse paso y conseguir unos cuantos seguidores.
-	- Durante la cena empezaran a mentir sobre la el rey (**Mienten diciendo que ahora reina un hombre, en realidad es [[Althaea de Palanthus]]**), como ultimamente no parece el mismo y se inventan como está siendo cruel con todo el mundo, creando hambruna para aumentar su riqueza y bla bla. 
+	- Durante la cena empezaran a mentir sobre el rey (**Mienten diciendo que ahora reina un hombre, en realidad es [[Althaea de Palanthus]]**), como ultimamente no parece el mismo y se inventan como está siendo cruel con todo el mundo, creando hambruna para aumentar su riqueza y bla bla. 
 	- Si acepta:
-		- La cena es en palanthus
-		- Intentan controlarla durante la cena [[Palanthus]]
+		- La cena es en [[Palanthus]]
+		- Intentan controlarla durante la cena
 			- Si lo consiguen, pues empezaran el ataque a la ciudad respaldada por rumi (Estado: charmed/encantado). Si no tienen hechizos, lo pueden quitar dejandola KO
 			- Si no, empezarán el ataque igualmente, todos los atacantes llevan el simbolo del eclipse
 		- En ambos casos, al salir, ven que la ciudad está siendo asediada por cientos de eclipsarios. Y todos se dirigen hacia el centro, donde se encuentra el castillo y donde reside la realeza. (Si rumi lleva el simbolo, no los atacan, si no lo lleva, algun par de peleas bobas)

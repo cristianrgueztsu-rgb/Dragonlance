@@ -1,0 +1,290 @@
+### TODO:
+- Buscar opciones de tiendas magicas e items para el siguiente dia
+	- ### Gema del resplandor 350G
+		- Este prisma tiene 50 cargas. Mientras lo sujetas, puedes usar una acción de magia y pronunciar una de las tres palabras de activación para causar uno de los siguientes efectos:  
+			**Primera palabra de activación**. La gema emite luz brillante en un radio de 9 m y luz tenue 9 m más allá. Este efecto no gasta una carga. Dura hasta que utilices una acción adicional para repetir la palabra de activación o hasta que emplees otra función de la gema.  
+			**Segunda palabra de activación**. Gastas 1 carga para que la gema dispare un rayo brillante de luz contra una criatura que puedas ver a 18 m o menos de ti. La criatura deberá superar una tirada de salvación de Constitución con CD 15 o tendrá el estado de cegada durante 1 minuto. La criatura repetirá la tirada de salvación al final de cada uno de sus turnos y, si tiene éxito, se librará del efecto.  
+			**Tercera palabra de activación**. Gastas 5 cargas para que la gema refulja con una luz intensa en un cono de 9 m. Todas las criaturas situadas en el cono harán una tirada de salvación como si les hubiera afectado el rayo creado por la segunda palabra de activación.  
+			Cuando todas las cargas de la gema se gasten, se convertirá en una joya no mágica con un valor de 50 po.
+	- ### Guantes atrapaflechas 480G
+		- Cuando te acierte una tirada de ataque realizada con un arma a distancia o arrojadiza mientras lleves puestos estos guantes, podrás emplear una reacción para reducir el daño en 1d10 más tu modificador por Destreza, siempre y cuando tengas una mano libre. Si reduces el daño a 0, podrás atrapar la unidad de munición o el arma si es lo bastante pequeña como para sujetarla con esa mano.
+- Si aday y miguel traen 9 ojos de cabra y uno multicolor, darle un anillo que le de algun hechizo o stat base, o añadir daño etc a aday y darle el laud magico roto a miguel 
+  **Done** Secundaria: [[Ojos de cabras]]
+
+### Situacion actual
+- Acaban de despertarse desp de su primer dia en kalaman
+### Comienzo Sesion
+[https://5e.tools/adventure.html#dsotdq](https://5e.tools/adventure.html#dsotdq,4)
+### The First Mission (La primera misión)
+
+- Por la mañana, Darrett les comunica que el consejo está alarmado por la máquina de guerra vista en Vogler y desea investigar su origen.
+- La misión consiste en localizar a Tatina Rookledust, una inventora gnoma que vive a doce millas al sur, para interrogarla o reclutarla como asesora.
+- Darrett no participará en esta expedición, pero proporciona direcciones precisas para llegar al hogar de la inventora.
+
+### Journey down Esker Brook (Viaje por el arroyo Esker)
+
+- Durante el viaje hacia el sur por las tierras semi-oscuras de la provincia de Nightlund, los personajes pueden toparse con un encuentro aleatorio.
+- Incluye una tabla (d4) con posibles eventos: clima, mercenarios, una granja quemada o un kender despistado.
+
+### Rookledust's Workshop (El taller de Rookledust)
+
+P86
+
+```
+En una colina se alza una estructura insólita que se asemeja tanto a una casita de campo como a una fortaleza metálica. El edificio está repleto de tuberías humeantes y artilugios que zumban, y en estos momentos se encuentra sitiado.
+
+Entre artilugios metálicos que retumban, los goblins intentan irrumpir en la estructura, obstaculizados por aparatos que giran, chasquean y se agitan en el patio. Cada pocos instantes, un gnomo aparece desde una esfera de reloj abierta sobre la puerta y lanza una nueva calamidad mecánica contra los atacantes mientras se ríe a carcajadas y grita insultos.
+```
+
+- Los héroes encuentran una cabaña-fortaleza metálica llena de tuberías y engranajes, la cual está siendo asediada por un grupo de goblins.
+- La inventora Tatina Rookledust defiende su hogar lanzando artefactos mecánicos desde una ventana, mientras sus trampas de relojería castigan a los atacantes en el jardín.
+- Los personajes que se acerquen a los goblins deben lidiar con el "Caos de Relojería", dispositivos impredecibles que pueden morder, apresar o disparar dardos y huevos de metal.
+- Los atacantes, liderados por un hobgoblin, visten los colores del Ejército del Dragón y huirán si pierden a la mitad de su grupo o se ven superados.
+### Taken Alive (Capturado vivo)
+
+- Si capturan a un enemigo, este revelará bajo presión que sirven al Ejército del Dragón y que fueron enviados por una comandante humana de ojo brillante para obtener un arma.
+- Los prisioneros mencionan que su ejército se encuentra al norte, cerca de una aldea quemada, refiriéndose a Vogler aunque ignoren su nombre.
+
+### Meeting Rookledust (Conociendo a Rookledust)
+
+- Tras derrotar a los asaltantes, Tatina Rookledust se asoma desde su taller. Una vez confirma que el grupo no pertenece al Ejército del Dragón, baja para charlar con ellos.
+
+### [[Tatina Rookledust]] (Perfil de Tatina)
+
+- Tatina es una gnomo de las rocas entusiasta y acelerada que utiliza herramientas y pequeños dispositivos para manifestar sus habilidades mágicas.
+- Aunque sus inventos suelen ser peligrosos por diseño, ella los crea con fines prácticos y pacíficos, como la comunicación o la automatización del trabajo agrícola.
+
+### Talking with Rookledust (Hablando con Rookledust)
+
+- La gnomo explica que vive aislada para no molestar a nadie con sus ruidosos experimentos y pruebas de inventos.
+- Confiesa que vendió un "desbrozador de maleza" modificado como un dragón a un extraño (el _boilerdrak_ de Vogler) sin saber que se usaría para la guerra.
+- Al darse cuenta de las malas intenciones de sus clientes, se negó a entregar su último encargo, lo que provocó el ataque de los goblins.
+- Tatina acepta ir a Kalaman para ayudar y decide regalar a los personajes su creación más reciente.
+
+### The Fargab (El Fargab)
+
+- La gnoma les entrega el "Fargab", un dispositivo de comunicación a larga distancia que funciona en pares (entregando el poder de la radio táctica a los defensores de Kalaman).
+
+### Back to Kalaman (Regreso a Kalaman)
+
+- El viaje de regreso a la ciudad transcurre sin incidentes con la inventora acompañando al grupo.
+- Los líderes de Kalaman acogen a Rookledust, quien comienza a asesorarlos sobre el enemigo y a proponer ideas ingeniosas para la defensa de la ciudad.
+
+### Missions for Kalaman (Misiones para Kalaman)
+
+- Esta sección presenta varias misiones cortas que muestran cómo la guerra se acerca a la región; puedes jugarlas en el orden que prefieras antes de avanzar en la historia.
+![[Pasted image 20260419150536.png]]
+### Clarifying the Threat (Aclarando la amenaza)
+
+- A medida que los héroes cumplen encargos, descubren que el enemigo recluta bandidos con buena paga y cuenta con "draconianos", seres humanoides con rasgos de dragón. Las tropas visten armaduras negras con detalles rojos y sirven a la Gran Maestre Kansaldi Fire-Eyes, quien se dice que puede detectar mentiras.
+- Al interrogar prisioneros, los personajes pueden averiguar que los draconianos son siervos fanáticos de la Reina Dragón y que el ejército emplea dragones y dragonelas como monturas voladoras. También se revela que algunos draconianos poseen habilidades mágicas, como el control mental o la capacidad de explotar al morir.
+
+### Ambushing the Enemy (Emboscando al enemigo)
+
+- **Misión:** Investigar una granja saqueada a 18 millas al este. Encuentran a un soldado del Ejército del Dragón entrenando a mercenarios hobgoblin.
+- **Recompensa:** Oro, armaduras enemigas y una orden escrita que confirma el fanatismo del enemigo.
+P88
+```
+El Gran Maestro necesita soldados, no matones. Averigua cuáles tienes y despide a los que no sean aptos para la tarea. Esa es la voluntad de la Reina Dragón.
+```
+
+### Draconian Blockade (Bloqueo Draconiano)
+
+- Llegan noticias de ataques a viajeros en la frontera de Estwilde, por lo que se ordena a los héroes patrullar el camino hacia el este.
+- Tras hallar carros volcados a veinte millas de la ciudad, rastrean huellas hasta un campamento de cinco draconianos baaz y un líder bozak que luchan hasta la muerte.
+- El botín incluye 120 po, suministros de comida para dos meses y un _driftglobe_ (globo de luz).
+
+### Missing Scouts (Exploradores desaparecidos)
+
+- La misión consiste en rescatar a dos exploradores apostados al noroeste de Kalaman, en un bosque de abedules grises poco común.
+- Al llegar, los héroes encuentran a un explorador muerto y al otro capturado por dos draconianos baaz, mientras un kapak acecha desde los árboles para emboscarlos.
+- El superviviente informa que el enemigo busca aislar Kalaman de otras ciudades solámnicas; si lo escoltan de vuelta a salvo, el consejo recompensa a cada personaje con 100 po.
+
+### Troops Return (Regreso de tropas)
+
+- Durante un viaje, los personajes avistan a un grupo de soldados exhaustos que no portan colores conocidos. Al acercarse, descubren que se trata de Cudgel Ironsmile y lo que queda de su compañía mercenaria tras la derrota en Vogler.
+- Cudgel busca refugio y trabajo en la ciudad, pidiendo a los héroes que la presenten ante la Mariscal Vendri para unir fuerzas contra el Ejército del Dragón.
+- Este es un momento oportuno para que otros supervivientes desaparecidos en la batalla de Vogler regresen junto a los mercenarios.
+
+### Wheelwatch Outpost
+
+- El puesto avanzado de Wheelwatch, vital para las patrullas fronterizas de Kalaman, ha caído en manos del Ejército del Dragón. Darrett solicita que los personajes intervengan para recuperarlo una vez completadas las misiones previas.
+
+### Preparing for the Mission
+
+- Darrett informa que el fuerte se encuentra a veinticuatro millas al sureste y es clave para el suministro de las tropas fronterizas.
+- Raven lidera una fuerza de voluntarios para retomar el puesto, pero su grupo es pequeño y carece de la experiencia necesaria.
+- Los héroes se reúnen con Raven, quien les entrega un croquis del fuerte destacando la torre de vigilancia y los cuernos de alarma en las esquinas.
+![[Pasted image 20260502152130.png]]
+- Raven desconoce el número exacto de ocupantes, pero llevará a sus tropas a un bosque cercano a una milla del objetivo.
+- La propuesta es que los personajes se infiltren para abrir las puertas sin activar la alarma, minimizando el riesgo para los soldados inexpertos.
+
+### Reconnaissance
+
+- El fuerte de piedra se alza en el límite con las tierras de Estwilde, rodeado de muros con almenas y torres patrulladas por figuras armadas.
+- Observar el fuerte permite identificar los cambios de guardia cada seis horas; una prueba de Investigación exitosa estima unos veinte soldados enemigos.
+- Si la observación falla gravemente, el espía es detectado y una patrulla sale a investigar, poniendo al fuerte en estado de alerta si no regresan.
+
+### Wheelwatch Alert
+
+- Los ocupantes del puesto están vigilantes; el DM debe gestionar cuándo se activa la alarma y cómo cambia el comportamiento de las tropas.
+
+### Alarm Horns
+
+- Cada puesto de guardia en las esquinas cuenta con un cuerno de alarma que los centinelas harán sonar un asalto después de detectar actividad sospechosa.
+
+### Alert
+
+- Ante una amenaza, ocho soldados de refuerzo acuden al encuentro o se agrupan en la puerta principal si el origen del peligro no es claro.
+- Durante la alerta, las tropas tienen ventaja en sus pruebas de Percepción y mantendrán este estado durante doce horas tras el último rastro del enemigo.
+
+### Impostors
+
+- Los personajes que utilicen armaduras del Ejército del Dragón capturadas tendrán ventaja en las pruebas de Engaño para hacerse pasar por soldados enemigos.
+
+### Dragonnel Rider
+
+- El fuerte oculta un arma secreta: un oficial montado sobre un dragonela que despegará para atacar en el momento más dramático del asalto.
+
+### Wheelwatch Features
+
+- Los techos interiores miden 10 pies de altura, proporcionando un espacio algo cerrado para el combate.
+- Las puertas de madera reforzada de 15 pies solo se abren mediante mecanismos internos de control, a menos que sean destruidas por la fuerza.
+- La iluminación es abundante mediante antorchas, salvo en los barracones, y los muros de 20 pies requieren una prueba de Atletismo para ser escalados.
+
+### Wheelwatch Locations
+Llevar con el libro Pag 91
+Apunte W4 treasure: Hoopak staff: es un palo con forma de tirachina en un extremo. Pag 188 stats
+
+### Battle at Steel Springs
+
+- Al volver a Kalaman, los héroes descubren que el castillo está inusualmente silencioso; una ayudante informa que el consejo, instigado por Lord Bakaris y aprovechando la ausencia de Vendri, ordenó un ataque contra el Ejército del Dragón.
+- Bakaris y su hijo lideran la expedición con Darrett bajo su mando, planeando una emboscada en Steel Springs, a treinta millas al oeste de la ciudad.
+- La ayudante entrega una nota secreta de Darrett pidiendo ayuda urgente, pues afirma que el liderazgo de Bakaris los encamina al desastre y no puede desobedecer órdenes directas.
+- Si intentan hablar con el Gobernador Miat, este se encuentra ocupado con los gremios y, de ser hallado, no comprende las preocupaciones militares ni puede retirar las tropas ya enviadas.
+
+### Flight to Steel Springs
+
+- Los personajes llegan a Steel Springs justo cuando las fuerzas de Kalaman, superadas en número por una inteligencia defectuosa, se ven obligadas a una retirada desesperada.
+- La aventura puede resolverse de dos formas: mediante el sistema de combate de masas del juego de mesa o a través de la sección de retirada detallada a continuación.
+
+### Warriors of Krynn: Scenario 4
+
+- Los héroes llegan en el momento en que el conflicto se vuelve contra Kalaman y deben organizar la retirada de las tropas para evitar una masacre total.
+- Si logran una victoria o resisten, son nombrados "Salvadores de Steel Springs", obteniendo ventaja en pruebas de Carisma con los militares de la ciudad; tras concluir, se pasa a la llegada del Lord.
+
+### Retreat from Steel Springs
+
+- Al llegar al arroyo Inkwater, los personajes ven a soldados heridos huyendo mientras son perseguidos por jinetes del Ejército del Dragón.
+- En el mapa, seis soldados de Kalaman heridos intentan cruzar el islote mientras cuatro soldados enemigos a caballo los acosan con jabalinas.
+- Los soldados aliados continúan su huida lenta hacia el sur, mientras los enemigos centrarán su ataque en los héroes si estos intervienen.
+- Una vez derrotadas las fuerzas enemigas en esta zona, la historia prosigue con la retirada de los comandantes.
+
+### Steel spring ferat and event (llevarlo del libro, pag 94)
+
+### Commanders' Retreat
+
+- Una docena de jinetes de Kalaman, incluyendo a Darrett con Lord Bakaris a la grupa, llega al cruce tras haber servido de distracción para permitir la retirada aliada.
+- Darrett insta a los héroes a retirarse hacia el este, advirtiendo que cientos de enemigos se aproximan y que los heridos necesitan su protección. Lord Bakaris permanece en estado de shock y en silencio.
+
+### Safe for Now
+
+- Tras retirarse seis millas, Darrett explica que el asalto imprudente de Bakaris ignoró los refuerzos enemigos, provocando el desastre hasta que los otros comandantes ordenaron la retirada.
+- Las fuerzas de Bakaris el Joven fueron aniquiladas y se le presume muerto, mientras Lord Bakaris sigue catatónico por la derrota.
+- El Ejército del Dragón no ha iniciado la persecución y se espera que la Mariscal Vendri llegue pronto desde el oeste para proteger la ciudad.
+- Darrett asume el mando, deja descansar a las tropas y pide a los personajes que partan hacia Kalaman por la mañana para informar al gobernador mientras los supervivientes se reúnen con Vendri.
+
+### The Lord's Arrival
+
+- Esta sección presenta un ataque sorpresa al liderazgo de la ciudad y revela una nueva amenaza oculta; se recomienda que los personajes estén descansados, pues son el único obstáculo ante la tragedia.
+
+### Returning to Kalaman
+
+- Al llegar a las puertas de Kalaman, los personajes encuentran a una multitud excitada y aprenden que un grupo de Caballeros de Solamnia entró hace una hora hacia el castillo.
+- Los ciudadanos mencionan que el líder es el Caballero Caradoc, un hombre encantador con un mensaje para el gobernador, acompañado de una docena de caballeros fuertemente armados.
+- Mediante una prueba de Persuasión, un local revela que la armadura de algunos caballeros estaba extrañamente deslustrada y oxidada, algo impropio de las leyendas.
+- Los guardias reconocen a los héroes y les permiten el paso inmediato a la ciudad.
+
+### Castle Kalaman's Visitors
+
+- El castillo está casi desierto; los guardias informan que la reunión con el consejo ya ha empezado, pero dos caballeros solámnicos permanecen montados en el patio.
+- Estos dos caballeros son en realidad muertos vivientes (wights) que ocultan su naturaleza esquelética bajo armaduras antiguas oxidadas y manchadas de ceniza.
+- Los caballeros bloquean el acceso al consejo y atacarán a cualquiera que intente pasar o desvelar su disfraz, revelando su forma cadavérica tras recibir daño.
+
+### Council Massacre
+
+- Al acercarse a la cámara del consejo, los personajes encuentran los pasillos desiertos y la puerta entreabierta; el silencio absoluto ha reemplazado al bullicio habitual de las reuniones de gobierno.
+- Dentro, la escena es una masacre: los guardias de Kalaman y los consejeros han sido asesinados, y el cuerpo del Gobernador Miat aparece empalado en su silla por una espada larga.
+- Junto al cadáver del gobernador se encuentra Caradoc, un espíritu no muerto que posee el cuerpo de un caballero; él es el senescal de Lord Soth y orquestó el engaño para asesinar a los líderes mientras Soth descendía a las catacumbas del castillo.
+
+### Caught in the Act
+
+- Caradoc se burla de los héroes y los cadáveres, confesando que fingir la llegada de los Caballeros de Solamnia fue solo un truco para que su señor entrara en la ciudad.
+- Revela que no sirve directamente al Ejército del Dragón, sino a su señor, quien ha bajado a las catacumbas para encontrarse con un "viejo amigo" mientras él gana tiempo.
+- Una prueba de Historia identifica a Caradoc como un caballero fallecido durante el Cataclismo; tras la charla, se descubre un rastro de sangre que lleva a una puerta secreta.
+- Al ser atacado, Caradoc lucha hasta que su cuerpo físico muere, revelando su verdadera forma incorpórea que seguirá atacando hasta ser destruida o desterrada.
+- El caballero poseído, Durstan Rial, puede ser salvado si se le estabiliza; no recuerda nada de las últimas semanas tras haber sido emboscado cerca de las montañas.
+- Los personajes encuentran un pergamino firmado por Lord Loren Soth, Caballero de la Rosa, reclamando el gobierno de la provincia y exigiendo sumisión o huida.
+- Una prueba de Historia revela que Soth fue un caballero que falló en prevenir el Cataclismo y que su hogar, el Bastión Dargaard, es ahora una ruina maldita.
+
+### Leedara's Warning
+
+- Leedara aparece de la nada con urgencia, instando a los personajes a atravesar la puerta destrozada para evitar que el "viejo señor" obtenga un secreto oculto bajo el castillo.
+- La elfa desaparece misteriosamente en cuanto los héroes se distraen, sin dar más explicaciones, y no podrá ser encontrada de nuevo en la ciudad.
+
+### Path Below
+
+- Tras la puerta se halla un pasillo de servicio que conduce a un arco de piedra esculpida, cuyos ladrillos de sellado han sido reducidos a escombros recientemente.
+- Una escalera desciende hacia las catacumbas profundas de Castle Kalaman, desde donde emana una extraña luz violeta y el sonido de llamas crepitantes.
+
+### Raided Catacombs
+
+- Las catacumbas bajo el Castillo Kalaman fueron en su día un templo y lugar de honor para caballeros caídos, pero el lugar quedó maldito tras el Cataclismo. En su interior arde un fuego divino residual que rodea la tumba del Caballero Sarlamir, y Lord Soth ha acudido allí siguiendo los deseos de la Reina Dragón.
+
+### Knight Sarlamir's Curse
+
+- Zanas Sarlamir recibió de Paladine la misión de calmar a los dragones metálicos en una ciudad voladora, pero, por desconfianza, llevó consigo una _dragonlance_ legendaria. Durante el conflicto, Sarlamir mató al dragón de oro Karavarix, provocando que la lanza se oxidara instantáneamente y que los dragones lo aniquilaran.
+- Sus caballeros recuperaron el cuerpo y la lanza maldita, enterrándolos en las profundidades de Kalaman, donde han permanecido ocultos hasta hoy.
+
+### Lord Soth's Curse
+
+- Lord Soth precede a los personajes en las catacumbas, siendo un villano cuyas faltas morales permitieron que ocurriera el Cataclismo.
+
+### Lord Soth's Legend
+
+- Antes de la tragedia, Soth gobernaba Knightlund, pero fue expulsado de los Caballeros de Solamnia tras casarse con una elfa llamada Isolde poco después de la sospechosa muerte de su primera esposa.
+- Los dioses le ofrecieron una oportunidad de redención evitando el Cataclismo, pero Soth falló en su gesta, sumiendo a su orden en la desgracia y convirtiendo su bastión en una ruina maldita.
+
+### The Rest of the Story
+
+- Durante su misión, Soth fue engañado por las sirvientas de Isolde, quienes le hicieron creer que su esposa le era infiel; ciego de celos, regresó para asesinarla en lugar de salvar al mundo. Al morir, Isolde maldijo a Soth a sufrir una vida por cada víctima del Cataclismo.
+- Como castigo divino, Soth se convirtió en un Caballero de la Muerte y sus seguidores en no muertos, mientras las sirvientas de Isolde se transformaron en espíritus que vigilan que nunca halle la paz.
+
+### Cataclysmic Fire
+
+- En la tumba de Sarlamir aún arden llamas violetas que reaccionan a los recuerdos de los muertos, recreando escenas de sus almas atormentadas. Lord Soth busca este fuego mágico para realizar rituales oscuros que la Reina Dragón le ha susurrado.
+
+### Visions in Fire
+
+- A medida que los personajes avanzan, las llamas recrean escenas trágicas de la vida de Soth: su encuentro con Isolde, su expulsión de la orden, la misión divina que aceptó y su posterior distracción por celos.
+- La visión final muestra a Soth asesinando a su esposa mientras el mundo arde, transformándose en una figura eterna de ojos llameantes atrapada en su armadura.
+- Los personajes pueden identificar estas escenas como la leyenda de Soth mediante pruebas de Historia; si fallaron antes, ahora tienen ventaja para recordar los detalles.
+- Aunque la historia completa de Soth sigue siendo un misterio, los héroes tendrán oportunidad de descubrir más detalles al reencontrarse con Leedara en el Capítulo 7.![[065-04-007.soth-memory.webp]]
+
+### Raided Catacombs
+Llevar con el libro pag 100![[066-map-4.04-raided-catacombs.webp]]
+
+
+## Next Step
+
+After defeating Knight [Sarlamir](https://5e.tools/bestiary.html#sarlamir_dsotdq), the characters advance to 6th level. Once the Cataclysmic flames fade, the catacombs return to normal.
+
+### Soth's Escape
+
+[Lord Soth](https://5e.tools/bestiary.html#lord%20soth_dsotdq) has vanished, taking a scepter blazing with haunted flames along with him. If the characters try to pursue him, he and his Undead knights have already departed the city, their objectives complete. No one is certain where they headed after leaving, though this is revealed at the start of the next chapter.
+
+### Sanctuary Shattered
+
+By the time the characters emerge from the catacombs, the council room's carnage has been mostly cleared.
+
+Several hours later, Darrett arrives in Kalaman with Marshal Vendri, Lord Bakaris, and the bulk of the city's martial forces. They're shocked to learn what happened. Marshal Vendri moves swiftly to keep order in the city and ensure no more attacks are forthcoming. At the same time, Darrett seeks out the characters to learn more. He pays particular interest to what they have to say about [Lord Soth](https://5e.tools/bestiary.html#lord%20soth_dsotdq) and the City of Lost Names—two names that guide the characters in the following chapter.
