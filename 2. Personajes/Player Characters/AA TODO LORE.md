@@ -8,5 +8,6 @@
 	- crear imagen de lilly y stats
 	- Mapas
 - rumi
-	- Mapas
-	- statblocks de los pjs, imagen de su madre y padre
+	- Peleas de la dungeon
+	- imagen de su madre
+	- pedirle a ainhoa una imagen de su padre
