@@ -1,4 +1,6 @@
 ### TODO:
+
+- 
 - Buscar opciones de tiendas magicas e items para el siguiente dia
 	- ### Gema del resplandor 350G
 		- Este prisma tiene 50 cargas. Mientras lo sujetas, puedes usar una acción de magia y pronunciar una de las tres palabras de activación para causar uno de los siguientes efectos:  
@@ -10,6 +12,7 @@
 		- Cuando te acierte una tirada de ataque realizada con un arma a distancia o arrojadiza mientras lleves puestos estos guantes, podrás emplear una reacción para reducir el daño en 1d10 más tu modificador por Destreza, siempre y cuando tengas una mano libre. Si reduces el daño a 0, podrás atrapar la unidad de munición o el arma si es lo bastante pequeña como para sujetarla con esa mano.
 - Si aday y miguel traen 9 ojos de cabra y uno multicolor, darle un anillo que le de algun hechizo o stat base, o añadir daño etc a aday y darle el laud magico roto a miguel 
   **Done** Secundaria: [[Ojos de cabras]]
+- Lore Rumi: presentar carta
 
 ### Situacion actual
 - Acaban de despertarse desp de su primer dia en kalaman

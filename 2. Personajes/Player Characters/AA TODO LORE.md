@@ -1,0 +1,12 @@
+- elodin
+	- Maybe cambiar que muriera [[Kimber]], sin embargo, al llegar a la guarida, darle elegir a quien matar de los 2, si no elige, moriran ambos
+	- Maybe añadir algun evento/baile importante donde tendrán que colarse para reunir informacion de donde pueden tener a sus amigos encerrados?
+	- Buildear como llegar al momento final con una pelea. El jefe de la banda es un panoli pero tendrá buena seguridad.
+	- Mapas
+- anima
+	- pensar mejor en como dar los bufos si aceptan, 
+	- crear imagen de lilly y stats
+	- Mapas
+- rumi
+	- Mapas
+	- statblocks de los pjs, imagen de su madre y padre

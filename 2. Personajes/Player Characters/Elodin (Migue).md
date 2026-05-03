@@ -80,20 +80,23 @@ En su ultimo robo, intentaron robar en la casa de un mercader llamado [[Gimnur]]
 
 [[Astrin]] lleva años trabajando para [[La Red Rota]] para saldar su deuda y para que [[Elodin (Migue)]] pueda vivir en paz. Hace poco se dio cuenta de queesto nunca acabará y decidió escaparse para pedir ayuda. Al escapar, [[La Red Rota]] puso una recompensa por las cabezas de ambos.
 
+### Fase 1
 - Un dia aleatorio cuando se encuentre solo, [[Elodin (Migue)]] se da cuenta de que le están siguiendo. El punto es que le ataquen entre 2 personas encapuchadas.
 - Si los mata:
 	- encuentra un cartel de se busca con su cara y con una recompensa de 300 de oro, **especifica que se le busca vivo**
 - Si no los mata:
 	- Puede interrogarlos y averiguar que quieren. De ahi saca que encontraron un cartel de se busca de su cara, **especifica que se le busca vivo**
+
+### Fase 2
 - En ambos casos, tendrá que empezar a preguntar por los bajos fondos, maybe en la taberna le pueden guiar hacia allí.
-- Cuando vaya a explorar, tendrá uque preguntar por info para saber de donde salen esos carteles **QUE VAYA CON CAPUCHA O LE VAN A RECONOCER**.
+- Cuando vaya a explorar, tendrá que preguntar por info para saber de donde salen esos carteles **QUE VAYA CON CAPUCHA O LE VAN A RECONOCER**.
 - Alguien le guiará hasta la persona que le está buscando, ahi le contará que una vez tenga al rehen, vengan a dar con él, pues deben hacer un viajecito.
 	- Si le apalizan, les cuenta que al solo le dijeron que tendrian que llevarlo a una mansion quemada en [[Lemish]], no sabe mas
 		- Una vez en [[Lemish]] deberán preguntar de nuevo por la mansion si fueron solos. Una vez llegan a la mansion, describirla,
 		- Allí habrá un grupo esperandoles
 		- Pelea
 		- Descubren que pertenecen a [[La Red Rota]]
-	- Si finjen tenerlo de rehen, el tipejo les llevará en carro
+	- Si fingen tenerlo de rehen, el tipejo les llevará en carro
 		- Este grupo pedirán llevarse solamente a [[Elodin (Migue)]] y alguien les traerá el oro, les ofrecen darles 150 por adelantado
 		- Sea cual sea la decision, descubren que pertenecen a [[La Red Rota]]. 
 - [[La Red Rota]] tiene un almacen solamente en la ciudad, si van, hay dungeon en el sotano.
