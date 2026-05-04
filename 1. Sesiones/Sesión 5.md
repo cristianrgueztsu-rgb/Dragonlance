@@ -1,6 +1,5 @@
 ### TODO:
 
-- 
 - Buscar opciones de tiendas magicas e items para el siguiente dia
 	- ### Gema del resplandor 350G
 		- Este prisma tiene 50 cargas. Mientras lo sujetas, puedes usar una acción de magia y pronunciar una de las tres palabras de activación para causar uno de los siguientes efectos:  
@@ -14,6 +13,8 @@
   **Done** Secundaria: [[Ojos de cabras]]
 - Lore Rumi: presentar carta
 
+
+- Crear una mision de mercenario chumga para aitor y aday(algo malo eticamente)
 ### Situacion actual
 - Acaban de despertarse desp de su primer dia en kalaman
 ### Comienzo Sesion

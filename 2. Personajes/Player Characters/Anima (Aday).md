@@ -60,4 +60,4 @@ Su objetivo: despertar y desafiar a los dioses. Necesita el poder de cientos de 
 
 
 - Dependiendo de si aday ha extendido la palabra de Lilly o no, cuando peleen contra ella, será más o menos poderosa.
-	- Veces que ha hablado de ella: 1
+	- Veces que ha hablado de ella: 2
