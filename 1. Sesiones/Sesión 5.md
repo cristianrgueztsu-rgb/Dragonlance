@@ -10,7 +10,7 @@
 	- ### Guantes atrapaflechas 480G
 		- Cuando te acierte una tirada de ataque realizada con un arma a distancia o arrojadiza mientras lleves puestos estos guantes, podrás emplear una reacción para reducir el daño en 1d10 más tu modificador por Destreza, siempre y cuando tengas una mano libre. Si reduces el daño a 0, podrás atrapar la unidad de munición o el arma si es lo bastante pequeña como para sujetarla con esa mano.
 - Si aday y miguel traen 9 ojos de cabra y uno multicolor, darle un anillo que le de algun hechizo o stat base, o añadir daño etc a aday y darle el laud magico roto a miguel 
-  **Done** Secundaria: [[Ojos de cabras]]
+  **Done** Secundaria: [[Ojos de cabras (DONE)]]
 - Lore Rumi: presentar carta
 
 

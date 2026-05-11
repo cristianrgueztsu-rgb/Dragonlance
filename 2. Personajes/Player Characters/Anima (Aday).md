@@ -35,13 +35,30 @@ Su objetivo: despertar y desafiar a los dioses. Necesita el poder de cientos de 
 		- M:
 		- A:
 		- L: Thariel se lo dice, y le dice que es la última
-	- Una vez la tenga completa, deberá preguntar, le dirán que se sabe que es un baculo de la epoca dorada de Istar, los llevaban los reyes de Istar. Después del cataclismo se perdió la pista pero hay rumores de una biblioteca abandonada que puede contener información sobre esa época
-### Fase 2
-- Allí encontraran un libro hablando del baculo. Un arma magica, la que llevaba el ultimo rey durante el rito que destruyó Istar. Los registros datan que ese báculo sobrevivió a la catastrofe y que el dios [[Gilean]] fue el encargado de dividir ese baculo en 2 mitades y esconderlas para que nadie pudiera encontrarlo.
-- Si hablan con Gilean, y lo convencen, les dará un acertijo que lleve a la primera mitad
+	- Una vez la tenga completa, deberá preguntar, le dirán que se sabe que es un baculo de la epoca dorada de Istar, los llevaban los reyes de Istar. Después del cataclismo se perdió la pista pero hay rumores de una biblioteca abandonada al ESTE que puede contener información sobre esa época
 
-### Fase 3
-- Maybe una dungeon, otro acertijo que lleva a la segunda mitad
+### Fase 2
+- All legar encuentran esto:
+  ![[Pasted image 20260511203238.png]]
+### Fase 2.1 (Dungeon 1er piso)
+
+![[Upper Palace of the Blasphemous Messiah_45x39 (1).png]]
+- **1. El Vestíbulo de los Catalogadores:** Una vez fue la gran entrada, pero ahora el aire es pesado y huele a papel viejo y humedad. El suelo de piedra está cubierto de fragmentos de lo que parecen ser antiguas fichas de registro de madera podrida. Cuatro pasillos se ramifican desde aquí, como si el conocimiento mismo se desbordara en todas direcciones.
+- **2. El Depósito de Manuscritos:** Esta sala rectangular está flanqueada por estanterías empotradas en las paredes de roca, la mayoría de ellas vacías o con restos de pergaminos devorados por los gusanos de biblioteca. El silencio es absoluto, roto solo por el crujido del polvo bajo las botas.
+- **3. El Taller de Encuadernación:** Un espacio pequeño y claustrofóbico que aún conserva el rastro del olor a cuero y cola. Hay restos de prensas de madera astilladas en las esquinas, y el suelo está salpicado de manchas oscuras de tintas secas que nunca llegaron a plasmarse en un libro.
+- **4. La Galería de los Escribas:** Una estancia amplia donde las filas de pupitres han colapsado sobre sí mismas. Las paredes muestran nichos donde antaño ardían lámparas de aceite para iluminar el trabajo nocturno; ahora, las sombras parecen moverse de forma independiente entre los escombros.
+- **5. El Archivo de lo Prohibido:** Situado al final de un pasillo estrecho, este pequeño habitáculo se siente notablemente más frío que el resto. No quedan libros aquí, pero las marcas de cadenas en las paredes sugieren que lo que se guardaba en esta habitación era demasiado peligroso para circular libremente.
+- **6. El Gran Salón de Consulta:** Esta es la sala más espaciosa del complejo. El techo parece perderse en la oscuridad. Las corrientes de aire silban a través de las grietas, moviendo montones de ceniza blanca que alguna vez fueron tratados de historia antigua. Es el nudo central que conecta las alas más privadas de la biblioteca.
+	- Allí encontraran un libro hablando del baculo. Un arma magica, la que llevaba el ultimo rey durante el rito que destruyó Istar. Los registros datan que ese báculo sobrevivió a la catastrofe y que el dios [[Gilean]] fue el encargado de dividir ese baculo en 2 mitades y esconderlas para que nadie pudiera encontrarlo.
+- **7.** Está cerrado. Aqui se encuentra la bajada al piso 2. Para entrar se necesita la llave que da el puzle de la sala 9
+- **8. El Sanctum del Bibliotecario:** Una habitación aislada y cuadrada que ofrece una sensación de vigilancia. A diferencia de las otras salas, el aire aquí es seco y estático. Se percibe una energía residual, como si los secretos leídos entre estas cuatro paredes se negaran a abandonar el lugar.
+- **9. Sala del puzle Mirror, Mirror**
+
+### Fase 2.2 (Dungeon 1er piso)
+
+- Boss, cuando lo derrotan, [[Gilean]] se pronuncia y les da un acertijo que lleva a la segunda mitad del baculo. A una localizacion.
+
+### Fase 4
 - Un bosque magico?
 
 ### Fase Final
