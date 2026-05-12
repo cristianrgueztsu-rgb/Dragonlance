@@ -4,9 +4,7 @@
 	- Buildear como llegar al momento final con una pelea. El jefe de la banda es un panoli pero tendrá buena seguridad.
 	- Mapas
 - anima
-	- pensar mejor en como dar los bufos si aceptan, 
 	- crear imagen de lilly y stats
-	- Mapas
 - rumi
 	- Peleas de la dungeon
 	- imagen de su madre

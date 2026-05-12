@@ -43,29 +43,41 @@ Su objetivo: despertar y desafiar a los dioses. Necesita el poder de cientos de 
 ### Fase 2.1 (Dungeon 1er piso)
 
 ![[Upper Palace of the Blasphemous Messiah_45x39 (1).png]]
-- **1. El Vestíbulo de los Catalogadores:** Una vez fue la gran entrada, pero ahora el aire es pesado y huele a papel viejo y humedad. El suelo de piedra está cubierto de fragmentos de lo que parecen ser antiguas fichas de registro de madera podrida. Cuatro pasillos se ramifican desde aquí, como si el conocimiento mismo se desbordara en todas direcciones.
+- **1. El Vestíbulo de los Catalogadores:** Una vez fue la gran entrada, pero ahora el aire es pesado y huele a papel viejo y humedad. El suelo de piedra está cubierto de fragmentos de lo que parecen ser antiguas fichas de registro de madera podrida.
 - **2. El Depósito de Manuscritos:** Esta sala rectangular está flanqueada por estanterías empotradas en las paredes de roca, la mayoría de ellas vacías o con restos de pergaminos devorados por los gusanos de biblioteca. El silencio es absoluto, roto solo por el crujido del polvo bajo las botas.
 - **3. El Taller de Encuadernación:** Un espacio pequeño y claustrofóbico que aún conserva el rastro del olor a cuero y cola. Hay restos de prensas de madera astilladas en las esquinas, y el suelo está salpicado de manchas oscuras de tintas secas que nunca llegaron a plasmarse en un libro.
 - **4. La Galería de los Escribas:** Una estancia amplia donde las filas de pupitres han colapsado sobre sí mismas. Las paredes muestran nichos donde antaño ardían lámparas de aceite para iluminar el trabajo nocturno; ahora, las sombras parecen moverse de forma independiente entre los escombros.
 - **5. El Archivo de lo Prohibido:** Situado al final de un pasillo estrecho, este pequeño habitáculo se siente notablemente más frío que el resto. No quedan libros aquí, pero las marcas de cadenas en las paredes sugieren que lo que se guardaba en esta habitación era demasiado peligroso para circular libremente.
 - **6. El Gran Salón de Consulta:** Esta es la sala más espaciosa del complejo. El techo parece perderse en la oscuridad. Las corrientes de aire silban a través de las grietas, moviendo montones de ceniza blanca que alguna vez fueron tratados de historia antigua. Es el nudo central que conecta las alas más privadas de la biblioteca.
 	- Allí encontraran un libro hablando del baculo. Un arma magica, la que llevaba el ultimo rey durante el rito que destruyó Istar. Los registros datan que ese báculo sobrevivió a la catastrofe y que el dios [[Gilean]] fue el encargado de dividir ese baculo en 2 mitades y esconderlas para que nadie pudiera encontrarlo.
-- **7.** Está cerrado. Aqui se encuentra la bajada al piso 2. Para entrar se necesita la llave que da el puzle de la sala 9
+- **7.** Está cerrado. Aqui se encuentra la bajada al piso 2. Para entrar se necesita la llave que da el puzle de la sala 9. Al abrir, notan como llega una corriente de aire muy frio de las escaleras que bajan.
 - **8. El Sanctum del Bibliotecario:** Una habitación aislada y cuadrada que ofrece una sensación de vigilancia. A diferencia de las otras salas, el aire aquí es seco y estático. Se percibe una energía residual, como si los secretos leídos entre estas cuatro paredes se negaran a abandonar el lugar.
 - **9. Sala del puzle Mirror, Mirror**
 
 ### Fase 2.2 (Dungeon 1er piso)
 
-- Boss, cuando lo derrotan, [[Gilean]] se pronuncia y les da un acertijo que lleva a la segunda mitad del baculo. A una localizacion.
+- Las escaleras se sienten interminables, mientras bajan, sienten que cada vez hace mas frio y despues de unos 5 minutos bajando llegan a una sala muy amplia con poco mas que una cama y una mesa. Aqui se encuentra una bruja invernal llamada Bolzabu Shrerva junto a su mascota "peluchito" (está muy viejo).
+- En sus manos tiene el medio baston. Una mitad es de madera y la otra de hielo.
+- Boss: https://dr-eigenvalue.github.io/bestiary/creature/bheur-hag y su perro modificado pero muy viejo. Atacar con el pa que lo maten y poder usar **_Maddening Feast_** con la bruja
+- Cuando la derrotan, [[Gilean]] se pronuncia y les dará 3 acertijos en total, uno cada vez. Cuando acierten los 3, les dirá donde está la segunda mitad del baculo. 
+	- 1. "Soy tan frágil que, si te atreves a pronunciar mi nombre, me romperé al instante. Soy el hogar de los muertos y el temor de los impacientes. ¿Qué soy?"
+		**La respuesta:** **El silencio.**
+	- 2. "Nací en el corazón de la tierra y fui bautizado por el fuego. Soy el castigo de los malvados y la salvación de los justos. Mi lengua es de acero y solo hablo cuando me golpean, pero mis palabras pueden decidir el destino de un reino. ¿Qué soy?"
+		**La respuesta:** **Una espada.**
+	- 3. "Aquel que me fabrica, no me quiere. Aquel que me compra, no me usa. Y aquel que me usa, jamás sabrá que estoy ahí. ¿Qué soy?"
+		**La respuesta:** **Un ataúd.**
 
 ### Fase 4
-- Un bosque magico?
+- Una vez los resuelven todos. El lugar donde se encuentra la otra mitad del baculo es en un cementerio en Qlettaar, hacia el sur. Les da unas instrucciones de como llegar. 
+- Una vez alli, deben presentar las respuestas de los 3 acertijos en la entrada.
+- Al rato, llegará el enterrador de ese cementario y les dará la otra mitad.
+- El baculo, no hace nada por si solo. Magicamente se fusiona en uno solo al juntarse.
 
 ### Fase Final
-- Una vez tienen las dos mitades, y yo decida que es buen momento para continuar la historia, [[Thariel]] se presentará en sus sueños una noche y le pedirá que despierte a sus compañeros, [[Lilly La Soñadora]] se está despertando
-- Son teletransportados al shadowfell, si no conocen aun la verdadera identidad de [[Lilly La Soñadora]], ella misma se los cuenta y pide que le den el baculo, busca venganza contra los dioses, a ellos les promete poder y riquezas, vivir entre los nuevos dioses, junto a [[Thariel]] e incluso ayudarles contra el ejercito draconiano
-- ([[Thariel]] no habla, no dice nada, se le ve serio)
-- Tienta a cada uno con algo personal:
+- Una vez tienen las dos mitades, y yo decida que es buen momento para continuar la historia, una noche, mientras todos duermen, aparecerán en shadowfell.
+- Se encuentran todos en un desierto. Frente a ellos se ve unas escaleras quellevan hasta un trono donde setá lilly y [[Thariel]] a su lado (no habla, no dice nada, se le ve serio)
+- Lilly se presenta ante ellos, pide que le den el baculo, busca venganza contra los dioses, a ellos les promete poder y riquezas, vivir entre los nuevos dioses, junto a [[Thariel]] e incluso ayudarles contra el ejercito draconiano
+- Tienta a cada uno con algo personal: (la trampa es que solo recibiran estas cosas en sus sueños)
 	- Anima: Estar junto a [[Thariel]] y [[Roderic]], le ofrecerá poder para que pueda explorar
 	- Elodin: Revivir a [[Kimber]] y [[Astrin]] (O traerlos con el si estan vivos segun que lore se haya jugado primero)
 	- Rumi: El poder de las 3 lunas
