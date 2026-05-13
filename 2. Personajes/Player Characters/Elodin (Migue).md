@@ -84,22 +84,104 @@ En su ultimo robo, intentaron robar en la casa de un mercader llamado [[Gimnur]]
 - Un dia aleatorio cuando se encuentre solo, [[Elodin (Migue)]] se da cuenta de que le están siguiendo. El punto es que le ataquen entre 2 personas encapuchadas.
 - Si los mata:
 	- encuentra un cartel de se busca con su cara y con una recompensa de 300 de oro, **especifica que se le busca vivo**
-- Si no los mata:
-	- Puede interrogarlos y averiguar que quieren. De ahi saca que encontraron un cartel de se busca de su cara, **especifica que se le busca vivo**
 
-### Fase 2
-- En ambos casos, tendrá que empezar a preguntar por los bajos fondos, maybe en la taberna le pueden guiar hacia allí.
-- Cuando vaya a explorar, tendrá que preguntar por info para saber de donde salen esos carteles **QUE VAYA CON CAPUCHA O LE VAN A RECONOCER**.
-- Alguien le guiará hasta la persona que le está buscando, ahi le contará que una vez tenga al rehen, vengan a dar con él, pues deben hacer un viajecito.
-	- Si le apalizan, les cuenta que al solo le dijeron que tendrian que llevarlo a una mansion quemada en [[Lemish]], no sabe mas
-		- Una vez en [[Lemish]] deberán preguntar de nuevo por la mansion si fueron solos. Una vez llegan a la mansion, describirla,
-		- Allí habrá un grupo esperandoles
-		- Pelea
-		- Descubren que pertenecen a [[La Red Rota]]
-	- Si fingen tenerlo de rehen, el tipejo les llevará en carro
-		- Este grupo pedirán llevarse solamente a [[Elodin (Migue)]] y alguien les traerá el oro, les ofrecen darles 150 por adelantado
-		- Sea cual sea la decision, descubren que pertenecen a [[La Red Rota]]. 
+Para el siguiente punto alguien le tiene que dar la info, buscar como.
+- Para saber quién ha puesto precio a su cabeza, Elodin descubre que los encargos especiales como el suyo, solo se gestionan a través de "facilitadores" que asistirán al **Gran Baile de la Prosperidad**, organizado por el gremio de mercaderes en honor a la reconstrucción comercial. 
+	- Esta persona ofrece el ticket de entrada si le aseguran tener a elodin. (tamb pueden conseguir una entrada robandola o colandose, who knows)
+	- El baile ocurrirá dentro de una semana.
+
+### Fase 2. El Baile de Máscaras (La Gala de las Vanidades)
+
+El evento se celebra en una villa lujosa. La regla es clara: **Máscara obligatoria y armas prohibidas en el salón.**
+
+- **El Reto para Elodin:** Debe infiltrarse no solo como invitado, sino como alguien que pertenece allí. Tendrá que usar sus habilidades para conseguir una invitación, un disfraz convincente y, lo más difícil, mantener la sangre fría mientras ve a nobles que podrían ser quienes ordenaron la matanza de su troupe.
+- **El Objetivo:** Identificar al "Crupier de Información". No es un líder de la Red Rota, sino su enlace con el mundo legal.
+
+## Dinámica de Obtención de Información
+
+En lugar de una pelea, esto es un "combate social". Aquí tienes tres formas en las que pueden obtener los datos sobre la [[La Red Rota]] y [[Lemish]]:
+
+### NPCs/info random que podria conseguir
+#### 1. El Crupier de la Máscara de Porcelana (El "Espejo" del Pasado)
+
+Este hombre maneja la mesa de _Gambito del Dragón_ con una elegancia que Elodin reconocerá al instante. Sus manos se mueven con la misma técnica que Kimber le enseñó a él.
+
+- **Apariencia:** Viste de riguroso negro y lleva una máscara de porcelana blanca sin expresión.
+- **Su Secreto:** Es un antiguo contacto de la troupe de Elodin. No trabaja para la Red Rota por lealtad, sino por miedo.
+- **Información:** "No busques a los perros en los callejones, Elodin. Los dueños están aquí arriba, bebiendo vino de 100 de oro. La Red Rota no es una banda, es un contrato".
+
+#### 2. Lady Valerine "La Urraca" (La Coleccionista de Secretos)
+
+Una noble de mediana edad, famosa por organizar los mejores bailes y por saber quién se acuesta con quién (y quién debe cuánto).
+
+- **Apariencia:** Máscara de plumas de pavo real y un vestido que hace un ruido metálico al caminar (lleva docenas de llaves y amuletos colgando).
+- **Su Secreto:** Ella vende invitaciones al baile a la Red Rota a cambio de que no asalten sus cargamentos de seda.
+- **Información:** Si Elodin la lisonjea o le ofrece un secreto jugoso sobre otro invitado, ella le confesará: _"Ese sello púrpura que buscas... vi a un mensajero entregarlo en el ala este de la mansión. Venía de Lemish, olía a ceniza y a pino húmedo"_.
+
+#### 3. El Capitán Kaelen (El Guardia Corrupto)
+
+El capitán de la guardia local, presente "oficialmente" para garantizar la seguridad, pero en realidad está allí para recibir su parte de las ganancias.
+
+- **Apariencia:** Máscara de león dorado. Bebe demasiado y su armadura de gala parece quedarle pequeña.
+- **Su Secreto:** Él es quien firma las órdenes de "no intervenir" cuando la Red Rota opera en la ciudad.
+- **Información:** Es fácil de manipular si Elodin usa su habilidad para plantar ideas. Kaelen podría quejarse de que _"tener que enviar mis mejores carros escoltados hasta la mansión quemada de Lemish es un gasto que el consejo no debería asumir"_, revelando así la ruta logística.
+
+#### 4. Lord Valthus (El Inversionista Desalmado)
+
+Un mercader que se hizo rico de la noche a la mañana tras la desaparición de varios de sus competidores.
+
+- **Apariencia:** Máscara de cráneo de ciervo con astas reales. Es frío, calculador y observa a todos desde las sombras.
+- **Su Secreto:** Él financió las desapariciones con la ayuda de la red rota.
+- **Información:** Lleva encima un anillo con el sello de la Red Rota escondido bajo el guante. Si Elodin consigue robárselo o verlo, tendrá la prueba de quién dirige la red en la ciudad.
+
+#### 5. "La Musa de la Ceniza" (El Cebo)
+
+Una mujer joven que no deja de observar a Elodin desde lejos. No parece disfrutar de la fiesta.
+
+- **Apariencia:** Máscara de mariposa quemada por los bordes. Viste un traje que, aunque elegante, parece pasado de moda o recuperado de un incendio.
+- **Su Secreto:** Es una enviada personal de **Astrin**. Astrin no pudo venir, pero envió a esta chica para encontrar a Elodin antes de que la Red Rota lo haga.
+- **Información:** Si Elodin se acerca, ella no dirá su nombre, solo le entregará una carta breve: _"El trato se ha roto. Tu amiga está en la mansión. No vengas solo"_. Esto sirve para confirmar que Astrin vive y que Lemish es la trampa final.
+### A. El Juego de los Susurros (Habilidades Sociales)
+
+Elodin escucha que un mercader rico llamado **Vandermir** está buscando "especialistas en cobros" (matones) para un trabajo en el norte.
+
+- Si Elodin usa su **engaño**, puede hacerse pasar por un mercenario refinado. Vandermir, bajo el efecto del vino y la máscara, podría confesar: _"El negocio se encuentra en Lemish. Allí el humo de la guerra tapa el olor de nuestra mercancía. Las recogidas son en la mansion quemada"_.
+
+### B. El Robo de los Libros (Sigilo/Trucos de manos)
+
+En un despacho privado de la villa, hay un registro de "Donaciones para la Guardia".
+
+- Si logran entrar, descubrirán que la Red Rota paga sobornos mensuales. Aparece el nombre de Gimnur. El rastro de los pagos termina en una **oficina de correos en Lemish**. Además, verán un nombre clave: **"El Tejedor"**, quien parece dirigir las operaciones desde las sombras.
+
+### Fase 3
+
+#### 1. La Llegada: El Eco del Pasado
+
+Cuando los jugadores lleguen, no les des un combate inmediato. Deja que el peso del lugar se asiente.
+
+- **La Visual:** La mansión está ennegrecida, las vigas de madera parecen costillas de un animal muerto. El jardín es una selva de espinos.
+- **El Detalle para Elodin:** Describe cómo reconoce el rastro de la emboscada. Quizás vea una marca en una pared o un trozo de tela que reconoce como parte del vestuario de su antigua troupe.
+- **La Vigilancia:** La Red Rota no es tonta. Hay **centinelas ocultos** entre los escombros (pueden usar el rasgo de "Esconderse en las sombras"). Si los jugadores no son sigilosos, la Red Rota sabrá que vienen y preparará una emboscada mejor.
+#### 2. El Encuentro: La Negociación o el Asalto
+
+En el gran salón, donde antes había un escenario, ahora hay una hoguera improvisada y un grupo de la Red Rota esperándoles.
+
+- **El Portavoz:** Un tipo llamado **Kraz**, un veterano con una cicatriz que le cruza la garganta (cortesía de la resistencia de Kimber).
+- **La Dinámica:**
+    - **Si van de frente:** Kraz se reirá y les dirá que han sido muy amables al entregarse.
+    - **Si fingen ser cazarrecompensas (con Elodin "preso"):** Aquí es donde Elodin debe brillar. Tendrá que hacer una tirada de **Engaño (Deception)** enfrentada a la **Perspicacia (Insight)** de Kraz.
+    - **El Giro:** Kraz menciona que "la chica" (Astrin) ha estado preguntando por él. Les ofrece los 150 de oro de adelanto, pero solo si Elodin entra solo a la bodega "para el reencuentro".
+#### 3. La Batalla de la Mansión
+
+Sea por una señal de ataque o porque el engaño falla, el combate estalla.
+
+- **El Terreno:** El suelo es inestable. Hay zonas donde la madera cruje y puede romperse.
+- **Los Enemigos:** Mezcla matones con algún **Hechicero de la Red Rota** que use hechizos de fuego o ilusiones (para jugar con la mente de Elodin).
+- **El Final del Combate:** Kraz, antes de morir o al ser capturado, soltará una bomba: _"¿Crees que la rescatas? Ella fue quien nos dio tu ubicación para salvar su propio pellejo"_. (Una mentira de la Red Rota para sembrar discordia).
+- De cualquier manera, descubren a donde tienen que llevar a elodin garcias a Kraz (interrogando o una nota, si se pasan de bobos, que pregunten por la ciudad)
+
+### Fase final
 - [[La Red Rota]] tiene un almacen solamente en la ciudad, si van, hay dungeon en el sotano.
-- A traves del sotano encuentran a alguien encarcelado con libros de cuentas, es [[Gimnur]]
+- 
 
 

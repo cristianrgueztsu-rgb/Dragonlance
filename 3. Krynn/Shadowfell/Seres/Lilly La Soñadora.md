@@ -7,3 +7,10 @@
 
 Símbolo: Lirio violeta
 ![[Pasted image 20260121000824.png]]
+
+### Forma Buena
+![[Pasted image 20260513172700.png]]
+
+
+### Forma Malvada
+![[Pasted image 20260513173345.png]]

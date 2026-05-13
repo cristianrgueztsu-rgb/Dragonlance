@@ -26,15 +26,16 @@ Origen real lilly: Originalmente era la segunda comandante al mando de Istar, [[
 Su objetivo: despertar y desafiar a los dioses. Necesita el poder de cientos de adoradores y un objeto magico.
 ### Fase 1
 - Pista objeto mágico, que cada diá escuche/vea una letra diferente, cada vez que presta atencion a una letra, oye muchos susrros mezclados:
-	- Palabra
-		- N: En un sueño
-		- O: En una nube
-		- K: En ramas de unos arboles
-		- D: Thariel se lo dice
-		- U: En el cartel de algun lugar
+- Todos sus sueños son muy vividos, sueña con un reino muy prospero, lleno de riquezas y poder. Al final, siempre acaba igual, desolado, niños llorando, muerte por todos lados.
+	- Palabra (todas las letras las ve en el sueño)
+		- N: 
+		- O: 
+		- K: 
+		- D: 
+		- U: 
 		- M:
 		- A:
-		- L: Thariel se lo dice, y le dice que es la última
+		- L:
 	- Una vez la tenga completa, deberá preguntar, le dirán que se sabe que es un baculo de la epoca dorada de Istar, los llevaban los reyes de Istar. Después del cataclismo se perdió la pista pero hay rumores de una biblioteca abandonada al ESTE que puede contener información sobre esa época
 
 ### Fase 2

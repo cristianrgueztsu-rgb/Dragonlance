@@ -12,5 +12,5 @@
 	- Elodin: Laud roto, debe pagar 300G para arreglar
 	-  A creature that attempts to play the instrument without being attuned to it must succeed on a DC 15 Wisdom saving throw or take 2d4 psychic damage.
 	- Tiene 2 spell slot, se recargan en descanso largo y se pueden usar como accion adicional
-	- Permite usar [Barkskin](http://dnd5e.wikidot.com/spell:barkskin), [Cure Wounds](http://dnd5e.wikidot.com/spell:cure-wounds), [Fog Cloud](http://dnd5e.wikidot.com/spell:fog-cloud)
+	- Permite usar [Barkskin](http://dnd5e.wikidot.com/spell:barkskin), [Lvl 2 Cure Wounds](http://dnd5e.wikidot.com/spell:cure-wounds), [Fog Cloud](http://dnd5e.wikidot.com/spell:fog-cloud)
 	- ![[Pasted image 20260501175351.png]]
