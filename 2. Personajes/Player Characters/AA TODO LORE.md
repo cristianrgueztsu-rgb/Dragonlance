@@ -1,9 +1,10 @@
 - Elodin
 	- Buildear como llegar al momento final con una pelea. El jefe de la banda es un panoli pero tendrá buena seguridad.
-	- Mapas de la dungeon final y del palacio donde se hace el baile
+	- Mapa de la dungeon final 
+	- Mapa del palacio donde se hace el baile
 - Anima
 	- Obtener stats de lilly cuando estén para pelear
 - Rumi
 	- Peleas de la dungeon
 	- imagen de su madre
-	- pedirle a ainhoa una imagen de su padre
+	- pedirle a ainhoa una imagen de su padre DONE, waiting
