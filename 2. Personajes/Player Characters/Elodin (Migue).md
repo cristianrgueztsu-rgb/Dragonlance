@@ -97,11 +97,16 @@ El evento se celebra en una villa lujosa. La regla es clara: **Máscara obligato
 - **El Reto para Elodin:** Debe infiltrarse no solo como invitado, sino como alguien que pertenece allí. Tendrá que usar sus habilidades para conseguir una invitación, un disfraz convincente y, lo más difícil, mantener la sangre fría mientras ve a nobles que podrían ser quienes ordenaron la matanza de su troupe.
 - **El Objetivo:** Identificar al "Crupier de Información". No es un líder de la Red Rota, sino su enlace con el mundo legal.
 
-## Dinámica de Obtención de Información
+#### Dinámica de Obtención de Información
 
 En lugar de una pelea, esto es un "combate social". Aquí tienes tres formas en las que pueden obtener los datos sobre la [[La Red Rota]] y [[Lemish]]:
 
-### NPCs/info random que podria conseguir
+#### Primer piso
+![[98539c618f3c48461152968cfe3406a7.png]]
+
+#### Segundo Piso
+![[Pasted image 20260514201134.png]]
+#### NPCs/info random que podria conseguir
 #### 1. El Crupier de la Máscara de Porcelana (El "Espejo" del Pasado)
 
 Este hombre maneja la mesa de _Gambito del Dragón_ con una elegancia que Elodin reconocerá al instante. Sus manos se mueven con la misma técnica que Kimber le enseñó a él.
@@ -141,19 +146,19 @@ Una mujer joven que no deja de observar a Elodin desde lejos. No parece disfruta
 - **Apariencia:** Máscara de mariposa quemada por los bordes. Viste un traje que, aunque elegante, parece pasado de moda o recuperado de un incendio.
 - **Su Secreto:** Es una enviada personal de **Astrin**. Astrin no pudo venir, pero envió a esta chica para encontrar a Elodin antes de que la Red Rota lo haga.
 - **Información:** Si Elodin se acerca, ella no dirá su nombre, solo le entregará una carta breve: _"El trato se ha roto. Tu amiga está en la mansión. No vengas solo"_. Esto sirve para confirmar que Astrin vive y que Lemish es la trampa final.
-### A. El Juego de los Susurros (Habilidades Sociales)
+#### A. El Juego de los Susurros (Habilidades Sociales)
 
 Elodin escucha que un mercader rico llamado **Vandermir** está buscando "especialistas en cobros" (matones) para un trabajo en el norte.
 
 - Si Elodin usa su **engaño**, puede hacerse pasar por un mercenario refinado. Vandermir, bajo el efecto del vino y la máscara, podría confesar: _"El negocio se encuentra en Lemish. Allí el humo de la guerra tapa el olor de nuestra mercancía. Las recogidas son en la mansion quemada"_.
 
-### B. El Robo de los Libros (Sigilo/Trucos de manos)
+#### B. El Robo de los Libros (Sigilo/Trucos de manos)
 
 En un despacho privado de la villa, hay un registro de "Donaciones para la Guardia".
 
 - Si logran entrar, descubrirán que la Red Rota paga sobornos mensuales. Aparece el nombre de Gimnur. El rastro de los pagos termina en una **oficina de correos en Lemish**. Además, verán un nombre clave: **"El Tejedor"**, quien parece dirigir las operaciones desde las sombras.
 
-### Fase 3
+### Fase 3. Lemish
 
 #### 1. La Llegada: El Eco del Pasado
 

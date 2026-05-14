@@ -1,6 +1,7 @@
 ### TODO:
 
 - Crear una mision de mercenario chunga para aitor y aday (algo malo eticamente)
+	- Que le den una paliza a un hombre porque le debe dinero a la mafia de esta gente
 ### Situacion actual
 - Terminaron el dia desp de recibir sus recompensas
 ### Comienzo Sesion
