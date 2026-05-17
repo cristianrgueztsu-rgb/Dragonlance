@@ -1,7 +1,11 @@
 ### TODO:
 
 - Crear una mision de mercenario chunga para aitor y aday (algo malo eticamente)
+	- [[Brorn Hlaafin]] (lider mafioso que les envia una mision)
 	- Un hombre les debe 100g, que recuperen ese dinero como sea necesario. Da igual los metodos.
+
+
+- El laud de elodin, se lo queda tatiana para repararlo
 ### Situacion actual
 - Terminaron el dia desp de recibir sus recompensas
 ### Comienzo Sesion

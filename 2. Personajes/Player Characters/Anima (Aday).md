@@ -8,6 +8,9 @@ Pjs. relacionados:
 - [[Roderic]]
 - [[Thariel]]
 
+- Dependiendo de si aday ha extendido la palabra de Lilly o no, cuando peleen contra ella, será más o menos poderosa.
+	- Veces que ha hablado de ella o jodido a los demas: 3
+
 Lore:
 Anima fue abandonado por sus padres a temprana edad, pero al poco tiempo encontró cobijo con un hombre llamado [[Roderic]], un ex-caballero de Solamnia y fiel devoto de [[Lilly La Soñadora]], una misteriosa entidad de increíble poder del Shadowfell. 
 
@@ -82,5 +85,3 @@ Su objetivo: despertar y desafiar a los dioses. Necesita el poder de cientos de 
 	- Al ganar, se quedan con el baculo, [[Thariel]] sale del control y anima consigue algun artefacto poderoso para él
 
 
-- Dependiendo de si aday ha extendido la palabra de Lilly o no, cuando peleen contra ella, será más o menos poderosa.
-	- Veces que ha hablado de ella: 2
