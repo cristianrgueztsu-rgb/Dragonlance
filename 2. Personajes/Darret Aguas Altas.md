@@ -6,3 +6,5 @@
     - **Vínculo:** Su lealtad absoluta hacia Becklin, de quien intenta aprender todo lo posible.
 - **Debilidad:** A pesar de su brillantez táctica, carece de experiencia en el mando real y le cuesta mucho **delegar tareas**.
 ![[042-03-005.darrett-highwater.webp]]
+
+![[darret caballero.png]]

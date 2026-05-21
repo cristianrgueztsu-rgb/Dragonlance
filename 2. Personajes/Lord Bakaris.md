@@ -9,3 +9,5 @@ Lord Bakaris Uth Estide (malvado neutral, noble humano) es un hombre arrogante q
 **Defecto**. «Mi sangre me convierte en líder. Si los plebeyos pueden hacerlo, ¿tan difícil puede ser?».
 
 Hijo: [[Bakaris el Joven]]
+
+![[Lord bakaris.png]]

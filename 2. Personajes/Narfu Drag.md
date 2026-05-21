@@ -7,3 +7,6 @@
 - [[Tridin Yunque Recio (Pablo)]] le conoce por Gimnur, pero realmente solo usaba su nombre para salir de incognita.
 - Narfu tiene guardias en todas las casas de sus mercaderes comprados. La noche del robo mataron a [[Kimber]] y a [[Gimnur]] en un daño colateral, pero pudieron capturar a [[Astrin]].
 - Usaba a [[Astrin]] para pagar la deuda de lo que le robaron, haciendo que trabajara para él (No tenia intenciones de liberarla). A parte le habia dicho que dejaría a Elodin tranquilo si le hacía caso. 
+
+
+![[narfu drag.png]]

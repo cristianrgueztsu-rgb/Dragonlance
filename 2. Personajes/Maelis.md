@@ -12,3 +12,9 @@ Tiempo después cuando [[Althaea de Palanthus]] cayó embarazada, fue imposible 
 [[Maelis]] acabó deambulando por solo por Ansalon durante años, con un odio enorme creciendole dentro. Un día [[Elarion Thalanor]] dio con él y lo convenció de hacer justicia.
 
 Durante este tiempo se ha entrenado en el mundo de la magia, acortando por caminos prohibidos para aumentar su poder en poco tiempo y poder vengarse por si mismo.
+
+
+![[good maelis.png]]
+
+
+![[evil maelis.png]]

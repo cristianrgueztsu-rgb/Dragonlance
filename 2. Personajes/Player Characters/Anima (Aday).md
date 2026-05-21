@@ -53,10 +53,13 @@ Su objetivo: despertar y desafiar a los dioses. Necesita el poder de cientos de 
 
 ### Fase 2.2 (Dungeon 1er piso)
 
-- Las escaleras se sienten interminables, mientras bajan, sienten que cada vez hace mas frio y despues de unos 5 minutos bajando llegan a una sala muy amplia con poco mas que una cama y una mesa. Aqui se encuentra una bruja invernal llamada Bolzabu Shrerva junto a su mascota "peluchito" (está muy viejo).
+- Las escaleras se sienten interminables, mientras bajan, sienten que cada vez hace mas frio y despues de unos 5 minutos bajando llegan a una sala muy amplia con poco mas que una cama y una mesa. 
+- ![[Pasted image 20260521232058.png]]
+- 
+- Aqui se encuentra una bruja invernal llamada Bolzabu Shrerva junto a su mascota "peluchito" (está muy viejo).
 - En sus manos tiene el medio baston. Una mitad es de madera y la otra de hielo.
 - Boss: https://dr-eigenvalue.github.io/bestiary/creature/bheur-hag y su perro modificado pero muy viejo. Atacar con el pa que lo maten y poder usar **_Maddening Feast_** con la bruja
-- Cuando la derrotan, [[Gilean]] se pronuncia y les dará 3 acertijos en total, uno cada vez. Cuando acierten los 3, les dirá donde está la segunda mitad del baculo. 
+- Cuando la derrotan, [[Gilean]] se pronuncia y les dará 3 acertijos en total, uno cada vez. Cuando acierten los 3, les dirá donde está la segunda mitad del baculo. (cuando fallen una respuesta se comen 1d4 de daño, ir aumentando si veo que son retrasados)
 	- 1. "Soy tan frágil que, si te atreves a pronunciar mi nombre, me romperé al instante. Soy el hogar de los muertos y el temor de los impacientes. ¿Qué soy?"
 		**La respuesta:** **El silencio.**
 	- 2. "Nací en el corazón de la tierra y fui bautizado por el fuego. Soy el castigo de los malvados y la salvación de los justos. Mi lengua es de acero y solo hablo cuando me golpean, pero mis palabras pueden decidir el destino de un reino. ¿Qué soy?"

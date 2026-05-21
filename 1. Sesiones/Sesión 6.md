@@ -6,8 +6,9 @@
 
 
 - El laud de elodin, se lo queda tatiana para repararlo
-### Situacion actual
-- Terminaron el dia desp de recibir sus recompensas
+### Situacion final
+- Venian de enterrar a los padres de la niá huerfana de la mision que les dieron
+- Dejaron que la parejita de ancianos y su nieta (los de la deuda) se largaran
 ### Comienzo Sesion
 [https://5e.tools/adventure.html#dsotdq](https://5e.tools/adventure.html#dsotdq,4)
 

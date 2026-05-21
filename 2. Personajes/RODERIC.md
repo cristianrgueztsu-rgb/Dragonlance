@@ -3,3 +3,5 @@
 - Devoto de [[Lilly La Soñadora]]
 	- Le reza por miedo a lo que pueda ocurrir si despierta
 - Buena persona, ayudaba a los demás.
+
+![[roderic.png]]

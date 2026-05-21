@@ -3,3 +3,5 @@
 - Sabía cuándo irse antes de que llegaran los guardias
 - Kimber planeaba
 - Murió primero, defendiendo la salida como siempre había prometido
+
+![[kimber.png]]
