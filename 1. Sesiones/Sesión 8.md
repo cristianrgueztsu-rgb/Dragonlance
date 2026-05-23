@@ -6,7 +6,9 @@
 
 ### TODO para esta sesion:
 
-- Comprobar que la pelea de la bruja de hielo est
+- Todo lo de [[AA TODO LORE]] y añadirlo a foundry a la vez
+- Continuar añadiendo bichos a foundry del libro de dragonlance
+- 
 
 
 ### Pendiente
