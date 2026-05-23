@@ -1,13 +1,12 @@
-23/05/2026
+04/06/2026
 ### Situacion final
 
--  Anima fue solo a la fiesta de bailes
--  Los demas se quedaron en un escondrijo
--  Kirk se quedó en el tejado de la mansion de bailes
+
 
 
 ### TODO para esta sesion:
 
+- Comprobar que la pelea de la bruja de hielo est
 
 
 ### Pendiente

@@ -13,7 +13,7 @@ Tiempo después cuando [[Althaea de Palanthus]] cayó embarazada, fue imposible 
 
 Durante este tiempo se ha entrenado en el mundo de la magia, acortando por caminos prohibidos para aumentar su poder en poco tiempo y poder vengarse por si mismo.
 
-
+### Imagen
 ![[good maelis.png]]
 
 

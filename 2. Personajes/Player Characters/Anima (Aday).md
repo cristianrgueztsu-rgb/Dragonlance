@@ -65,22 +65,23 @@ Su objetivo: despertar y desafiar a los dioses. Necesita el poder de cientos de 
 ![[peluchito.png]]
 
 #### Cont
-- Cuando la derrotan, [[Gilean]] se pronuncia y les dará 3 acertijos en total, uno cada vez. Cuando acierten los 3, les dirá donde está la segunda mitad del baculo. (cuando fallen una respuesta se comen 1d4 de daño, ir aumentando si veo que son retrasados)
+- El boss en sus manos tiene el medio baston. Una mitad es de madera y la otra de hielo.
+- Boss: https://dr-eigenvalue.github.io/bestiary/creature/bheur-hag y su dragon modificado pero muy viejo. Atacar con el pa que lo maten y poder usar **_Maddening Feast_** con la bruja https://dr-eigenvalue.github.io/bestiary/creature/blue-dragon-wyrmling
+- Cuando la derrotan, [[Gilean]] se pronuncia y les dirá donde se encuentra la otra mitad (Un cementario del cataclismo). Les dará 3 acertijos y deberán presentar sus respuestas al enterrador 
 	- 1. "Soy tan frágil que, si te atreves a pronunciar mi nombre, me romperé al instante. Soy el hogar de los muertos y el temor de los impacientes. ¿Qué soy?"
 		**La respuesta:** **El silencio.**
 	- 2. "Nací en el corazón de la tierra y fui bautizado por el fuego. Soy el castigo de los malvados y la salvación de los justos. Mi lengua es de acero y solo hablo cuando me golpean, pero mis palabras pueden decidir el destino de un reino. ¿Qué soy?"
 		**La respuesta:** **Una espada.**
 	- 3. "Aquel que me fabrica, no me quiere. Aquel que me compra, no me usa. Y aquel que me usa, jamás sabrá que estoy ahí. ¿Qué soy?"
 		**La respuesta:** **Un ataúd.**
-
-- En sus manos tiene el medio baston. Una mitad es de madera y la otra de hielo.
-- Boss: https://dr-eigenvalue.github.io/bestiary/creature/bheur-hag y su perro modificado pero muy viejo. Atacar con el pa que lo maten y poder usar **_Maddening Feast_** con la bruja
+#### Cementerio
+![[cementerio.png]]
 
 ### Fase 4
-- Una vez los resuelven todos. El lugar donde se encuentra la otra mitad del baculo es en un cementerio en Qlettaar, hacia el sur. Les da unas instrucciones de como llegar. 
-- Una vez alli, deben presentar las respuestas de los 3 acertijos en la entrada.
-- Al rato, llegará el enterrador de ese cementario y les dará la otra mitad.
-- El baculo +2 al daño magico, no hace nada por si solo. Magicamente se fusiona en uno solo al juntarse.
+- El lugar donde se encuentra la otra mitad del baculo es en un cementerio en Qlettaar, hacia el sur. Les da unas instrucciones de como llegar. 
+- El enterrador espera en la puerta, una vez confirmen que vienen a presentar las respuestas una carcel magica invisible aparecerá que los encierra https://roll20.net/compendium/dnd5e/Forcecage#content (cuando fallen una respuesta se comen 1d4 de daño, ir aumentando si veo que son retrasados)
+- Una vez acierten todas,  el enterrador de ese cementario les dará la otra mitad.
+- Magicamente se fusiona en uno solo al juntarse. El baculo +2 al daño magico, no hace nada por si solo. 
 
 ### Fase Final
 - Una vez tienen las dos mitades, y yo decida que es buen momento para continuar la historia, una noche, mientras todos duermen, aparecerán en shadowfell.

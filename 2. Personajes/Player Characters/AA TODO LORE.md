@@ -1,9 +1,9 @@
 - Elodin
-	- Buildear como llegar al momento final con una pelea. El jefe de la banda es un panoli pero tendrá buena seguridad.
+	- Buildear como llegar al momento final con una pelea. El jefe de la banda sabe pelear con hacha porque ensñó a tridin
 	- Mapa de la dungeon final 
 - Anima
 	- Obtener stats de lilly cuando estén para pelear
 - Rumi
 	- Peleas de la dungeon
-	- imagen de su madre
-	- pedirle a ainhoa una imagen de su padre DONE, waiting
+	- mapa de palanthea 
+	- mapa de alguna casa donde cenen

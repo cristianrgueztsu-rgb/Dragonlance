@@ -118,7 +118,7 @@ En un despacho privado de la villa, hay un registro de "Donaciones para la Guard
 
 #### NPCs/info random que podria conseguir
 #### 1. El Crupier de la Máscara de Porcelana (El "Espejo" del Pasado)
-
+[[crupier.jpeg]]
 Este hombre maneja la mesa de _Gambito del Dragón_ con una elegancia que Elodin reconocerá al instante. Sus manos se mueven con la misma técnica que Kimber le enseñó a él.
 
 - **Apariencia:** Viste de riguroso negro y lleva una máscara de porcelana blanca sin expresión.
@@ -126,7 +126,7 @@ Este hombre maneja la mesa de _Gambito del Dragón_ con una elegancia que Elodin
 - **Información:** "No busques a los perros en los callejones, Elodin. Los dueños están aquí arriba, bebiendo vino de 100 de oro. La Red Rota no es una banda, es un contrato".
 
 #### 2. Lady Valerine "La Urraca" (La Coleccionista de Secretos)
-
+[[lady valerine.jpeg]]
 Una noble de mediana edad, famosa por organizar los mejores bailes y por saber quién se acuesta con quién (y quién debe cuánto).
 
 - **Apariencia:** Máscara de plumas de pavo real y un vestido que hace un ruido metálico al caminar (lleva docenas de llaves y amuletos colgando).
@@ -134,14 +134,16 @@ Una noble de mediana edad, famosa por organizar los mejores bailes y por saber q
 - **Información:** Si Elodin la lisonjea o le ofrece un secreto jugoso sobre otro invitado, ella le confesará: _"Ese sello púrpura que buscas... vi a un mensajero entregarlo en el ala este de la mansión. Venía de Lemish, olía a ceniza y a pino húmedo"_.
 
 #### 3. El Capitán Kaelen (El Guardia Corrupto)
-
+[[Kaelen.png]]
 El capitán de la guardia local, presente "oficialmente" para garantizar la seguridad, pero en realidad está allí para recibir su parte de las ganancias.
 
 - **Apariencia:** Máscara de león dorado. Bebe demasiado y su armadura de gala parece quedarle pequeña.
 - **Su Secreto:** Él es quien firma las órdenes de "no intervenir" cuando la Red Rota opera en la ciudad.
 - **Información:** Es fácil de manipular si Elodin usa su habilidad para plantar ideas. Kaelen podría quejarse de que _"tener que enviar mis mejores carros escoltados hasta la mansión quemada de Lemish es un gasto que el consejo no debería asumir"_, revelando así la ruta logística.
 
-#### 4. Lord Valthus (El Inversionista Desalmado)
+#### 4. Lord Valthus (El Inversionista Desalmado) (Dueño del palacio)
+[[lord valthus.jpeg]]
+
 
 Un mercader que se hizo rico de la noche a la mañana tras la desaparición de varios de sus competidores.
 
@@ -150,7 +152,7 @@ Un mercader que se hizo rico de la noche a la mañana tras la desaparición de v
 - **Información:** Lleva encima un anillo con el sello de la Red Rota escondido bajo el guante. Si Elodin consigue robárselo o verlo, tendrá la prueba de quién dirige la red en la ciudad.
 
 #### 5. "La Musa de la Ceniza" (El Cebo)
-
+[[musa ceniza.jpeg]]
 Una mujer joven que no deja de observar a Elodin desde lejos. No parece disfrutar de la fiesta.
 
 - **Apariencia:** Máscara de mariposa quemada por los bordes. Viste un traje que, aunque elegante, parece pasado de moda o recuperado de un incendio.
