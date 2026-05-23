@@ -43,7 +43,7 @@ Su objetivo: despertar y desafiar a los dioses. Necesita el poder de cientos de 
 - **1. El Vestíbulo de los Catalogadores:** Una vez fue la gran entrada, pero ahora el aire es pesado y huele a papel viejo y humedad. El suelo de piedra está cubierto de fragmentos de lo que parecen ser antiguas fichas de registro de madera podrida.
 - **2. El Depósito de Manuscritos:** Esta sala rectangular está flanqueada por estanterías empotradas en las paredes de roca, la mayoría de ellas vacías o con restos de pergaminos devorados por los gusanos de biblioteca. El silencio es absoluto, roto solo por el crujido del polvo bajo las botas.
 - **3. El Taller de Encuadernación:** Un espacio pequeño y claustrofóbico que aún conserva el rastro del olor a cuero y cola. Hay restos de prensas de madera astilladas en las esquinas, y el suelo está salpicado de manchas oscuras de tintas secas que nunca llegaron a plasmarse en un libro.
-- **4. La Galería de los Escribas:** Una estancia amplia donde las filas de pupitres han colapsado sobre sí mismas. Las paredes muestran nichos donde antaño ardían lámparas de aceite para iluminar el trabajo nocturno; ahora, las sombras parecen moverse de forma independiente entre los escombros.
+- **4. La Galería de los Escribas:** Una estancia amplia donde las filas de pupitres han colapsado sobre sí mismas. Las paredes muestran nichos donde antaño ardían lámparas de aceite para iluminar el trabajo nocturno; ahora, las sombras parecen moverse de forma independiente entre los escombros. 
 - **5. El Archivo de lo Prohibido:** Situado al final de un pasillo estrecho, este pequeño habitáculo se siente notablemente más frío que el resto. No quedan libros aquí, pero las marcas de cadenas en las paredes sugieren que lo que se guardaba en esta habitación era demasiado peligroso para circular libremente.
 - **6. El Gran Salón de Consulta:** Esta es la sala más espaciosa del complejo. El techo parece perderse en la oscuridad. Las corrientes de aire silban a través de las grietas, moviendo montones de ceniza blanca que alguna vez fueron tratados de historia antigua. Es el nudo central que conecta las alas más privadas de la biblioteca.
 	- Allí encontraran un libro hablando del baculo. Un arma magica, la que llevaba el ultimo rey durante el rito que destruyó Istar. Los registros datan que ese báculo sobrevivió a la catastrofe y que el dios [[Gilean]] fue el encargado de dividir ese baculo en 2 mitades y esconderlas para que nadie pudiera encontrarlo.
@@ -54,11 +54,17 @@ Su objetivo: despertar y desafiar a los dioses. Necesita el poder de cientos de 
 ### Fase 2.2 (Dungeon 1er piso)
 
 - Las escaleras se sienten interminables, mientras bajan, sienten que cada vez hace mas frio y despues de unos 5 minutos bajando llegan a una sala muy amplia con poco mas que una cama y una mesa. 
-- ![[Pasted image 20260521232058.png]]
-- 
+#### Guarida
+![[Pasted image 20260521232058.png]]
+#### Cont
 - Aqui se encuentra una bruja invernal llamada Bolzabu Shrerva junto a su mascota "peluchito" (está muy viejo).
-- En sus manos tiene el medio baston. Una mitad es de madera y la otra de hielo.
-- Boss: https://dr-eigenvalue.github.io/bestiary/creature/bheur-hag y su perro modificado pero muy viejo. Atacar con el pa que lo maten y poder usar **_Maddening Feast_** con la bruja
+#### Bruja
+![[bruja boss biblioteca.png]]
+
+#### Peluchito
+![[peluchito.png]]
+
+#### Cont
 - Cuando la derrotan, [[Gilean]] se pronuncia y les dará 3 acertijos en total, uno cada vez. Cuando acierten los 3, les dirá donde está la segunda mitad del baculo. (cuando fallen una respuesta se comen 1d4 de daño, ir aumentando si veo que son retrasados)
 	- 1. "Soy tan frágil que, si te atreves a pronunciar mi nombre, me romperé al instante. Soy el hogar de los muertos y el temor de los impacientes. ¿Qué soy?"
 		**La respuesta:** **El silencio.**
@@ -67,11 +73,14 @@ Su objetivo: despertar y desafiar a los dioses. Necesita el poder de cientos de 
 	- 3. "Aquel que me fabrica, no me quiere. Aquel que me compra, no me usa. Y aquel que me usa, jamás sabrá que estoy ahí. ¿Qué soy?"
 		**La respuesta:** **Un ataúd.**
 
+- En sus manos tiene el medio baston. Una mitad es de madera y la otra de hielo.
+- Boss: https://dr-eigenvalue.github.io/bestiary/creature/bheur-hag y su perro modificado pero muy viejo. Atacar con el pa que lo maten y poder usar **_Maddening Feast_** con la bruja
+
 ### Fase 4
 - Una vez los resuelven todos. El lugar donde se encuentra la otra mitad del baculo es en un cementerio en Qlettaar, hacia el sur. Les da unas instrucciones de como llegar. 
 - Una vez alli, deben presentar las respuestas de los 3 acertijos en la entrada.
 - Al rato, llegará el enterrador de ese cementario y les dará la otra mitad.
-- El baculo, no hace nada por si solo. Magicamente se fusiona en uno solo al juntarse.
+- El baculo +2 al daño magico, no hace nada por si solo. Magicamente se fusiona en uno solo al juntarse.
 
 ### Fase Final
 - Una vez tienen las dos mitades, y yo decida que es buen momento para continuar la historia, una noche, mientras todos duermen, aparecerán en shadowfell.

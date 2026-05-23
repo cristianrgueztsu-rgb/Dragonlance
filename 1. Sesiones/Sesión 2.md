@@ -1,3 +1,4 @@
+28/03/2026
 ### TODO: 
 - Preparar algo de lore de los jugadores (Ainhoa y aday sobre todo.)
 - Mirar lo de los puntos de hechiceria de ainhoa, mirar cuantos usos tiene o si es infinito

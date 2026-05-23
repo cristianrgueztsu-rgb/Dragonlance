@@ -102,6 +102,7 @@ El evento se celebra en una villa lujosa. La regla es clara: **Máscara obligato
 En lugar de una pelea, esto es un "combate social". Aquí tienes tres formas en las que pueden obtener los datos sobre la [[La Red Rota]] y [[Lemish]]:
 
 #### Primer piso
+
 ![[98539c618f3c48461152968cfe3406a7.png]]
 
 #### Segundo Piso

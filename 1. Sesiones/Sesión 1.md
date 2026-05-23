@@ -1,3 +1,4 @@
+06/02/2026
 ### Situacion actual
 - 12 del mediodia
 - [[Elodin (Migue)]] está en la taberna Cangrejo de laton.

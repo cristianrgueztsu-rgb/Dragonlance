@@ -1,3 +1,4 @@
+07/02/2026
 ### Resumen Final Sesión 0:
 - Son las 12 del mediodia
 - Todos se conocieron en la taberna Palo Borracho, conocieron a [[Garro Sonrisa de Hierro]]

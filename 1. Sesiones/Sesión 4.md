@@ -1,3 +1,4 @@
+19/04/2026
 ### TODO: 
 - Preparar algo de lore de los jugadores (Ainhoa y aday sobre todo.) DONE
 

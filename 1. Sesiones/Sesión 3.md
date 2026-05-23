@@ -1,3 +1,4 @@
+04/04/2026
 ### TODO: 
 - Mirar lo de los puntos de hechiceria de ainhoa, mirar cuantos usos tiene o si es infinito
 
