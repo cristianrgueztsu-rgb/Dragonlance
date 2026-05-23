@@ -1,7 +1,9 @@
 23/05/2026
 ### Situacion final
 
-- 
+-  Anima fue solo a la fiesta de bailes
+-  Los demas se quedaron en un escondrijo
+-  Kirk se quedó en el tejado de la casa
 ### TODO para esta sesion:
 
 
@@ -11,8 +13,8 @@
 
 ### Pendiente
 
-- Devolver los 100g a [[Brorn Hlaafin]]
-	- [[Brorn Hlaafin]] les pedirá que busquen a elodin cuando les pague los 100g
+- Devolver los 100g a [[Brorn Hlaafin 1]]
+	- [[Brorn Hlaafin 1]] les pedirá que busquen a elodin cuando les pague los 100g
 
 ### Comienzo Sesion
 ### Missions for Kalaman (Misiones para Kalaman)

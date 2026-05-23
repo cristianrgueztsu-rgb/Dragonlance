@@ -2,13 +2,13 @@
 ### TODO:
 
 - Crear una mision de mercenario chunga para aitor y aday (algo malo eticamente)
-	- [[Brorn Hlaafin]] (lider mafioso que les envia una mision)
+	- [[Brorn Hlaafin 1]] (lider mafioso que les envia una mision)
 	- Un hombre les debe 100g, que recuperen ese dinero como sea necesario. Da igual los metodos.
 
 
 - El laud de elodin, se lo queda tatiana para repararlo
 ### Situacion final
-- Venian de enterrar a los padres de la niá huerfana de la mision Ambushing the Enemy
+- Venian de enterrar a los padres de la niñá huerfana de la mision Ambushing the Enemy
 - Dejaron que la parejita de ancianos y su nieta (los de la deuda) se largaran
 ### Comienzo Sesion
 [https://5e.tools/adventure.html#dsotdq](https://5e.tools/adventure.html#dsotdq,4)
