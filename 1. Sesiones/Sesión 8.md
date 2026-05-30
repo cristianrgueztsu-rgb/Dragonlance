@@ -7,7 +7,6 @@
 ### TODO para esta sesion:
 
 - Todo lo de [[AA TODO LORE]] y añadirlo a foundry a la vez
-- Continuar añadiendo bichos a foundry del libro de dragonlance
 - 
 
 
@@ -15,6 +14,7 @@
 
 - Baile de mascaras
 - Investigar la biblioteca del baston de NOKDUAL
+- Que a rumi se le acerquen seguidores de su secta (buscar como se llamaba)
 
 ### Comienzo Sesion
 ### Missions for Kalaman (Misiones para Kalaman)

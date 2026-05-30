@@ -4,7 +4,7 @@
 - Dios: [[Gilean]]
 - Tiene un gato negro
 
-
+![[dungeon_of_night_palm.json]]
 Pjs. relacionados:
 - [[Kimber]]
 - [[Astrin]]
@@ -178,6 +178,7 @@ En el gran salón, donde antes había un escenario, ahora hay una hoguera improv
     - **Si van de frente:** Kraz se reirá y les dirá que han sido muy amables al entregarse.
     - **Si fingen ser cazarrecompensas (con Elodin "preso"):** Aquí es donde Elodin debe brillar. Tendrá que hacer una tirada de **Engaño (Deception)** enfrentada a la **Perspicacia (Insight)** de Kraz.
     - **El Giro:** Kraz menciona que "la chica" (Astrin) ha estado preguntando por él. Les ofrece los 150 de oro de adelanto, pero solo si Elodin entra solo a la bodega "para el reencuentro".
+- **Pelea**: Kraz "Hobgoblin warlord" y los minions son"winter wolf"
 #### 3. La Batalla de la Mansión
 
 Sea por una señal de ataque o porque el engaño falla, el combate estalla.
