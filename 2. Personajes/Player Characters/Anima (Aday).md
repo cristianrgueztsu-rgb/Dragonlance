@@ -66,7 +66,7 @@ Su objetivo: despertar y desafiar a los dioses. Necesita el poder de cientos de 
 
 #### Cont
 - El boss en sus manos tiene el medio baston. Una mitad es de madera y la otra de hielo.
-- Boss: https://dr-eigenvalue.github.io/bestiary/creature/bheur-hag y su dragon modificado pero muy viejo. Atacar con el pa que lo maten y poder usar **_Maddening Feast_** con la bruja https://dr-eigenvalue.github.io/bestiary/creature/blue-dragon-wyrmling
+- Boss: https://5e.tools/bestiary.html#abjurer_vgm Nerfearlo, los hechizos de nivel alto meten demasiado
 - Cuando la derrotan, [[Gilean]] se pronuncia y les dirá donde se encuentra la otra mitad (Un cementario del cataclismo). Les dará 3 acertijos y deberán presentar sus respuestas al enterrador 
 	- 1. "Soy tan frágil que, si te atreves a pronunciar mi nombre, me romperé al instante. Soy el hogar de los muertos y el temor de los impacientes. ¿Qué soy?"
 		**La respuesta:** **El silencio.**
