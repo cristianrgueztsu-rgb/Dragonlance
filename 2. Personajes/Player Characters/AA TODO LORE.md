@@ -6,4 +6,3 @@
 - Rumi
 	- Peleas de la dungeon
 	- mapa de palanthea 
-	- mapa de alguna casa donde cenen
