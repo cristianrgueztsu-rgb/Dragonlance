@@ -4,7 +4,7 @@
 - Dios: [[Gilean]]
 - Tiene un gato negro
 
-![[dungeon_of_night_palm.json]]
+
 Pjs. relacionados:
 - [[Kimber]]
 - [[Astrin]]
@@ -190,6 +190,15 @@ Sea por una señal de ataque o porque el engaño falla, el combate estalla.
 
 ### Fase final
 - [[La Red Rota]] tiene un almacen solamente en la ciudad, si van, hay dungeon en el sotano.
-- 
 
+![[Base de la Red Rota_41x47.png]]
+
+1. **Recepcion**: Hay una mujer atendiendo, no busca problemas, ella piensa que es un almacen normal y se encarga de manejar las visitas
+2. **Sala comun de espera**
+3. **Sala del almacen**: 1500 Oro
+4. **Carcel**: Ahi está [[Gimnur]], pero hasta hace poco tambien [[Astrin]] (Le deja una frase que solo Elodin y Astrin conocen grabada en la pared)
+5. Carceleros, tienen las llaves
+6. **Sala del boss**
+
+### Astrin
 

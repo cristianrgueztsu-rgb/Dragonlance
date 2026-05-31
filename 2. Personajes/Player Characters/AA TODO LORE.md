@@ -1,6 +1,6 @@
 - Elodin
-	- Buildear como llegar al momento final con una pelea. El jefe de la banda sabe pelear con hacha porque ensñó a tridin
-	- Mapa de la dungeon final 
+	- (Solo falta el desenlace de astrin)
+	- Crear historia para encontrar a astrin, algo muy corto pero emotivo
 - Anima
 	- Obtener stats de lilly cuando estén para pelear
 - Rumi

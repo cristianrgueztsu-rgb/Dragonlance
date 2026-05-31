@@ -133,11 +133,8 @@ Pelea aqui, llave 2
 - Se puede escuchar que al lado contrario se escuchan murmuros constantes
 
 8
-- **La Arquitectura del Domo:** El techo no es plano, sino una cúpula invertida de obsidiana pulida que refleja lo que sucede en el suelo, duplicando visualmente el espacio y creando una sensación de vértigo. En el centro de la sala, el suelo de piedra desaparece para dar paso a un cristal translúcido bajo el cual fluye **mercurio**, simulando un mar plateado que brilla con luz propia.
-- **El Ritual:** El jefe del culto se encuentra en el centro exacto, elevado sobre una plataforma circular que flota (o parece flotar) sobre el mar de mercurio. Está rodeado por tres grandes espejos cóncavos de plata, cada uno orientado hacia una rendija en el techo por donde entra la luz real de las tres lunas (o una simulación mágica si es de día).
-    - **El Efecto:** Los espejos concentran la luz lunar en un solo punto sobre el jefe, creando un pilar de energía fría y azulada que lo envuelve mientras recita los salmos de la venganza.
-- **El Trono de la Desolación:** Al fondo de la sala, hay un trono tallado en un solo bloque de basalto. No está hecho para sentarse a gobernar, sino para contemplar el mapa del reino enemigo que está proyectado en el suelo mediante sombras. En el respaldo del trono, hay tres muescas circulares donde el jefe coloca las reliquias de las lunas.
-- **Ecos del Odio:** La acústica de la sala está diseñada para que la voz del jefe suene como si viniera de todas partes a la vez. No hay ruidos externos; el silencio es absoluto, roto solo por el siseo del mercurio moviéndose o el crepitar de la energía lunar.
-- **Narrativa Visual:** Alrededor de la plataforma central, hay cientos de pequeñas placas de metal con nombres grabados: son las familias que el culto afirma haber "perdido" por culpa del reino. El jefe no está solo haciendo un ritual mágico; está canalizando el **rencor colectivo** de todos sus seguidores en un solo acto de violencia mística.
+#### Mapa al principio
+![[moon_final_fight.avif]]
 
-Pelea final
+#### Mapa al ganar
+![[7b5b05c6-bb9b-4d6d-979c-d4f414e2a278-preview.webm]]
