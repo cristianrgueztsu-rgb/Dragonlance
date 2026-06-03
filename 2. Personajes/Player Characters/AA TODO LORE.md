@@ -1,6 +1,6 @@
 - Elodin
 	- (Solo falta el desenlace de astrin)
-	- Crear historia para encontrar a astrin, algo muy corto pero emotivo
+	- Crear historia para encontrar a astrin, algo muy corto pero emotivo (otra recompensa por la cabeza de elodin pero es astrin la creadora? otro baile de mascaras? En medio del baile astrin le pide bailar y en medio del baile se quita la mascara. Para que no la reconozca usa algun hechizo de cambio de imagen o whatever)
 - Anima
 	- Obtener stats de lilly cuando estén para pelear
 - Rumi

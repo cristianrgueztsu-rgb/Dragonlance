@@ -14,7 +14,7 @@
 
 - Baile de mascaras
 - Investigar la biblioteca del baston de NOKDUAL
-- Que a rumi se le acerquen seguidores de su secta (buscar como se llamaba)
+- Que a rumi se le acerquen seguidores de su secta ([[Eclipsarios]])
 
 ### Comienzo Sesion
 ### Missions for Kalaman (Misiones para Kalaman)

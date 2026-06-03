@@ -111,7 +111,7 @@ Elodin escucha que un mercader rico llamado **Vandermir** está buscando "especi
 
 En un despacho privado de la villa, hay un registro de "Donaciones para la Guardia".
 
-- Si logran entrar, descubrirán que la Red Rota paga sobornos mensuales. Aparece el nombre de Gimnur. El rastro de los pagos termina en una **oficina de correos en Lemish**. Además, verán un nombre clave: **"El Tejedor"**, quien parece dirigir las operaciones desde las sombras.
+- Si logran entrar, descubrirán que la Red Rota paga sobornos mensuales. Aparece el nombre de Gimnur. El rastro de los pagos termina en una **oficina de correos en Lemish**. 
 
 #### Primer piso [[baile1erpiso.png]]
 #### Segundo Piso [[baile2piso.png]]
@@ -119,22 +119,25 @@ En un despacho privado de la villa, hay un registro de "Donaciones para la Guard
 #### NPCs/info random que podria conseguir
 #### 1. El Crupier de la Máscara de Porcelana (El "Espejo" del Pasado)
 [[crupier.jpeg]]
+
 Este hombre maneja la mesa de _Gambito del Dragón_ con una elegancia que Elodin reconocerá al instante. Sus manos se mueven con la misma técnica que Kimber le enseñó a él.
 
 - **Apariencia:** Viste de riguroso negro y lleva una máscara de porcelana blanca sin expresión.
 - **Su Secreto:** Es un antiguo contacto de la troupe de Elodin. No trabaja para la Red Rota por lealtad, sino por miedo.
-- **Información:** "No busques a los perros en los callejones, Elodin. Los dueños están aquí arriba, bebiendo vino de 100 de oro. La Red Rota no es una banda, es un contrato".
+- **Información:** Conoce el secreto de lady valerine
 
 #### 2. Lady Valerine "La Urraca" (La Coleccionista de Secretos)
 [[lady valerine.jpeg]]
+
 Una noble de mediana edad, famosa por organizar los mejores bailes y por saber quién se acuesta con quién (y quién debe cuánto).
 
 - **Apariencia:** Máscara de plumas de pavo real y un vestido que hace un ruido metálico al caminar (lleva docenas de llaves y amuletos colgando).
 - **Su Secreto:** Ella vende invitaciones al baile a la Red Rota a cambio de que no asalten sus cargamentos de seda.
-- **Información:** Si Elodin la lisonjea o le ofrece un secreto jugoso sobre otro invitado, ella le confesará: _"Ese sello púrpura que buscas... vi a un mensajero entregarlo en el ala este de la mansión. Venía de Lemish, olía a ceniza y a pino húmedo"_.
+- **Información:** Conoce el secreto de kaelen
 
 #### 3. El Capitán Kaelen (El Guardia Corrupto)
 [[Kaelen.png]]
+
 El capitán de la guardia local, presente "oficialmente" para garantizar la seguridad, pero en realidad está allí para recibir su parte de las ganancias.
 
 - **Apariencia:** Máscara de león dorado. Bebe demasiado y su armadura de gala parece quedarle pequeña.
@@ -144,20 +147,29 @@ El capitán de la guardia local, presente "oficialmente" para garantizar la segu
 #### 4. Lord Valthus (El Inversionista Desalmado) (Dueño del palacio)
 [[lord valthus.jpeg]]
 
-
 Un mercader que se hizo rico de la noche a la mañana tras la desaparición de varios de sus competidores.
 
 - **Apariencia:** Máscara de cráneo de ciervo con astas reales. Es frío, calculador y observa a todos desde las sombras.
 - **Su Secreto:** Él financió las desapariciones con la ayuda de la red rota.
-- **Información:** Lleva encima un anillo con el sello de la Red Rota escondido bajo el guante. Si Elodin consigue robárselo o verlo, tendrá la prueba de quién dirige la red en la ciudad.
+- **Información:** Conoce el secreto de la musa
 
 #### 5. "La Musa de la Ceniza" (El Cebo)
 [[musa ceniza.jpeg]]
+
 Una mujer joven que no deja de observar a Elodin desde lejos. No parece disfrutar de la fiesta.
 
 - **Apariencia:** Máscara de mariposa quemada por los bordes. Viste un traje que, aunque elegante, parece pasado de moda o recuperado de un incendio.
-- **Su Secreto:** Es una enviada personal de **Astrin**. Astrin no pudo venir, pero envió a esta chica para encontrar a Elodin antes de que la Red Rota lo haga.
-- **Información:** Si Elodin se acerca, ella no dirá su nombre, solo le entregará una carta breve: _"El trato se ha roto. Tu amiga está en la mansión. No vengas solo"_. Esto sirve para confirmar que Astrin vive y que Lemish es la trampa final.
+- **Su Secreto:** Es una fan loca de vandermir, le gusta mucho y le persigue por todos los eventos
+- **Información:** Conoce el secreto de vandermir
+
+#### 5. Vandermir (dueño del palacio)
+[[vardermir.png]]
+
+Un hombre muy rico, dueño del palacio y organizador de las fiestas del baile
+
+
+- **Su Secreto:** Le excita que le denigren en la cama. Todas las mujeres de compañia lo comentan por los barrios bajos.
+- **Información:** Organiza los pagos. Conoce el secreto del crupier
 
 
 ### Fase 3. Lemish
