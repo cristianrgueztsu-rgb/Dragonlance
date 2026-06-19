@@ -48,6 +48,7 @@ Estoy deseando que nos reencontremos pronto, con cariño y mucho amor, tu papá.
 ### Fase 2
 - A los dias llegaran un grupo de 5 personas, todos llevaran un simbolo de un eclipse y se encontrarán con Rumi, hablarán con ella para repetirle las mismas palabras de su padre y convencerla. Le pedirán que ella reparta tambien los simbolos cuando extienda la palabra de [[Lunitari]]
 	- Intentaran ayudarla si necesita algo y se "iran a los alrededores de kalaman a extender la palabra" (en realidad simplemente buscaran mas seguidores para el asedio a [[palanthus]])
+	- Al final un personaje llamdo "Blero" fue el que habló de los 5, rumi les pidió que se movieran por las zonas pobres de kalaman(la zona exterior)
 
 ### Fase 3
 - Tiempo despues volveran y le contaran que han conseguido extenderse bastante bien por los alrededores, pero les está costando llegar a [[Palanthus]], pues es una tierra donde muchos aun confian en los soldados de solamnia y no creen tanto en los dioses. 
