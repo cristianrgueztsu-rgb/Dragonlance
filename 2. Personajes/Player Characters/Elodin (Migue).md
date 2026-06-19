@@ -190,7 +190,7 @@ En el gran salón, donde antes había un escenario, ahora hay una hoguera improv
     - **Si van de frente:** Kraz se reirá y les dirá que han sido muy amables al entregarse.
     - **Si fingen ser cazarrecompensas (con Elodin "preso"):** Aquí es donde Elodin debe brillar. Tendrá que hacer una tirada de **Engaño (Deception)** enfrentada a la **Perspicacia (Insight)** de Kraz.
     - **El Giro:** Kraz menciona que "la chica" (Astrin) ha estado preguntando por él. Les ofrece los 150 de oro de adelanto, pero solo si Elodin entra solo a la bodega "para el reencuentro".
-- **Pelea**: Kraz "Hobgoblin warlord" y los minions son"winter wolf"
+- **Pelea**: Kraz "[Hobgoblin warlord](https://5e.tools/bestiary.html#hobgoblin%20warlord_mm)" y los minions son"[winter wolf](https://5e.tools/bestiary.html#winter%20wolf_xmm)"
 #### 3. La Batalla de la Mansión
 
 Sea por una señal de ataque o porque el engaño falla, el combate estalla.
@@ -208,9 +208,12 @@ Sea por una señal de ataque o porque el engaño falla, el combate estalla.
 1. **Recepcion**: Hay una mujer atendiendo, no busca problemas, ella piensa que es un almacen normal y se encarga de manejar las visitas
 2. **Sala comun de espera**
 3. **Sala del almacen**: 1500 Oro
-4. **Carcel**: Ahi está [[Gimnur]], pero hasta hace poco tambien [[Astrin]] (Le deja una frase que solo Elodin y Astrin conocen grabada en la pared)
+4. **Carcel**: Ahi está [[Gimnur]], pero hasta hace poco tambien [[Astrin]] (Le deja una frase que solo Elodin y Astrin conocen grabada en la pared) "Elodin, reconoces en la pared una frase que entre tu y astrin os repetiais mucho para recordar el amor y el compromiso que teniais, es una frase que solo tu y ella conoceis... que es lo que lees?" Desp de esa frase, dice "Te encontraré"
 5. Carceleros, tienen las llaves
 6. **Sala del boss**
+	1. Brorn https://5e.tools/bestiary.html#warlock%20of%20the%20archfey_mpmm
+	2. Npc izq https://5e.tools/bestiary.html#stegosaurus_mpmm
+	3. Orc https://5e.tools/bestiary.html#orc%20blade%20of%20ilneval_vgm
 
 ### Astrin
 
