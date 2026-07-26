@@ -1,18 +1,20 @@
 20/06/2026
 ### Situacion final
 
-
+- Sesion filler (pablo missing)
+- Dia del cementerio para recuperar la segunda mitad del arma de Anima (NOKDUAL)
+- Hacen puzle del boton con techo de pinchos que baja y se resetea al picarle
+- Los seguidores de Rumi hicieron contacto con ella y estuvieron ayudando a la gente de vogler y las zonas rurales
+- Hicieron mision de caza para farmear oro (500)
 
 
 ### TODO para esta sesion:
 
 - Todo lo de [[AA TODO LORE]] y añadirlo a foundry a la vez
-- 
-
 
 ### Pendiente
 
-- Cementerio
+- Lemish del lore de elodin
 
 ### Comienzo Sesion
 ### Missions for Kalaman (Misiones para Kalaman)

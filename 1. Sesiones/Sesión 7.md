@@ -1,10 +1,9 @@
 23/05/2026
-### Situacion final
+### Resumen y Situacion final
 
--  Anima fue solo a la fiesta de bailes
--  Los demas se quedaron en un escondrijo
 -  Kirk se quedó en el tejado de la mansion de bailes
-
+- Anima folló con Vandermir y 2 pibas, tardó en correrse pero lo hizo mediocre
+- Atrayeron a los guardias de Lord Valthus hacia una casa con la premisa de que tenian a Elodin capurado. Les tendieron una emboscada y al rato se montaron en el transporte para llevarselo hacia [[Lemish]]
 
 ### TODO para esta sesion:
 

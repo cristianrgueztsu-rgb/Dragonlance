@@ -162,7 +162,7 @@ Una mujer joven que no deja de observar a Elodin desde lejos. No parece disfruta
 - **Su Secreto:** Es una fan loca de vandermir, le gusta mucho y le persigue por todos los eventos
 - **Información:** Conoce el secreto de vandermir
 
-#### 5. Vandermir (dueño del palacio)
+#### 5. Vandermir
 [[vardermir.png]]
 
 Un hombre muy rico, dueño del palacio y organizador de las fiestas del baile
@@ -207,11 +207,11 @@ Sea por una señal de ataque o porque el engaño falla, el combate estalla.
 
 1. **Recepcion**: Hay una mujer atendiendo, no busca problemas, ella piensa que es un almacen normal y se encarga de manejar las visitas
 2. **Sala comun de espera**
-3. **Sala del almacen**: 1500 Oro
+3. **Sala del almacen**: 5000 Oro
 4. **Carcel**: Ahi está [[Gimnur]], pero hasta hace poco tambien [[Astrin]] (Le deja una frase que solo Elodin y Astrin conocen grabada en la pared) "Elodin, reconoces en la pared una frase que entre tu y astrin os repetiais mucho para recordar el amor y el compromiso que teniais, es una frase que solo tu y ella conoceis... que es lo que lees?" Desp de esa frase, dice "Te encontraré"
-5. Carceleros, tienen las llaves
+5. Carceleros, tienen las llaves 25hp, 15AC, 1d8+4
 6. **Sala del boss**
-	1. Brorn https://5e.tools/bestiary.html#warlock%20of%20the%20archfey_mpmm
+	1. [[Narfu Drag]] https://5e.tools/bestiary.html#warlock%20of%20the%20archfey_vgm
 	2. Npc izq https://5e.tools/bestiary.html#stegosaurus_mpmm
 	3. Orc https://5e.tools/bestiary.html#orc%20blade%20of%20ilneval_vgm
 

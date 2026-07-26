@@ -1,9 +1,8 @@
-04/06/2026
+26/07/2026
 ### Situacion final
 
-- Sesion filler (pablo missing)
-- Dia de la biblioteca para recuperar la primera mitad del arma de Anima (NOKDUAL)
-- Pelearon con una bruja y su mascota peluchito (Dragon extremadamente anciano debilitado)
+
+
 
 ### TODO para esta sesion:
 
@@ -11,7 +10,7 @@
 
 ### Pendiente
 
-- Que a rumi se le acerquen seguidores de su secta ([[Eclipsarios]])
+- Lemish del lore de elodin
 
 ### Comienzo Sesion
 ### Missions for Kalaman (Misiones para Kalaman)
