@@ -1,7 +1,9 @@
 26/07/2026
 ### Situacion final
 
-
+- Session lore migue
+- Mataron a Kraz y a [[Narfu Drag]]
+- No han loteado el lugar
 
 
 ### TODO para esta sesion:
