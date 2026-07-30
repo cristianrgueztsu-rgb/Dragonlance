@@ -1,16 +1,13 @@
 26/07/2026
 ### Situacion final
 
-- Mataron a Kraz y a [[Narfu Drag]]
-- No han loteado el lugar (Narfu tiene la llave de la carcel y de su bodega donde guardaba su dinero)
-
 ### TODO para esta sesion:
 
 - Todo lo de [[AA TODO LORE]] y añadirlo a foundry a la vez
 
 ### Pendiente
 
-- Lemish del lore de elodin
+- Ver como junto a [[Jeyev]] de nuevo a la historia. O alomejor es alguien con disfraz?
 
 ### Comienzo Sesion
 ### Missions for Kalaman (Misiones para Kalaman)
@@ -22,12 +19,6 @@
 - A medida que los héroes cumplen encargos, descubren que el enemigo recluta bandidos con buena paga y cuenta con "draconianos", seres humanoides con rasgos de dragón. Las tropas visten armaduras negras con detalles rojos y sirven a la Gran Maestre Kansaldi Fire-Eyes, quien se dice que puede detectar mentiras.
 - Al interrogar prisioneros, los personajes pueden averiguar que los draconianos son siervos fanáticos de la Reina Dragón y que el ejército emplea dragones y dragonelas como monturas voladoras. También se revela que algunos draconianos poseen habilidades mágicas, como el control mental o la capacidad de explotar al morir.
 
-### Draconian Blockade (Bloqueo Draconiano)
-
-- Llegan noticias de ataques a viajeros en la frontera de Estwilde, por lo que se ordena a los héroes patrullar el camino hacia el este.
-- Tras hallar carros volcados a veinte millas de la ciudad, rastrean huellas hasta un campamento de cinco draconianos baaz y un líder bozak que luchan hasta la muerte.
-- El botín incluye 120 po, suministros de comida para dos meses y un _driftglobe_ (globo de luz).
-
 ### Missing Scouts (Exploradores desaparecidos)
 
 - La misión consiste en rescatar a dos exploradores apostados al noroeste de Kalaman, en un bosque de abedules grises poco común.
@@ -36,9 +27,11 @@
 
 ### Troops Return (Regreso de tropas)
 
-- Durante un viaje, los personajes avistan a un grupo de soldados exhaustos que no portan colores conocidos. Al acercarse, descubren que se trata de Cudgel Ironsmile y lo que queda de su compañía mercenaria tras la derrota en Vogler.
+- Durante un viaje, los personajes avistan a un grupo de soldados INCONSCIENTES que no portan colores conocidos. Al acercarse, descubren que se trata de Cudgel Ironsmile y lo que queda de su compañía mercenaria tras la derrota en Vogler.
+- LOS TRAJERON LOS CABALLOS QUE ANIMA AVISÓ EN AGRADECIMIENTO.
 - Cudgel busca refugio y trabajo en la ciudad, pidiendo a los héroes que la presenten ante la Mariscal Vendri para unir fuerzas contra el Ejército del Dragón.
 - Este es un momento oportuno para que otros supervivientes desaparecidos en la batalla de Vogler regresen junto a los mercenarios.
+- [[Garro Sonrisa de Hierro]] menciona que [[Becklin Uth Viharin]] y [[Jeyev]] perdieron la vida. No vio como. Solo encontró los cadaveres de ambos.
 
 ### Wheelwatch Outpost
 
@@ -47,7 +40,7 @@
 ### Preparing for the Mission
 
 - Darrett informa que el fuerte se encuentra a veinticuatro millas al sureste y es clave para el suministro de las tropas fronterizas.
-- Raven lidera una fuerza de voluntarios para retomar el puesto, pero su grupo es pequeño y carece de la experiencia necesaria.
+- [[Raven Uth Vogler]] lidera una fuerza de voluntarios para retomar el puesto, pero su grupo es pequeño y carece de la experiencia necesaria.
 - Los héroes se reúnen con Raven, quien les entrega un croquis del fuerte destacando la torre de vigilancia y los cuernos de alarma en las esquinas.
 ![[Pasted image 20260502152130.png]]
 - Raven desconoce el número exacto de ocupantes, pero llevará a sus tropas a un bosque cercano a una milla del objetivo.
@@ -140,11 +133,6 @@ Ven enseguida. Bakaris nos está llevando a la ruina en Steel Springs. Es el com
 
 - Los personajes llegan a Steel Springs justo cuando las fuerzas de Kalaman, superadas en número por una inteligencia defectuosa, se ven obligadas a una retirada desesperada.
 - La aventura puede resolverse de dos formas: mediante el sistema de combate de masas del juego de mesa o a través de la sección de retirada detallada a continuación.
-
-### Warriors of Krynn: Scenario 4
-
-- Los héroes llegan en el momento en que el conflicto se vuelve contra Kalaman y deben organizar la retirada de las tropas para evitar una masacre total.
-- Si logran una victoria o resisten, son nombrados "Salvadores de Steel Springs", obteniendo ventaja en pruebas de Carisma con los militares de la ciudad; tras concluir, se pasa a la llegada del Lord.
 
 ### Retreat from Steel Springs
 
