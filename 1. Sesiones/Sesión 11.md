@@ -1,13 +1,22 @@
 26/07/2026
 ### Situacion final
 
+- Tridin lanzó una piedra gigante en el puerto por diversion y le dio a un barco mercantil grande, no lo hundió
+- Anima quemó la tienda de wyhan, le maldijo con 1 vez al dia tirará con desventaja cuando el master decida y cuando wyhan quiera, será tpeado a donde ella quiera
+- Elodin puso una ventana en la carcel para entrar en el fuerte
+- Estan rumi y elodin por fuera de la ventana
+
 ### TODO para esta sesion:
 
+- Otro arma tipo laud
+- 
+
+### TODO general:
+
 - Todo lo de [[AA TODO LORE]] y añadirlo a foundry a la vez
+- Ver como junto a [[Jeyev]] de nuevo a la historia. Es alguien con disfraz?
 
-### Pendiente
 
-- Ver como junto a [[Jeyev]] de nuevo a la historia. O alomejor es alguien con disfraz?
 
 ### Comienzo Sesion
 ### Missions for Kalaman (Misiones para Kalaman)
