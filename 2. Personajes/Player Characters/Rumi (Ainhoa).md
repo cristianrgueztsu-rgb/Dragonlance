@@ -7,6 +7,7 @@ Pjs. relacionados:
 - [[Althaea de Palanthus]]
 - [[Elarion Thalanor]]
 - [[Maelis]]
+- Eclipsarios que fueron a buscar a rumi, el unico que habla se llama Blero
 
 ### Lore:
 Rumi nació en secreto, fruto de la unión prohibida entre [[Althaea de Palanthus]], heredera humana al trono de la capital de Solamnia, y [[Elarion Thalanor]], archimago élfico guardián de los misterios lunares. La noche de su nacimiento, la luna cambió de fase tres veces, señal de un poder que no debía manifestarse.

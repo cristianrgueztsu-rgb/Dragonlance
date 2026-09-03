@@ -1,30 +1,33 @@
-26/07/2026
+04/09/2026
 ### Situacion final
 
-- Tridin lanzó una piedra gigante en el puerto por diversion y le dio a un barco mercantil grande, no lo hundió
-- Anima quemó la tienda de wyhan, le maldijo con 1 vez al dia tirará con desventaja cuando el master decida y cuando wyhan quiera, será tpeado a donde ella quiera
-- Elodin puso una ventana en la carcel para entrar en el fuerte
-- Estan rumi y elodin por fuera de la ventana
+- 
 
 ### TODO para esta sesion:
+
+- Otro arma magica para migue
+  
+  **Flauta del oleaje** 700G
+  **Vaiven Fluvial:** cuando das Inspiración Bárdica, el objetivo puede tirar el dado **dos veces y quedarse con el resultado que prefiera**.
+  
+  **Ola Discordante:** como acción adicional, puedes gastar un uso de Inspiración Bárdica para hacer que una criatura a 18 m haga una salvación de Sabiduría. Si falla, recibe daño psíquico igual a una tirada de tu dado de Inspiración y **no puede hacer reacciones** hasta el comienzo de tu siguiente turno.
+  
+  **Marea Cambiante** Una vez por desc. largo como reaccion, cuando una criatura que puedas ver a 18 m tire un d20, puedes usar tu reacción para tocar una nota y darle un **+1d6 o -1d6** a la tirada ANTES de saber el resultado.
+  
+- Carta en respuesta a rumi pidiendo dinero: 
+  ![[letter.png]]
 
 
 ### TODO general:
 
 - Todo lo de [[AA TODO LORE]] y añadirlo a foundry a la vez
 - Ver como junto a [[Jeyev]] de nuevo a la historia. Es alguien con disfraz?
-
+- Tridin lanzo una piedra y le dio a un barco mercantil, consecuencias?
 
 
 ### Comienzo Sesion
 
-### Troops Return (Regreso de tropas)
-
-- Durante un viaje, los personajes avistan a un grupo de soldados INCONSCIENTES que no portan colores conocidos. Al acercarse, descubren que se trata de Cudgel Ironsmile y lo que queda de su compañía mercenaria tras la derrota en Vogler.
-- LOS TRAJERON LOS CABALLOS QUE ANIMA AVISÓ EN AGRADECIMIENTO.
-- Cudgel busca refugio y trabajo en la ciudad, pidiendo a los héroes que la presenten ante la Mariscal Vendri para unir fuerzas contra el Ejército del Dragón.
-- Este es un momento oportuno para que otros supervivientes desaparecidos en la batalla de Vogler regresen junto a los mercenarios.
-- [[Garro Sonrisa de Hierro]] menciona que [[Becklin Uth Viharin]] y [[Jeyev]] perdieron la vida. No vio como. Solo encontró los cadaveres de ambos.
+- Hacer un repaso de la info que saben sobre la torre
 
 ### Wheelwatch Outpost
 
@@ -134,7 +137,7 @@ Ven enseguida. Bakaris nos está llevando a la ruina en Steel Springs. Es el com
 - Los soldados aliados continúan su huida lenta hacia el sur, mientras los enemigos centrarán su ataque en los héroes si estos intervienen.
 - Una vez derrotadas las fuerzas enemigas en esta zona, la historia prosigue con la retirada de los comandantes.
 ```
-As the brook called the Inkwater comes into view, smoke rises over the tree line beyond it. Wounded Kalaman soldiers stagger from the trees, heading toward a narrow crossing that lies in your direction. Dragon Army soldiers give chase on horseback.
+En cuanto aparece a la vista el arroyo conocido como Inkwater, se ve humo elevándose por encima de la línea de árboles que hay más allá. Soldados kalaman heridos salen tambaleándose de entre los árboles, dirigiéndose hacia un estrecho vado que se encuentra en tu dirección. Los soldados del Ejército del Dragón los persiguen a caballo.
 ```
 
 ### Steel spring ferat and event (llevarlo del libro, pag 94)
