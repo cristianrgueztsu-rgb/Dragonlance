@@ -1,7 +1,9 @@
 04/09/2026
 ### Situacion final
 
-- 
+-  Rumi tiene un escudo magico de wyhan que le bloquea la magia, tiene que usar 2 hechizos mas
+- fallaron la mision de salvar el fuerte
+- estan en el rio salvando a los soldados de kalaman
 
 ### TODO para esta sesion:
 
