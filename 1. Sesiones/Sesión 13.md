@@ -1,7 +1,7 @@
 18/09/2026
 ### Situacion final
 
-- 
+- Se quedan a punto de entrar en la sala final de la catacumba
 
 ### TODO para esta sesion:
   
