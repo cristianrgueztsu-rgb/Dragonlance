@@ -5,7 +5,7 @@
 
 ### TODO para esta sesion:
   
-- Carta en respuesta a rumi pidiendo dinero: 
+- Carta en respuesta a rumi pidiendo dinero: Editar la carta y hablar de que todo está en ruinas debido a las invasiones del ejercito dragon. Solo se ha salvado su pueblo gracias a una runa magica del padre que ha usado para esconder al pueblo mientra el ejercito pasaba
   ![[letter.png]]
 
 
