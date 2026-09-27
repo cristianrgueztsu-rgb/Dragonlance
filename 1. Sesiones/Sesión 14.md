@@ -14,6 +14,7 @@
 - Todo lo de [[AA TODO LORE]] y añadirlo a foundry a la vez
 - Ver como junto a [[Jeyev]] de nuevo a la historia. Es alguien con disfraz?
 - Tridin lanzo una piedra y le dio a un barco mercantil, consecuencias?
+- Anima es la putita de Wyhan y tiene la maldicion, que hacer/pedirle?
 
 
 ### Comienzo Sesion
@@ -101,6 +102,8 @@ Las llamas violetas titilan, formando una vez más imágenes siniestras. El ater
 * **Éxito / Avance esperado:** El grupo informa a Darrett, asegura el respaldo institucional de Kalaman y obtiene el destino general del siguiente capítulo.
 * **Fallo / Complicación:** Si los jugadores omiten detalles clave sobre Soth o la ciudad perdida, Darrett debe presionar haciendo preguntas sobre lo que vieron y escucharon en las catacumbas.
 * **Impacto a largo plazo:** El grupo se convierte formalmente en la vanguardia de operaciones especiales para el ejército de Kalaman.
+
+
 
 # Desperation in Kalaman (p. 106)
 
@@ -218,6 +221,7 @@ Traducción realizada con la versión gratuita del traductor DeepL.com
 * **Propósito principal:** Cerrar la fase operativa en la ciudad, presentar la logística de la expedición marítima y definir el objetivo y punto de inserción.
 * **Tono / Ritmo:** Enfoque militar, planificación estratégica y despedida inminente.
 
+
 ### Información a transmitir a los jugadores
 * **Descripción sensorial / Entorno:** Darrett acude a buscar a los personajes con aspecto resolutivo y órdenes de marcha selladas en mano.
 * **Datos clave que deben saber:**
@@ -280,6 +284,8 @@ Traducción realizada con la versión gratuita del traductor DeepL.com
 * **Impacto a largo plazo:** Sienta las bases para que el personaje afronte más adelante el evento del Test of High Sorcery durante el transcurso de la campaña.
 
 
+
+# HISTORIA DE RUMI HASTA DESBLOQUEAR PODERES
 # Leaving Kalaman
 
 ```

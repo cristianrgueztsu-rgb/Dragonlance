@@ -53,38 +53,48 @@ Estoy deseando que nos reencontremos pronto, con cariño y mucho amor, tu papá.
 
 ### Fase 3
 - Tiempo despues volveran y le contaran que han conseguido extenderse bastante bien por los alrededores, pero les está costando llegar a [[Palanthus]], pues es una tierra donde muchos aun confian en los soldados de solamnia y no creen tanto en los dioses. 
-	- **Mentirle con la sigueinte info:** Ultimamente la ciudad está siendo un caos, los soldados se dedican a proteger a los mercaderes mas ricos solamente, no protegen el interior de las murallas y es peligroso andar solo. Se necesita algo de esperanza para poder arreglar esto y confia en que si plantan una semilla de fe y dedican un poco de esfuerzo, todo mejorará.
-	- Necesitaran de la paladina de [[Lunitari]] para poder abrirse paso y conseguir unos cuantos seguidores.
-
-### Fase 4
-- Si acepta:
+	- Blero les **miente con la sigueinte info:** 
+		- Hay un nuevo rey llamado [[Mersido de Palanthus]] y ultimamente la ciudad es un caos, los soldados se dedican a proteger a los mercaderes mas ricos y castigan severamente a quienes no cumplen la ley. Se necesita algo de ayuda para poder arreglar esto y confia en que si plantan una semilla de fe o incluso dejan que rumi hable con el nuevo rey, todo mejorará.
+		- Creen que [[Althaea de Palanthus]] está prisionera
+- Les mencionan que han hablado con wyhan para que les cree un portal directo a Palanthus y ha aceptado por unos 30 de oro. Pueden ir ellos a pedirselos o Blero se encarga.
+- Les dicen de ir de noche, asi nadie sospechará
+ Si acepta:
 	- La cena es en [[Palanthus]]
-	- Durante la cena empezaran a mentir sobre el rey (**Mienten diciendo que ahora reina un hombre "Mersido de Palanthus", en realidad es [[Althaea de Palanthus]]**), como ultimamente no parece el mismo y se inventan como está siendo cruel con todo el mundo, creando hambruna para aumentar su riqueza y bla bla. 
-	- Intentan controlarla durante la cena
-		- Si lo consiguen, pues empezaran el ataque a la ciudad respaldada por rumi (Estado: charmed/encantado). Si no tienen hechizos, lo pueden quitar dejandola KO
-		- Si no, empezarán el ataque igualmente, todos los atacantes llevan el simbolo del eclipse
-	- En ambos casos, al salir, ven que la ciudad está siendo asediada por cientos de eclipsarios. Y todos se dirigen hacia el centro, donde se encuentra el castillo y donde reside la realeza. (Si rumi lleva el simbolo, no los atacan, si no lo lleva, algun par de peleas bobas)
-	- En algun momento ven una explosion desde una de las torres del castillo
-		- Si deciden ir: rolear que hayan guardias que no les dejen pasar, cuando llegan y suben, se encuentran a [[Maelis]] y a [[Althaea de Palanthus]] peleando.
-		- Si no van: Ven una especie de objeto del tamaño de un humano volando hacia ellos, como si hubiera salido volando por la explosion. Rumi reconoce a [[Althaea de Palanthus]]. Detrás, la persigue [[Maelis]]
-	- En ambos casos, hay una pelea contra [[Maelis]]
-		- Al terminar la pelea, reunion emotiva, la madre reconoce magicamente a rumi y le pregunta que está pasando
-		- Allí llegan a la conclusión de que los [[Eclipsarios]] eran un grupo buscando derrocar a la reina. Atan cabos y quedan en que deberán hablar con su padre.
-		- [[Althaea de Palanthus]] les da una piedra de teletransporte de 2 usos (mencionar que: es para ella para casos de extrema urgencia, pero sabe que hoy no lo necesitará), una vez averigüen donde se encuentra el padre, podrán usarla para ir y volver a donde quieran, solo deben decir el nombre a la piedra y abrirá un portal.
-		- Para encontrar esta info, pueden lootear a maelis donde encuentran la carta de debajo
+	- Fase 4
 - Si no acepta:
-	- Durante la cena empezaran a mentir sobre el rey (**Mienten diciendo que ahora reina un hombre "Mersido de Palanthus", en realidad es [[Althaea de Palanthus]]**), como ultimamente no parece el mismo y se inventan como está siendo cruel con todo el mundo, creando hambruna para aumentar su riqueza y bla bla. 
-	- Intentan controlarla con una cena da igual donde estén:
-		- Si lo consiguen, Rumi se comportará extrañamente complaciente y acatará cualquier orden enemiga. (Estado: charmed/encantado). Si no tienen hechizos, lo pueden quitar dejandola KO
-		- Si no, se dará cuenta que acaban de intentar hacerle algo, se pelean y acabn encontrando en los restos una carta de su padre:
+	- Le dan una carta de su padre pidiendole que por favor les ayude, él confía en Blero y los demás tanto como en tí.
+	- Si se niegan y entran en pelea encuentran una carta
 ```
-Es imperativo que asegureis el liderazgo de mi hija en la inminente campaña contra Palanthus. Debeis emplear cualquier recurso necesario para que ella encabece la guerra, manipulad las circunstancias o cread los augurios que sean precisos para que asuma el mando militar. Es vital que ella crea que esta decisión es fruto de su propia voluntad y de su conexión con la Diosa, y no una estrategia diseñada por mí.
+Es imperativo que asegureis el liderazgo de mi hija en la inminente campaña contra Palanthus. Debeis emplear cualquier recurso necesario para que ella encabece la guerra, manipulad las circunstancias o cread los augurios que sean precisos para que asuma el mando militar. Es vital que ella crea que esta decisión es fruto de su propia voluntad y de su conexión con la Diosa.
 
 Actuad con absoluta discreción y sin escatimar medios para que la ciudad caiga bajo su mando. Bajo ninguna circunstancia debe saber que estoy organizando esto; mi papel ante ella debe seguir siendo el de un padre ausente pero devoto. Una vez hayais terminado, usad la piedra de teletransportación que os he mandado para venir a Larune, allí me reuniré con vosotros. 
 
 Una vez hayais leido estas instrucciones, quemad esta carta de inmediato para que no quede rastro de mi intervención en su destino.
 ```
-![[letter (1).png]]
+
+- Que busquen la manera de llegar al padre y Fase 5
+### Fase 4
+- Durante la cena mienten sobre la situacion de la ciudad:
+	- Ha habido un golpe de estado, el nuevo rey [[Mersido de Palanthus]], tiene a [[Althaea de Palanthus]] encerrada como rehén. El nuevo rey solo busca dinero y poder, está sometiendo al pueblo a unos impuestos excesivamente altos, la gente no puede permitirse seguir viviendo a este ritmo mucho más.
+	  ```
+	  Necesitan de una salvadora, alguien que les ofrezca esperanza y puede que un futuro, te lo pedimos por favor Rumi, ayudanos a rescatar a la reina y a devolver el orden a Palanthus y a su pueblo
+	  ```
+- Durante la cena a través del aroma de unas velas aromaticas someten a todos bajo una ilusión, todo lo que hagan/pregunten/observen apoyará la supuesta situacion del rey malvado. (Las velas fueron creadas por [[Elarion Thalanor]])
+	- (Estado: charmed/encantado). Cada vez que les den un golpe tirarán salvacion de sabiduría que comienza en 15.
+		- Permaneceran encantados (a no ser que usen algun hechizo) hasta que lleguen a la pelea de Maelis y Althaea 
+		- Deben superar 2 veces (a aumentar o disminuir si es muy facil) para liberarse del encantamiento
+- Al salir, ven que la ciudad está siendo asediada por "guardias reales" que están masacrando al pueblo (Son eclipsarios pero la ilusion lo invierte todo) y se dirigen hacia el castillo donde reside el rey. 
+- Ven escenas gores como cabezas volando y piensan que pertenecen a gente del pueblo, niños, mujeres, ancianos, etc 
+- En algun momento ven una explosion desde una de las torres del castillo
+	- Si deciden ir: se encuentran con guardias defendiendo el palacio y pelean contra ellos. Al llegar se encuentran a lo que parece ser un soldado del pueblo ([[Maelis]]) y a [[Mersido de Palanthus]] ([[Althaea de Palanthus]]) peleando.
+	- Si no van: Ven a 2 humanoides cayendo hacia ellos, como si hubiera salido volando por la explosion. Se encuentran a lo que parece ser un soldado del pueblo ([[Maelis]]) y a [[Mersido de Palanthus]] ([[Althaea de Palanthus]]) peleando.
+- En ambos casos, hay una pelea contra [[Maelis]] o [[Mersido de Palanthus]]
+	- Maelis, antes de caer derrotado, saca un orbe de su bolso (con los nervios se le caen 2) y dice ``Que decepcionado estamos de ti Rumi``, rompe el orbe y desaparece
+	- Al terminar la pelea
+		- Llegan a la conclusión de que los [[Eclipsarios]] eran un grupo buscando derrocar a la reina. Atan cabos y quedan en que deberán hablar con su padre.
+		- La persona con la percepcion pasiva más alta vio los orbes
+		- [[Althaea de Palanthus]] les ofrece investigar esos orbes. Descubren que son teleportadores y que ya están ligados a una direccion en silvanesti, sin embargo pueden ser reconfigurados. Si ya se ha visitado un sitio, pueden elegir vincularlo allí
+
 
 ### Fase final
 - Finalmente van a visitar el padre, es una dungeon en el bosque
