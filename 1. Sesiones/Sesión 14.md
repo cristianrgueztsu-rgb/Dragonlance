@@ -5,8 +5,24 @@
 
 ### TODO para esta sesion:
   
-- Carta en respuesta a rumi pidiendo dinero: Editar la carta y hablar de que todo está en ruinas debido a las invasiones del ejercito dragon. Solo se ha salvado su pueblo gracias a una runa magica del padre que ha usado para esconder al pueblo mientra el ejercito pasaba
-  ![[letter.png]]
+- Carta en respuesta a rumi pidiendo dinero: 
+
+Mi querida hija:
+
+No sabes cuánto me alegra saber que estás bien. Aunque las noticias que llegan hasta aquí sean escasas y, a veces, tarden demasiado en hacerlo, saber que sigues adelante y que no te ha ocurrido nada grave es suficiente para darme un poco de tranquilidad.
+
+Sé que los poderes que llevas contigo no son cosa sencilla. También sé que pueden ser peligrosos, para ti y para quienes estén cerca de ti. No quiero que pienses que no confío en ti, pero como padre no puedo evitar preocuparme. Por mi parte, sigo trabajando día y noche para desentrañar los secretos de tu ritual. Todavía hay muchas cosas que no comprendo, pero no voy a dejarlo mientras crea que puedo encontrar alguna respuesta que pueda ayudarte.
+
+Hay otra cosa de la que debo hablarte. No vuelvas a enviarme tanto dinero por correo. Sé que lo haces con buena intención, pero no es seguro. Desde donde estoy no puedo hacer gran cosa para proteger esos envíos si algo sale mal. Habla con Blero, de los Eclipsarios. Ellos podrán ayudarte a encontrar una forma más segura de hacer llegar el dinero, o al menos eso espero. Confío en que sabrán qué hacer.
+
+Y, por favor, recuerda que Maelis debería estar cerca de ti. Si la necesitas, llámala. Debería acudir. No intentes cargar con todo tú sola, hija. Ya tienes bastante encima como para añadirle a ello el orgullo de no pedir ayuda.
+
+Espero que no pase demasiado tiempo antes de que puedas volver a ver a mamá. Sé que te echa de menos más de lo que probablemente te diría, y yo también. Hay cosas que uno empieza a apreciar de verdad cuando la distancia se interpone entre nosotros.
+
+Cuídate mucho. Y no olvides que, aunque estés lejos y no pueda estar ahí para ayudarte, sigo pensando en ti cada día.
+
+Con todo mi cariño,
+Papá
 
 
 ### TODO general:
@@ -143,8 +159,6 @@ Las llamas violetas titilan, formando una vez más imágenes siniestras. El ater
 ```
 El mariscal Vendri ha ocupado una modesta sala de reuniones situada al final del pasillo de la sala del consejo, que quedó dañada tras el ataque del señor Soth. La sala apenas contiene algo más que una mesa alargada cubierta de informes, aunque sus altas ventanas ofrecen unas vistas impresionantes de la ciudad y del puerto más allá.
 El mariscal se encuentra junto a una ventana, contemplando el horizonte. Desde su asiento en la mesa, lord Bakaris te lanza una mirada y luego comenta con amargura: «Ya están aquí, mariscal. Quizá si no hubiéramos depositado nuestra confianza en mercenarios, mi hijo estaría a mi lado y el gobernador seguiría vivo».
-
-Traducción realizada con la versión gratuita del traductor DeepL.com
 ```
 
 ### Objetivo de la escena

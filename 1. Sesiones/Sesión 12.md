@@ -17,7 +17,7 @@
   **Marea Cambiante** Una vez por desc. largo como reaccion, cuando una criatura que puedas ver a 18 m tire un d20, puedes usar tu reacción para tocar una nota y darle un **+1d6 o -1d6** a la tirada ANTES de saber el resultado.
   
 - Carta en respuesta a rumi pidiendo dinero: 
-  ![[letter.png]]
+  
 
 
 ### TODO general:
