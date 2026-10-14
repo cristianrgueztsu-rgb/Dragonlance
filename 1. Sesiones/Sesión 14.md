@@ -6,6 +6,7 @@
 ### TODO para esta sesion:
   
 - Carta en respuesta a rumi pidiendo dinero: 
+
 ```
 Hola querida hija, me alegro tanto de saber que estás bien y que el pequeño grupo que he formado ha conseguido encontrarte. No sabía si serían capaces de llegar ellos solos pues el camino está repleto de peligros que desconocemos. Pero me alegro de haber escogido bien.   
 
@@ -18,6 +19,7 @@ En cuanto al dinero, lamento decirte que las cosas aquí están peor de lo que i
 Cuídate hija mía, siempre tuyo,
 Papá
 ```
+
 
 
 ### TODO general:
@@ -154,8 +156,6 @@ Las llamas violetas titilan, formando una vez más imágenes siniestras. El ater
 ```
 El mariscal Vendri ha ocupado una modesta sala de reuniones situada al final del pasillo de la sala del consejo, que quedó dañada tras el ataque del señor Soth. La sala apenas contiene algo más que una mesa alargada cubierta de informes, aunque sus altas ventanas ofrecen unas vistas impresionantes de la ciudad y del puerto más allá.
 El mariscal se encuentra junto a una ventana, contemplando el horizonte. Desde su asiento en la mesa, lord Bakaris te lanza una mirada y luego comenta con amargura: «Ya están aquí, mariscal. Quizá si no hubiéramos depositado nuestra confianza en mercenarios, mi hijo estaría a mi lado y el gobernador seguiría vivo».
-
-Traducción realizada con la versión gratuita del traductor DeepL.com
 ```
 
 ### Objetivo de la escena
