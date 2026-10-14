@@ -1,7 +1,7 @@
 02/10/2026
 ### Situacion final
 
-- Se quedan a punto de entrar en la sala final de la catacumba
+- Se quedaron en la cena con los eclipsarios?
 
 ### TODO para esta sesion:
   
