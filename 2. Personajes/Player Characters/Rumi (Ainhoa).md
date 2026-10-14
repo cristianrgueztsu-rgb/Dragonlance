@@ -83,17 +83,53 @@ Una vez hayais leido estas instrucciones, quemad esta carta de inmediato para qu
 	- (Estado: charmed/encantado). Cada vez que les den un golpe tirarán salvacion de sabiduría que comienza en 15.
 		- Permaneceran encantados (a no ser que usen algun hechizo) hasta que lleguen a la pelea de Maelis y Althaea 
 		- Deben superar 2 veces (a aumentar o disminuir si es muy facil) para liberarse del encantamiento
-- Al salir, ven que la ciudad está siendo asediada por "guardias reales" que están masacrando al pueblo (Son eclipsarios pero la ilusion lo invierte todo) y se dirigen hacia el castillo donde reside el rey. 
-- Ven escenas gores como cabezas volando y piensan que pertenecen a gente del pueblo, niños, mujeres, ancianos, etc 
-- En algun momento ven una explosion desde una de las torres del castillo
-	- Si deciden ir: se encuentran con guardias defendiendo el palacio y pelean contra ellos. Al llegar se encuentran a lo que parece ser un soldado del pueblo ([[Maelis]]) y a [[Mersido de Palanthus]] ([[Althaea de Palanthus]]) peleando.
-	- Si no van: Ven a 2 humanoides cayendo hacia ellos, como si hubiera salido volando por la explosion. Se encuentran a lo que parece ser un soldado del pueblo ([[Maelis]]) y a [[Mersido de Palanthus]] ([[Althaea de Palanthus]]) peleando.
-- En ambos casos, hay una pelea contra [[Maelis]] o [[Mersido de Palanthus]]
-	- Maelis, antes de caer derrotado, saca un orbe de su bolso (con los nervios se le caen 2) y dice ``Que decepcionado estamos de ti Rumi``, rompe el orbe y desaparece
-	- Al terminar la pelea
-		- Llegan a la conclusión de que los [[Eclipsarios]] eran un grupo buscando derrocar a la reina. Atan cabos y quedan en que deberán hablar con su padre.
-		- La persona con la percepcion pasiva más alta vio los orbes
-		- [[Althaea de Palanthus]] les ofrece investigar esos orbes. Descubren que son teleportadores y que ya están ligados a una direccion en silvanesti, sin embargo pueden ser reconfigurados. Si ya se ha visitado un sitio, pueden elegir vincularlo allí
+
+# La Infiltración y la Falsa Realidad
+
+## La Llegada
+El grupo entra a Palanthus guiado por quien creen que es [[Maelis]](Jeyev). A simple vista y oído, la ciudad es un infierno gris bajo el yugo de un tirano. Su guía les insta a mantenerse ocultos y moverse por callejones para evitar a los crueles guardias del "Rey Mersido".
+
+## La Investigación y la Duda (Disonancia Física)
+La ilusión cubre lo visual y auditivo, pero la física y los olores revelan grietas:
+- **El noble disfrazado:** Ven a un "guardia" pateando a un "mendigo mugriento". Sin embargo, si se acercan, el mendigo huele a perfume de lavanda y especias caras (es un noble en realidad).
+- **El peso invisible:** Un "mercader arruinado" llora empujando un carro supuestamente vacío que le han saqueado. Pero las ruedas del carro dejan surcos profundos en el barro y al mercader le cuesta horrores moverlo (la mercancía está ahí, solo que invisible a la ilusión).
+- **Bestias dóciles:** Un par de perros callejeros, en lugar de huir aterrorizados de las patrullas de Mersido, corren hacia ellos moviendo la cola buscando caricias.
+- **El papel del guía ([[Maelis]] / [[Jeyev]]):** Cada vez que los jugadores señalan una rareza, su guía interviene rápido: _"Mersido rocía con perfume a los mendigos para burlarse de ellos"_, _"El carro tiene los ejes oxidados, por eso pesa"_, o _"Esos perros son bestias entrenadas por la corona, no los toquéis"_.
+
+---
+
+# El Estallido del Caos
+De repente, una tremenda explosión mágica sacude la plaza principal. La ilusión adapta el evento: el grupo escucha trompetas enemigas y ve a los guardias de "Mersido" lanzando antorchas contra el mercado. En realidad, los Eclipsarios acaban de detonar una bomba para crear el pánico, y quienes corren a apagar el fuego son los verdaderos guardias de [[Althaea]], que a los ojos del grupo parecen matones atacando a civiles.
+
+El falso guía grita que la purga final ha comenzado. Les dice que la única forma de salvar a la gente es usar un pasadizo secreto que él conoce para infiltrarse en el castillo, llegar al salón del trono y decapitar al Rey Mersido de una vez por todas.
+
+---
+
+# El Clímax y el Doble Giro (El Combate Final)
+
+## La Escena del Trono
+Irrumpen en la sala. Todo parece estar envuelto en estandartes negros. En el centro, el "Rey Mersido" alza una espada oscura, a punto de decapitar a una "líder rebelde" encapuchada y arrodillada. Maelis les grita: _"¡Atacad ahora, salvad a la ciudad!"_
+
+(Mersido es en realidad Althaea atacando al verdadero Maelis)
+(Maelis que está a su lado, es es Jeyev)
+## El Combate y la Caída de las Máscaras
+1. **El asalto inicial:** Los jugadores se lanzan al combate contra Mersido y sus escoltas.
+2. **La revelación del Rey:** 
+	1. Con cada golpe, una grieta empieza a aparecer delante de Mersido y se mueve con él (En )
+	2. En el segundo o tercer asalto, la magia de ilusión que cubre al "Rey" parpadea y se rompe **como un cristal**. El imponente y malvado Rey Mersido desaparece para revelar a **[[Althaea de Palanthus]]**, mientras que la lider rebelde, sigue tirada en el suelo(Maelis, sigue fingiendo).
+3. **Maelis falso, grita que es una ilusión, que deben seguir atacando**.
+4. Hordas de soldados les atacan.
+5. Con cada turno que pasa, maelis se va agotando, grietas empiezan a aparecer por todos los alrededores hasta que después de 2 turnos, la ilusion se rompe.
+6. **La revelación del Guía:** Conmocionados, los jugadores se giran hacia el compañero que los trajo hasta aquí, el "Maelis" que los guió. Este comienza a reír a carcajadas mientras su apariencia se derrite, revelando ser **[[Jeyev]]**.
+7. **El rehén:** Se levanta del suelo y se tpea al trono, visiblemente cansado "Rumi, nos has decepcionado, esperabamos que fueras mucho más eficaz a estas alturas. Parece que realmente no estás preparada para el destino que se te prometió. Es una pena que no pudieras cumplir con tu unico cometido, asi que permitenos liberarte ser una carga para todos"
+8. Maelis falso muestra ser Jeyev y les ataca
+
+
+- Al terminar la pelea
+	- Llegan a la conclusión de que los [[Eclipsarios]] eran un grupo buscando derrocar a la reina. Atan cabos y quedan en que deberán hablar con su padre.
+	- Si lotean a maelis encuentran 3 orbes.
+	- [[Althaea de Palanthus]] les ofrece investigar ese orbe. Descubren que son portales y que ya están ligados a una direccion en silvanesti, sin embargo pueden ser reconfigurados. Si ya se ha visitado un sitio, pueden elegir vincularlo allí.
+		- Duran 5 min despues de usarlos
 
 
 ### Fase final

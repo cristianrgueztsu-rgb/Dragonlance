@@ -5,8 +5,19 @@
 
 ### TODO para esta sesion:
   
-- Carta en respuesta a rumi pidiendo dinero: Editar la carta y hablar de que todo está en ruinas debido a las invasiones del ejercito dragon. Solo se ha salvado su pueblo gracias a una runa magica del padre que ha usado para esconder al pueblo mientra el ejercito pasaba
-  ![[letter.png]]
+- Carta en respuesta a rumi pidiendo dinero: 
+```
+Hola querida hija, me alegro tanto de saber que estás bien y que el pequeño grupo que he formado ha conseguido encontrarte. No sabía si serían capaces de llegar ellos solos pues el camino está repleto de peligros que desconocemos. Pero me alegro de haber escogido bien.   
+
+Respecto a tus poderes, no temas, pues es normal que una vasija rebose cuando la marea aumenta. Ya sabes que yo también trabajo sin descanso para encontrar la manera de que cumplas tu destino, pues aunque seas capaz de controlar tu poder, puede que un día no seas capaz de hacerlo en el peor de los momentos...   
+
+Cuando llegues a Solamnia y veas a mamá, salúdala de mi parte, pues nunca he dejado de pensar en ella y mi corazón la ansía sin descanso. Y por Maelis no te preocupes, aunque no le veas, él siempre anda cerca asegurándose de que estés bien.  
+
+En cuanto al dinero, lamento decirte que las cosas aquí están peor de lo que imaginaba. Todo está en ruinas debido a las implacables invasiones del ejército dragón. Hemos tenido suerte; nuestro pueblo se salvó únicamente gracias a una runa mágica que logré usar para escondernos mientras el ejército pasaba. Con la destrucción y el peligro acechando en cada esquina, me resulta completamente imposible enviarte dinero. Sería demasiado arriesgado para el mensajero y para nosotros llevar una suma tan grande. Tendrás que pedirle a los eclipsarios que te ayuden en ese aspecto; estoy seguro de que encontrarán la manera.
+
+Cuídate hija mía, siempre tuyo,
+Papá
+```
 
 
 ### TODO general:
