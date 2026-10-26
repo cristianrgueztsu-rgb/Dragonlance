@@ -9,6 +9,124 @@ Pjs. relacionados:
 - [[Maelis]]
 - Eclipsarios que fueron a buscar a rumi, el unico que habla se llama Blero
 
+### Fantasma Jugable
+
+- No pueden hechizarte ni dormirte por magia.
+- HP: 30
+- AC: 14
+- Iniciativa: 2
+- 30 velocidad
+- +5 tirada ataque
+- daño: 
+	- arco corto 80/320 1d6 + 2
+	- daga 1d4 + 2
+- Spellcasting Ability: 4
+- Spell Save DC: 15
+- Spell Attack Bonus: 7
+### Ptos Hechiceria
+Puntos de Hechicería: 6
+Uso (acción adicional) -> Canjear por espacios de conjuro y/o sacrificar espacios de conjuro para obtener puntos de hechicería.
+
+ Nv espacio de conjuro - Coste en puntos de hechicería
+
+ 1 - 2 
+ 2 - 3 
+ 3-  5 
+ 4 - 6 
+ 5 - 7
+
+### Metamagia
+
+- Conjuro Acelerado: Cuando lanzas un conjuro con un tiempo de lanzamiento de 1 acción, puedes gastar 2 puntos de hechicería para hacer que el tiempo de lanzamiento sea solo de 1 acción adicional a efectos de este lanzamiento.
+
+- Conjuro Gemelo: Cuando lanzas un conjuro que tiene como objetivo a una sola criatura y el target es otra criatura, puedes gastar tantos puntos de hechicería como el nivel del conjuro para elegir también como objetivo del mismo conjuro a una segunda criatura dentro del alcance (1 punto de hechicería si el conjuro es un truco).Para que un conjuro pueda beneficiarse de esta opción, este debe ser incapaz de escoger más de un objetivo al nivel al que lo lanzas. Así, proyectil mágico y rayo abrasador no podrían verse afectados por Conjuro Gemelo, pero rayo de escarcha y orbe cromático sí.
+
+### TRUCOS (NIVEL 0)
+
+* **==🔵Descarga de Fuego== (Fire Bolt):**
+  * *Tiempo de lanzamiento:* 1 acción | *Alcance:* 120 pies (36 m) | *Duración:* Instantáneo
+  * *Efecto:* Lanzas una mota de fuego a una criatura u objeto dentro del alcance. Realizas una tirada de ataque de conjuro a distancia; si impactas, el objetivo sufre 1d10 de daño de fuego. Un objeto inflamable alcanzado por este conjuro se prende si nadie lo lleva puesto o lo transporta. El daño aumenta a nivel 5 (2d10), 11 (3d10) y 17 (4d10).
+
+* **==🔵Rayo de Escarcha== (Ray of Frost):**
+  * *Tiempo de lanzamiento:* 1 acción | *Alcance:* 60 pies (18 m) | *Duración:* Instantáneo
+  * *Efecto:* Un rayo gélido de luz azulada viaja hacia una criatura a tu alcance. Realizas un ataque de conjuro a distancia; si aciertas, el objetivo sufre 1d8 de daño de frío y su velocidad se reduce en 10 pies hasta el comienzo de tu siguiente turno. El daño aumenta a nivel 5 (2d8), 11 (3d8) y 17 (4d8).
+
+* **Toque Helado (Chill Touch):**
+  * *Tiempo de lanzamiento:* 1 acción | *Alcance:* 120 pies (36 m) | *Duración:* 1 ronda
+  * *Efecto:* Creas una mano esquelética fantasmal en el espacio de una criatura dentro del alcance. Realizas un ataque de conjuro a distancia; si impactas, el objetivo sufre 1d8 de daño necrótico y no puede recuperar puntos de golpe hasta el comienzo de tu siguiente turno. Si el objetivo es un no muerto, además tiene desventaja en las tiradas de ataque contra ti hasta el comienzo de tu siguiente turno. El daño aumenta a nivel 5 (2d8), 11 (3d8) y 17 (4d8).
+
+* **Ilusión Menor (Minor Illusion):**
+  * *Tiempo de lanzamiento:* 1 acción | *Alcance:* 30 pies (9 m) | *Duración:* 1 minuto
+  * *Efecto:* Creas un sonido o la imagen de un objeto (no una criatura) que quepa dentro de un cubo de 5 pies (1,5 m). Si creas una imagen, no produce sonido, luz ni olor, y el contacto físico la revela como una ilusión. Una criatura puede usar su acción para examinar la imagen superando una prueba de Inteligencia (Investigación) contra tu CD de conjuros; si tiene éxito, percibe la ilusión como algo tenue y transparente.
+
+* **Mano de Mago (Mage Hand):**
+  * *Tiempo de lanzamiento:* 1 acción | *Alcance:* 30 pies (9 m) | *Duración:* 1 minuto
+  * *Efecto:* Creas una mano espectral flotante en un punto elegido. Con tu acción puedes moverla hasta 30 pies y hacer que manipule un objeto, abra una puerta o contenedor no trabado, guarde o retire un objeto de un contenedor, o vierta un frasco. La mano no puede atacar, activar objetos mágicos ni sostener más de 10 libras (aprox. 4,5 kg).
+
+* **Llama Sagrada (Sacred Flame - LUNA):**
+  * *Tiempo de lanzamiento:* 1 acción | *Alcance:* 60 pies (18 m) | *Duración:* Instantáneo
+  * *Efecto:* Una llamarada similar a un fuego radiante desciende sobre una criatura que puedas ver a tu alcance. El objetivo debe superar una tirada de salvación de Destreza o sufrir 1d8 de daño radiante. El objetivo no obtiene ningún beneficio de cobertura para esta tirada de salvación. El daño aumenta a nivel 5 (2d8), 11 (3d8) y 17 (4d8).
+
+---
+
+### NIVEL 1 (4 slots)
+
+* **==🔵Escudo== (Shield - LUNA LLENA):**
+  * *Tiempo de lanzamiento:* 1 reacción (al ser alcanzado por un ataque o por el conjuro Proyectil Mágico) | *Alcance:* Personal | *Duración:* 1 ronda
+  * *Efecto:* Una barrera mágica invisible e impenetrable te rodea, sumando un bonificador de +5 a tu CA hasta el comienzo de tu siguiente turno, incluyendo contra el ataque desencadenante. Además, eres totalmente inmune al daño de *Proyectil Mágico*.
+
+* **==🔵Orbe Cromático== (Chromatic Orb):**
+  * *Tiempo de lanzamiento:* 1 acción | *Alcance:* 90 pies (27 m) | *Duración:* Instantáneo
+  * *Efecto:* Lanzas una esfera de energía de 4 pulgadas a una criatura dentro del alcance, eligiendo ácido, frío, fuego, relámpago, veneno o trueno. Realizas una tirada de ataque de conjuro a distancia; si aciertas, el objetivo sufre 3d8 de daño del tipo que elegiste. Requiere un diamante valorado en al menos 50 po como componente material (no se consume).
+
+* **Caída de Pluma (Feather Fall - Lunitari):**
+  * *Tiempo de lanzamiento:* 1 reacción (cuando tú o una criatura a 60 pies o menos cae) | *Alcance:* 60 pies (18 m) | *Duración:* 1 minuto
+  * *Efecto:* Eliges hasta 5 criaturas que estén cayendo a tu alcance. Su velocidad de caída se reduce a 60 pies por ronda hasta que el conjuro termine. Si la criatura llega al suelo antes de que finalice la duración, aterriza de pie y no recibe ningún daño por la caída.
+
+* **Paso Largo (Longstrider - Lunitari):**
+  * *Tiempo de lanzamiento:* 1 acción | *Alcance:* Toque | *Duración:* 1 hora
+  * *Efecto:* Tocas a una criatura. La velocidad de movimiento de ese objetivo aumenta en 10 pies hasta que el conjuro termine.
+
+---
+
+### NIVEL 2 (3 slots)
+
+* **Restablecimiento Menor (Lesser Restoration - LUNA LLENA):**
+  * *Tiempo de lanzamiento:* 1 acción | *Alcance:* Toque | *Duración:* Instantáneo
+  * *Efecto:* Tocas a una criatura y eliminas una enfermedad o una de las siguientes condiciones que la estén afectando: cegado, ensordecido, paralizado o envenenado.
+
+* **Telaraña (Web):**
+  * *Tiempo de lanzamiento:* 1 acción | *Alcance:* 60 pies (18 m) | *Duración:* Concentración, hasta 1 hora
+  * *Efecto:* Creas una masa de telarañas gruesas y pegajosas en un cubo de 20 pies (6 m). El área se considera terreno difícil y está ligeramente oscurecida. Toda criatura que empiece su turno en la telaraña o entre en ella debe superar una tirada de salvación de Destreza o quedar apresada (*restrained*). Para liberarse, la criatura (u otra que la auxilie) puede usar su acción para realizar una prueba de Fuerza contra tu CD de conjuros. Las telas son inflamables (reciben fuego y causan 2d4 de daño de fuego a quienes comiencen su turno en las llamas).
+
+* **==🔵Rayo Abrasador== (Scorching Ray):**
+  * *Tiempo de lanzamiento:* 1 acción | *Alcance:* 120 pies (36 m) | *Duración:* Instantáneo
+  * *Efecto:* Creas tres rayos de fuego y los disparas hacia objetivos a tu alcance (puedes lanzarlos todos al mismo blanco o a blancos diferentes). Realizas un ataque de conjuro a distancia por cada rayo; cada uno que impacte inflige 2d6 de daño de fuego.
+
+* **==🔵Imagen Múltiple== (Mirror Image):**
+  * *Tiempo de lanzamiento:* 1 acción | *Alcance:* Personal | *Duración:* 1 minuto
+  * *Efecto:* Creas 3 duplicados ilusorios en tu mismo espacio (no requiere concentración). Cada vez que una criatura te tome como objetivo de un ataque, tiras un d20: con 3 duplicados un resultado de 6 o más desvía el ataque a una copia; con 2 duplicados un 8 o más; con 1 duplicado un 11 o más. La CA de cada copia es 10 + tu modificador de Destreza. Si un ataque impacta a un duplicado, este queda destruido.
+
+---
+
+### NIVEL 3 (3 slots)
+
+* **Disipar Magia (Dispel Magic - LUNA LLENA):**
+  * *Tiempo de lanzamiento:* 1 acción | *Alcance:* 120 pies (36 m) | *Duración:* Instantáneo
+  * *Efecto:* Eliges una criatura, objeto o efecto mágico dentro del alcance. Cualquier conjuro de nivel 3 o inferior sobre el objetivo finaliza automáticamente. Si el conjuro es de nivel 4 o superior, debes superar una prueba de tu característica de conjuros (CD = 10 + nivel del conjuro objetivo) para ponerle fin.
+
+* **==🔵Bola de Fuego== (Fireball):**
+  * *Tiempo de lanzamiento:* 1 acción | *Alcance:* 150 pies (45 m) | *Duración:* Instantáneo
+  * *Efecto:* Un haz brillante sale disparado de tu dedo hacia un punto elegido y estalla en llamas en una esfera de 20 pies (6 m) de radio. El fuego se propaga por las esquinas e inflama objetos no transportados. Cada criatura en el área debe superar una tirada de salvación de Destreza: sufre 8d6 de daño de fuego si falla, o la mitad si tiene éxito.
+
+* **==🔵Contrahechizo== (Counterspell):**
+  * *Tiempo de lanzamiento:* 1 reacción (cuando ves a una criatura a 60 pies o menos lanzando un conjuro) | *Alcance:* 60 pies (18 m) | *Duración:* Instantáneo
+  * *Efecto:* Interrumpes el proceso de lanzamiento de un conjuro ajeno. Si el objetivo está usando un conjuro de nivel 3 o inferior, su conjuro falla sin surtir efecto. Si es de nivel 4 o superior, superas una prueba de tu característica para lanzar conjuros (CD = 10 + nivel del conjuro) para frustrarlo con éxito.
+
+* **Volar (Fly):**
+  * *Tiempo de lanzamiento:* 1 acción | *Alcance:* Toque | *Duración:* Concentración, hasta 10 minutos
+  * *Efecto:* Tocas a una criatura voluntaria, otorgándole una velocidad de vuelo de 60 pies durante la duración del conjuro. Si el conjuro expira o se rompe la concentración mientras el objetivo todavía está en el aire, la criatura cae a menos que tenga otro medio para mantenerse a flote.
+
 ### Lore:
 Rumi nació en secreto, fruto de la unión prohibida entre [[Althaea de Palanthus]], heredera humana al trono de la capital de Solamnia, y [[Elarion Thalanor]], archimago élfico guardián de los misterios lunares. La noche de su nacimiento, la luna cambió de fase tres veces, señal de un poder que no debía manifestarse.
 
@@ -109,9 +227,9 @@ La ilusión cubre lo visual y auditivo, pero la física y los olores revelan gri
 ---
 
 # El Estallido del Caos
-De repente, una tremenda explosión mágica sacude la plaza principal. La ilusión adapta el evento: el grupo escucha trompetas enemigas y ve a los guardias de "Mersido" lanzando antorchas contra el mercado. En realidad, los Eclipsarios acaban de detonar una bomba para crear el pánico, y quienes corren a apagar el fuego son los verdaderos guardias de [[Althaea]], que a los ojos del grupo parecen matones atacando a civiles.
+De repente, una tremenda explosión mágica sacude la plaza principal. La ilusión adapta el evento: el grupo escucha trompetas enemigas y ve a los guardias de "Mersido" lanzando antorchas contra el mercado. En realidad, los Eclipsarios acaban de detonar una bomba para crear el pánico, y quienes corren a apagar el fuego son los verdaderos guardias de [[Althaea]], que a los ojos del grupo parecen matones atacando a civiles y eclipsarios.
 
-El falso guía grita que la purga final ha comenzado. Les dice que la única forma de salvar a la gente es usar un pasadizo secreto que él conoce para infiltrarse en el castillo, llegar al salón del trono y decapitar al Rey Mersido de una vez por todas.
+El falso guía grita que han descubierto a los eclipsarios, al final su llegada si que llamó la atención, deben infiltrarse en el castillo, llegar al salón del trono y decapitar al Rey Mersido de una vez por todas.
 
 ---
 
@@ -125,8 +243,9 @@ Irrumpen en la sala. Todo parece estar envuelto en estandartes negros. En el cen
 ## El Combate y la Caída de las Máscaras
 1. **El asalto inicial:** Los jugadores se lanzan al combate contra Mersido y sus escoltas.
 2. **La revelación del Rey:** 
-	1. Con cada golpe, una grieta empieza a aparecer delante de Mersido y se mueve con él (En )
-	2. En el segundo o tercer asalto, la magia de ilusión que cubre al "Rey" parpadea y se rompe **como un cristal**. El imponente y malvado Rey Mersido desaparece para revelar a **[[Althaea de Palanthus]]**, mientras que la lider rebelde, sigue tirada en el suelo(Maelis, sigue fingiendo).
+	1. Con cada golpe de rumi hacia mersido, una voz femenina se escucha llamando a rumi
+	2. Si empiezan a sospechar, la ilusion se debilita.
+	3. En el segundo o tercer asalto, la magia de ilusión que cubre al "Rey" parpadea y se rompe **como un cristal**. El imponente y malvado Rey Mersido desaparece para revelar a **[[Althaea de Palanthus]]**, mientras que la lider rebelde, sigue tirada en el suelo(Maelis, sigue fingiendo).
 3. **Maelis falso, grita que es una ilusión, que deben seguir atacando**.
 4. Hordas de soldados les atacan.
 5. Con cada turno que pasa, maelis se va agotando, grietas empiezan a aparecer por todos los alrededores hasta que después de 2 turnos, la ilusion se rompe.

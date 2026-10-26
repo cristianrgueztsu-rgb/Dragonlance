@@ -11,7 +11,103 @@ Pjs. relacionados:
 - Dependiendo de si aday ha extendido la palabra de Lilly o no, cuando peleen contra ella, será más o menos poderosa.
 	- Veces que ha hablado de ella o jodido a los demas: 3
 
-Lore:
+
+
+### Fantasma Jugable
+
+- HP: 40
+- AC: 17
+- Iniciativa: 2
+- 30 velocidad
+- +9 tirada ataque
+- daño: 2d6 + 1d6 + 1d4
+- Spellcasting Ability: 3
+- Spell Save DC: 14
+- Spell Attack Bonus: 6
+- 2 slots de conjuros
+### TRUCOS (NIVEL 0)
+
+* **Taumaturgia (Thaumaturgy):**
+  * *Tiempo de lanzamiento:* 1 acción | *Alcance:* 30 pies (9 m) | *Duración:* Hasta 1 minuto
+  * *Efecto:* Manifiestas un portento sobrenatural menor. Puedes crear hasta 3 efectos simultáneos: amplificar tu voz hasta el triple de su volumen normal por 1 minuto, hacer que las llamas parpadeen o cambien de color, provocar temblores inofensivos en el suelo, crear un sonido instantáneo (como un trueno o susurro), hacer que una puerta o ventana no bloqueada se abra o cierre de golpe, o alterar la apariencia de tus ojos durante 1 minuto.
+
+* ==🔵**Maldición del Filo Maldito (Hexblade's Curse - Rasgo de Subclase):**==
+  * *Tiempo de uso:* 1 acción adicional | *Alcance:* 30 pies (9 m) | *Duración:* 1 minuto (o hasta que el objetivo muera)
+  * *Efecto:* Maldices a una criatura visible. Mientras esté maldita:
+    - Sumas tu bonificador por competencia a las tiradas de daño contra ella.
+    - Consigues un impacto crítico con un resultado de 19 o 20 en el d20 contra ese objetivo.
+    - Si el objetivo muere, recuperas puntos de golpe equivalentes a tu nivel de Brujo + tu modificador de Carisma (9)
+    - Se recarga tras un descanso corto o largo.
+
+* **Descarga Sobrenatural (Eldritch Blast):**
+  * *Tiempo de lanzamiento:* 1 acción | *Alcance:* 120 pies (36 m) | *Duración:* Instantáneo
+  * *Efecto:* Disparas un rayo de energía crepitante hacia una criatura a tu alcance realizando un ataque de conjuro a distancia. Si impactas, infliges 1d10 de daño de fuerza. A niveles 5, 11 y 17 obtienes rayos adicionales (2, 3 y 4 respectivamente) que puedes dirigir al mismo objetivo o a objetivos diferentes.
+
+* **Mano de Mago (Mage Hand):**
+  * *Tiempo de lanzamiento:* 1 acción | *Alcance:* 30 pies (9 m) | *Duración:* 1 minuto
+  * *Efecto:* Creas una mano fantasmal y flotante en un punto elegido. Con tu acción puedes moverla hasta 30 pies y usarla para manipular objetos, abrir puertas o contenedores descerrajados, guardar o sacar objetos de contenedores o verter el contenido de un vial. No puede atacar, activar objetos mágicos ni cargar más de 10 libras (aprox. 4.5 kg).
+
+* **Ilusión Menor (Minor Illusion):**
+  * *Tiempo de lanzamiento:* 1 acción | *Alcance:* 30 pies (9 m) | *Duración:* 1 minuto
+  * *Efecto:* Creas un sonido o una imagen de un objeto (no criaturas) que quepa en un cubo de 5 pies (1.5 m). Si es una imagen, no produce sonido, luz, calor ni olor, y el contacto físico la revela directamente. Una criatura puede usar su acción para examinar la ilusión realizando una prueba de Inteligencia (Investigación) contra tu CD de conjuros para discernir que no es real.
+
+---
+
+### NIVEL 1
+
+* ==🔵**Maleficio (Hex):**==
+  * *Tiempo de lanzamiento:* 1 acción adicional | *Alcance:* 90 pies (27 m) | *Duración:* Concentración, hasta 1 hora (o más al escalarlo)
+  * *Efecto:* Maldices a una criatura. Hasta que termine el conjuro, infliges 1d6 de daño necrótico adicional al objetivo cada vez que lo golpees con un ataque. Además, eliges una característica (Fuerza, Destreza, Constitución, Inteligencia, Sabiduría o Carisma); el objetivo tiene desventaja en todas las pruebas de esa característica. Si el objetivo cae a 0 puntos de golpe antes de que termine el conjuro, puedes usar una acción adicional en un turno posterior para mover la maldición a un nuevo objetivo.
+
+* **Escudo (Shield):**
+  * *Tiempo de lanzamiento:* 1 reacción (al ser alcanzado por un ataque o por el conjuro Proyectil Mágico) | *Alcance:* Personal | *Duración:* 1 ronda
+  * *Efecto:* Creas una barrera mágica invisible que te otorga un bonificador de +5 a la Clase de Armadura (CA) hasta el inicio de tu siguiente turno, incluyendo contra el ataque desencadenante. Además, anula por completo el daño de Proyectil Mágico durante ese tiempo.
+
+* **Texto Ilusorio (Illusory Script):**
+  * *Tiempo de lanzamiento:* 1 minuto (o ritual) | *Alcance:* Toque | *Duración:* 10 días
+  * *Efecto:* Escribes en pergamino o papel. A ti y a cualquier criatura que designes al lanzarlo, el texto les parece normal. Para todos los demás, el escrito parece una escritura ininteligible o un mensaje completamente diferente con una caligrafía distinta que tú elijas. Vista Verdadera permite leer el mensaje real oculto.
+
+---
+
+### NIVEL 2
+
+* **Reprensión Infernal (Hellish Rebuke):**
+  * *Tiempo de lanzamiento:* 1 reacción (en respuesta a recibir daño de una criatura visible a menos de 60 pies) | *Alcance:* 60 pies (18 m) | *Duración:* Instantáneo
+  * *Efecto:* Apuntas con el dedo y la criatura atacante se ve envuelta en llamas infernales. El objetivo debe hacer una tirada de salvación de Destreza: sufre 2d10 de daño de fuego si falla, o la mitad si tiene éxito. El daño aumenta en 1d10 por cada nivel de espacio de conjuro por encima de 1.
+
+* ==🔵**Paso Brumoso (Misty Step):**==
+  * *Tiempo de lanzamiento:* 1 acción adicional | *Alcance:* Personal | *Duración:* Instantáneo
+  * *Efecto:* Rodeado brevemente por una neblina plateada, te teletransportas hasta 30 pies (9 m) a un espacio desocupado que puedas ver. *(En tu hoja figura como obtenido mediante botas mágicas).*
+
+---
+
+### NIVEL 3
+
+* **Arma Elemental (Elemental Weapon):**
+  * *Tiempo de lanzamiento:* 1 acción | *Alcance:* Toque | *Duración:* Concentración, hasta 1 hora
+  * *Efecto:* Tocas un arma no mágica para imbuirla de poder. Mientras dura el conjuro, el arma se vuelve mágica, tiene un bonificador de +1 a las tiradas de ataque y causa 1d4 de daño adicional del tipo que elijas al lanzarlo: ácido, frío, fuego, relámpago o trueno. Con espacios de conjuro de nivel superior aumentan los bonificadores.
+
+* ==🔵**Contrahechizo (Counterspell):**==
+  * *Tiempo de lanzamiento:* 1 reacción (cuando ves a una criatura a 60 pies o menos lanzando un conjuro) | *Alcance:* 60 pies (18 m) | *Duración:* Instantáneo
+  * *Efecto:* Interrumpes el proceso de lanzamiento de conjuros de una criatura. Si está lanzando un conjuro de nivel 3 o inferior, su conjuro falla y no tiene efecto. Si el conjuro es de nivel 4 o superior, debes superar una prueba de tu característica para lanzar conjuros (CD = 10 + nivel del conjuro objetivo); si tienes éxito, el conjuro queda anulado.
+
+* **Oscuridad (Darkness):**
+  * *Tiempo de lanzamiento:* 1 acción | *Alcance:* 60 pies (18 m) | *Duración:* Concentración, hasta 10 minutos
+  * *Efecto:* Emana oscuridad mágica en una esfera de 15 pies (4.5 m) de radio desde un punto elegido (o un objeto que sostengas). La criatura con visión en la oscuridad normal no puede ver a través de ella, y las fuentes de luz no mágica no pueden iluminarla. Si la luz proviene de un conjuro de nivel 2 o inferior, queda disipada. *(En tu hoja figura como rasgo racial de Tiefling).*
+
+* **Forma Gaseosa (Gaseous Form):**
+  * *Tiempo de lanzamiento:* 1 acción | *Alcance:* Toque | *Duración:* Concentración, hasta 1 hora
+  * *Efecto:* Transformas a una criatura voluntaria en una nube vaporosa. Mientras esté en esta forma:
+    - Su única velocidad de movimiento es volar a 10 pies (puede planear).
+    - Puede atravesar grietas diminutas y espacios estrechos sin penalización.
+    - Obtiene resistencia al daño no mágico y ventaja en tiradas de salvación de Fuerza, Destreza y Constitución.
+    - No puede caer y permanece flotando aunque quede incapacitada.
+    - No puede atacar, hablar ni lanzar conjuros.
+
+---
+
+
+### Lore:
 Anima fue abandonado por sus padres a temprana edad, pero al poco tiempo encontró cobijo con un hombre llamado [[Roderic]], un ex-caballero de Solamnia y fiel devoto de [[Lilly La Soñadora]], una misteriosa entidad de increíble poder del Shadowfell. 
 
 Roderic enseñó a Anima a adorar a estos seres. No obstante, Anima admiraba sobre todo a Roderic, quien siempre ayudaba a los demás de manera incondicional, rasgo que Anima heredó... aunque tal vez de manera exagerada.

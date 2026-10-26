@@ -1,7 +1,10 @@
 16/10/2026
 ### Situacion final
 
-- 
+- Fueron a Palanthus, se movieron a traves de la ciudad e ilusiones(sin saberlo)
+- Entraron al mercado negro (Viaducto subterráneo (Pasillo -> donut -> Pasillo -> puerta protegida que lleva a donut subterraneo) y consiguieron el certificado para poder entrar al anillo interior
+- Estalló una represalia por parte de mersido, fueron a la plaza, pelearon con unos guardias
+- entraron al palacio y se quedaron en frente de mersido y una doncella (junto a maelis)
 
 ### TODO para esta sesion:
   
@@ -10,7 +13,6 @@
 ### TODO general:
 
 - Todo lo de [[AA TODO LORE]] y añadirlo a foundry a la vez
-- Ver como junto a [[Jeyev]] de nuevo a la historia. Es alguien con disfraz?
 - Tridin lanzo una piedra y le dio a un barco mercantil, consecuencias?
 - Anima es la putita de Wyhan y tiene la maldicion, que hacer/pedirle?
 
