@@ -256,8 +256,8 @@ Irrumpen en la sala. Todo parece estar envuelto en estandartes negros. En el cen
 
 - Al terminar la pelea
 	- Llegan a la conclusión de que los [[Eclipsarios]] eran un grupo buscando derrocar a la reina. Atan cabos y quedan en que deberán hablar con su padre.
-	- Si lotean a maelis encuentran 3 orbes.
-	- [[Althaea de Palanthus]] les ofrece investigar ese orbe. Descubren que son portales y que ya están ligados a una direccion en silvanesti, sin embargo pueden ser reconfigurados. Si ya se ha visitado un sitio, pueden elegir vincularlo allí.
+	- Si lootean a maelis encuentran 2 orbes.
+	- [[Althaea de Palanthus]] les ofrece investigar ese orbe. Descubren que son portales y que 1 ya está ligado a una direccion en silvanesti, sin embargo pueden ser reconfigurados. Si ya se ha visitado un sitio, pueden elegir vincularlo allí.
 		- Duran 5 min despues de usarlos
 
 
