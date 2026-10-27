@@ -243,15 +243,15 @@ Irrumpen en la sala. Todo parece estar envuelto en estandartes negros. En el cen
 ## El Combate y la Caída de las Máscaras
 1. **El asalto inicial:** Los jugadores se lanzan al combate contra Mersido y sus escoltas.
 2. **La revelación del Rey:** 
-	1. Con cada golpe de rumi hacia mersido, una voz femenina se escucha llamando a rumi
+	1. Con cada golpe de rumi hacia mersido, una voz femenina se escucha llamando a rumi y una masculina la insulta
 	2. Si empiezan a sospechar, la ilusion se debilita.
 	3. En el segundo o tercer asalto, la magia de ilusión que cubre al "Rey" parpadea y se rompe **como un cristal**. El imponente y malvado Rey Mersido desaparece para revelar a **[[Althaea de Palanthus]]**, mientras que la lider rebelde, sigue tirada en el suelo(Maelis, sigue fingiendo).
 3. **Maelis falso, grita que es una ilusión, que deben seguir atacando**.
-4. Hordas de soldados les atacan.
-5. Con cada turno que pasa, maelis se va agotando, grietas empiezan a aparecer por todos los alrededores hasta que después de 2 turnos, la ilusion se rompe.
-6. **La revelación del Guía:** Conmocionados, los jugadores se giran hacia el compañero que los trajo hasta aquí, el "Maelis" que los guió. Este comienza a reír a carcajadas mientras su apariencia se derrite, revelando ser **[[Jeyev]]**.
-7. **El rehén:** Se levanta del suelo y se tpea al trono, visiblemente cansado "Rumi, nos has decepcionado, esperabamos que fueras mucho más eficaz a estas alturas. Parece que realmente no estás preparada para el destino que se te prometió. Es una pena que no pudieras cumplir con tu unico cometido, asi que permitenos liberarte ser una carga para todos"
-8. Maelis falso muestra ser Jeyev y les ataca
+4. Con cada turno que pasa, maelis se va agotando, grietas empiezan a aparecer por todos los alrededores hasta que después de 2 turnos, la ilusion se rompe.
+5. Todo a su alrededor se muestra como es
+	1. **La revelación del Guía:** Conmocionados, los jugadores se giran hacia el compañero que los trajo hasta aquí, el "Maelis" que los guió. Este se muestra confundido mientras su apariencia se derrite, revelando ser **[[Jeyev]]**.
+	2. **El rehén:** Se levanta del suelo y se tpea al trono, visiblemente cansado "(jadeando) Rumi, remata a Althaea. ¿No ves todo el dolor que ha causado en tu padre? OS ABANDONÓ, ¡en medio de las invasiones te dejó a tu suerte en un reino en guerra! Tu padre tuvo que criarte a pesar de ser un recordatorio constante de que la mujer que una vez amó, decidió anteponer su lugar como futura reina ANTES QUE A USTEDES"
+6. Maelis falso muestra ser Jeyev y les ataca
 
 
 - Al terminar la pelea
