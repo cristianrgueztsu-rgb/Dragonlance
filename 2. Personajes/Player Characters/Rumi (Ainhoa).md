@@ -39,7 +39,7 @@ Uso (acción adicional) -> Canjear por espacios de conjuro y/o sacrificar espaci
 
 - Conjuro Acelerado: Cuando lanzas un conjuro con un tiempo de lanzamiento de 1 acción, puedes gastar 2 puntos de hechicería para hacer que el tiempo de lanzamiento sea solo de 1 acción adicional a efectos de este lanzamiento.
 
-- Conjuro Gemelo: Cuando lanzas un conjuro que tiene como objetivo a una sola criatura y el target es otra criatura, puedes gastar tantos puntos de hechicería como el nivel del conjuro para elegir también como objetivo del mismo conjuro a una segunda criatura dentro del alcance (1 punto de hechicería si el conjuro es un truco).Para que un conjuro pueda beneficiarse de esta opción, este debe ser incapaz de escoger más de un objetivo al nivel al que lo lanzas. Así, proyectil mágico y rayo abrasador no podrían verse afectados por Conjuro Gemelo, pero rayo de escarcha y orbe cromático sí.
+- Conjuro Gemelo: Cuando lanzas un conjuro que tiene como objetivo a una sola criatura y el rango=distancia, puedes gastar tantos puntos de hechicería como el nivel del conjuro para elegir también como objetivo del mismo conjuro a una segunda criatura dentro del alcance (1 punto de hechicería si el conjuro es un truco).Para que un conjuro pueda beneficiarse de esta opción, este debe ser incapaz de escoger más de un objetivo al nivel al que lo lanzas. Así, proyectil mágico y rayo abrasador no podrían verse afectados por Conjuro Gemelo, pero rayo de escarcha y orbe cromático sí.
 
 ### TRUCOS (NIVEL 0)
 
