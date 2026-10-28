@@ -24,7 +24,7 @@ Pjs. relacionados:
 - Spell Save DC: 15
 - Spell Attack Bonus: 7
 ### Ptos Hechiceria
-Puntos de Hechicería: 6
+Puntos de Hechicería: 3
 Uso (acción adicional) -> Canjear por espacios de conjuro y/o sacrificar espacios de conjuro para obtener puntos de hechicería.
 
  Nv espacio de conjuro - Coste en puntos de hechicería
@@ -109,7 +109,7 @@ Uso (acción adicional) -> Canjear por espacios de conjuro y/o sacrificar espaci
 
 ---
 
-### NIVEL 3 (3 slots)
+### NIVEL 3 (3 slots) X
 
 * **Disipar Magia (Dispel Magic - LUNA LLENA):**
   * *Tiempo de lanzamiento:* 1 acción | *Alcance:* 120 pies (36 m) | *Duración:* Instantáneo

@@ -20,7 +20,7 @@ Pjs. relacionados:
 - Iniciativa: 2
 - 30 velocidad
 - +9 tirada ataque
-- daño: 2d6 + 1d6 + 1d4
+- daño: 2d6 + 1d6 + 1d4 +3
 - Spellcasting Ability: 3
 - Spell Save DC: 14
 - Spell Attack Bonus: 6

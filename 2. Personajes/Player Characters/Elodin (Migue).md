@@ -30,7 +30,7 @@ Ispin les acompañó un tiempo viajando con ellos de pueblo en pueblo, ajeno a l
 - Spell Save DC: 15
 - Spell Attack Bonus: 7
 - ==🔵Inspiración Bardica== (A.A) 4 usos. 1d8 (se puede sumar a cualquier cosa menos daño)
-- ==🔵Palabras cortantes==; Puedo gastar un uso de mi inspiración bardica para restar el numero obtenido del resultado de la tirada de la criatura (1d8) (tirada de ataque, una prueba de característica o una tirada de daño) (No tiene efecto sobre la criatura si esta no puede escucharte o si es inmune a ser hechizada.)
+- ==🔵Palabras cortantes==; (R) Puedo gastar un uso de mi inspiración bardica para restar el numero obtenido del resultado de la tirada de la criatura (1d8) (tirada de ataque, una prueba de característica o una tirada de daño) (No tiene efecto sobre la criatura si esta no puede escucharte o si es inmune a ser hechizada.)
 - Contraencantamiento: interrumpir los efectos que afecten a la mente. Puedes usar una acción para empezar una actuación que dura hasta el final de tu siguiente turno. Durante ese tiempo, cualquier criatura amistosa que se encuentre dentro de un radio de 30 pies y tú tenéis ventaja en cualquier tirada de salvación para no quedar asustados o hechizados. Las criaturas deben ser capaces de oírte para obtener este beneficio. La actuación acaba antes si quedas incapacitado o silenciado, o si la acabas voluntariamente (lo cual no requiere una acción).
 
 ### TRUCOS (NIVEL 0)
